@@ -6,9 +6,9 @@ To view a list of all {{work}} records, click on '{{Work}}' on the main menu, ho
 
 ![{{Work}} records list]({{imgpath}}59a.png)
 
-__Restrict by date and work area__
+This lists all {{work}} records occurring within a set date range, ordered by daten with the most recent showing at the top.  The default range of dates shown, can be set in your 'Personal Settings', and can be different for each individual.  We recommend speaking to your system administrator before making changes.
 
-This lists all {{work}} records occurring in the last month, ordered by date with the most recent showing at the top.  The records shown will be restricted by date.  The default range of dates shown, can be set in your 'Personal Settings', and can be different for each individual.  We recommend speaking to your system administrator before making changes.
+__Restrict by date and work area__
 
 To restrict the listing to particular dates or {{workarea}}s, click the search bar or the '+' icon on the right of the search bar, and search options will appear. Change the details and click the 'fetch data' button and the table will update showing the requested information.
 
