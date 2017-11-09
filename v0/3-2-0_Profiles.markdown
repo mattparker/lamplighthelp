@@ -2,7 +2,7 @@
 
 > Every {{person}} in {{Lamplight}} has their own profile. 
 
-Every individual and every organisation has a profile. This holds all the information that relates to that {{person}}. To see the profile for a particular {{person}}, start typing their name in the search box on the top right hand corner of your screen, when they appear on the drop-down list, click their name.
+Every individual and every organisation has a profile. This holds all the information that relates to that {{person}}. To see the profile for a particular {{person}}, start typing their name in the search box on the top right hand corner of your screen, when they appear on the drop-down list, click their name.  You can search by name, postcode or Lamplight ID number.
 
 ![{{Lamplight}} search as you type]({{imgpath}}4a.png)
 
