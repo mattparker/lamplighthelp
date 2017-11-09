@@ -6,7 +6,7 @@ __Through the '{{linked case}} View' tab.__
 
 If you scroll down to the botton of this tab, you'll see a section called 'Create a new {{linked Case}}'.
 
-This will include the case name, (which is often the name of the {{user}}), and the date.  You may have additional optins which you can choose, and which you may complete at different stages of the case. Complete any which are relevent.  You can also make any notes about the {{linked case}} in the '{{Linked case}} description'.
+This will include the case name, (which is often the name of the {{user}}), and the date.  You may have additional options which you can choose, and which you may complete at different stages of the case. Complete any which are relevent.  You can also make any notes about the {{linked case}} in the '{{Linked case}} description'.
 
 Once you have completed the details, use the save button to save the case.
 
