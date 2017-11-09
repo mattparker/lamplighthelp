@@ -2,7 +2,11 @@
 
 > The When and where tab stores information about when and where the {{referral}} happened. 
 
-The date and {{workarea}} fields on the when and where tab are required, and the date to must be after the date from. When selecting a {{workarea}}, you must select one {{workarea}}, and any number of {{subworkarea}}s. To add a {{workarea}}, click on the button and choose from the options. 
+On a referral record, it's required to complete the date and {{workarea}} fields on the when and where tab.  The 'date to' and time must always by the same, or after the 'date from'. 
+
+When selecting a {{workarea}}, you must select one {{workarea}}, and may select any number of {{subworkarea}}s. To add a {{workarea}}, simply click on the {{workarea}} you require, and then choose the {{subworkarea}}/s.
+
+You can also choose a location if relevant to your referral / organisation.
 
 ![When the {{referral}} happened]({{imgpath}}193a.png) 
 
