@@ -8,6 +8,8 @@ On the main menu go to {{Group}}s -> Add -> Add {{auto group}} and you will see 
 
 **{{Group}} name tab**: The first thing that you need to do on this screen is to give your {{group}} a name and a description.  Choose something that makes it clear who your {{group}} is made up of as these fields are used to remind you and other users of what the {{group}} is for. Both are required fields. There is also a tick box to allow you to 'lock' the group. This means that only you will be able to edit the {{group}} once it has been created.
 
+There is a 'Lock {{group}} option here.  This allows you to lock the group so that only you can change the group.  We suggest using this cautiously.
+
 The next step is to use the tabs at the top of the page to select which types of data you would like to use to filter your {{group}}.  Explanations of the filters each tab contains are given below.  Once you have finished choosing filters, your {{group}} will include {{people}} or organisations that meet **ALL** the criteria you have entered. 
 
 * Note on numeric and date comparisons.  In {{Lamplight}} numeric and date comparisons are inclusive (for example if you specify the date as 1st January to 15th February 2018, {{Lamplight}} will include 1st January and 15th February in the date range filter).
