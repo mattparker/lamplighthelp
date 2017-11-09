@@ -19,6 +19,7 @@ To view a {{work}} record right click on the row in the table showing the {{work
   * View full details - opens the {{work}} record in a popup window.
   * Edit - opens the data entry window where you can change the details of the {{work}} or add new attendees. (See section [9.1.0  Adding a {{work}} record](/help/index/v/{{version}}/p/9.1.0) )
   * Delete - removes the {{work}} record from the system
+  * Duplicate - creates an exact copy of the work record, which you can then ammend as you like.  This can be useful if you are creating a similar record for a different date.  Be aware this will copy all content, including notes in the Details tab.
   * Link to {{linked case}} - allows you to add this {{work}} record to a series of records linked together into a {{linked case}}. (See section [13.0.0  {{Linked case}}s](/help/index/v/{{version}}/p/13.0.0) for more on {{linked case}}s)
   * Follow up {{linked case}} - allows you to link a new {{work}} record to this one to add more to a {{linked case}}.
   * Remove link to {{linked case}} - means you can remove this {{work}} record from a {{linked case}}.
