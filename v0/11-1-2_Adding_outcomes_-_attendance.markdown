@@ -1,4 +1,4 @@
-# 11.1.2    Adding {{outcome}}s - attendance
+# 11.1.2    Adding {{outcome}}s - attendance (Respondent)
 
 > Enter details of who the {{outcome}}(s) involve. 
 
@@ -17,6 +17,13 @@ You can also add members of a {{group}} in bulk: start typing the name of the {{
 To alter the role for a particular {{person}}, click on the table cell and a drop-down box will appear. Select the appropriate option. Your system administrator can add options to these lists (see section [18.2.0  System Administration - Lists](/help/index/v/{{version}}/p/18.2.0) ).
 
 To remove someone added in error, click the delete box - the right-hand table cell of the row you wish to delete. This will check and then remove them from the table. 
+
+__Simple attendance table__
+
+Some systems will use the simple attandance table, which is differentiated by the tab being called Respondent.  This follows the same principle, but gives you two simple options as below.  (The simple setting can be selected in Global settings by your system administrator.) 
+
+![Adding indiviuals to a 'Simple' attendance table in an {{outcome}} record]({{imgpath}}209a.png)
+
 
 ###### core module
 
