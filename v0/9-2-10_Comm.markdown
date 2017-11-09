@@ -6,7 +6,7 @@ To communicate with the attendees of a {{work}} record, click '{{comm}}' on the 
 
 It will also allow you to use the details on the {{work}} records as merge fields. 
 
-Click on the '{{message}} content' tab and within the text editing toolbar a 'happen merge' (i.e. merge information about what happened) drop-down option is available. Select the fields you wish to be inserted into your {{comm}}. This will take the details entered from the {{work}} record. 
+Click on the 'message content' tab and within the text editing toolbar a 'happen merge' (i.e. merge information about what happened) drop-down option is available. Select the fields you wish to be inserted into your {{comm}}. This will take the details entered from the {{work}} record. 
 
 ![Communicating with {{work}} record attendees]({{imgpath}}69a.png) 
 
