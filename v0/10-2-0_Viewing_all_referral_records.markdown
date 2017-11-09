@@ -6,7 +6,7 @@ The {{referral}}s list shows additional information, including the referrer, and
 
 ![Viewing {{referral}}s]({{imgpath}}196a.png)
 
-This lists all {{referral}} records occurring withi a set date range, ordered by date with the most recent showing at the top.The default range of dates shown, can be set in your 'Personal Settings', and can be different for each individual.  We recommend speaking to your system administrator before making changes.
+This lists all {{referral}} records occurring within a set date range, ordered by daten with the most recent showing at the top.  The default range of dates shown, can be set in your 'Personal Settings', and can be different for each individual.  We recommend speaking to your system administrator before making changes.
 
 __Restrict by date and work area__
 
