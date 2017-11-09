@@ -12,7 +12,7 @@ This shows the {{outcome}}s information for this {{person}} only. The radar diag
 
 The 'data-entry' table lists all the {{outcome}}s down the right, and then months along the top. You can click a single cell, or existing score, to add or edit an {{outcome}}. The right-most column lets you add several {{outcome}}s at once; enter the scores, and then at the bottom of the table set the date and {{workarea}} and click to save.
 
-The table view shows the date of the {{outcome}}, a summary of the result, and the {{linked case}}s it is attached to are displayed in the table.
+The table view at the bottom of the page shows the date of the {{outcome}}, a summary of the result, and the {{linked case}}s it is attached to are displayed in the table.
 
 The order in which the records are displayed can be changed by clicking on the column headings. The default setting for viewing outcomes is 5 to a page but more or less can be viewed at once by choosing an option from the select box. Alternatively you can use the numbers to move through the records.
 
