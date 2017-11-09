@@ -6,15 +6,13 @@ The {{referral}}s list shows additional information, including the referrer, and
 
 ![Viewing {{referral}}s]({{imgpath}}196a.png)
 
-This lists all {{referral}} records that have occurred within a recent period of time, ordered by date with the most recent showing at the top. (The default date ranges can be changed by your system administrator).  
+This lists all {{referral}} records occurring withi a set date range, ordered by date with the most recent showing at the top.The default range of dates shown, can be set in your 'Personal Settings', and can be different for each individual.  We recommend speaking to your system administrator before making changes.
 
 __Restrict by date and work area__
 
-This lists all {{work}} records occurring in the last month, ordered by date with the most recent showing at the top.  The records shown will be restricted by date.  The default range of dates shown, can be set in your 'Personal Settings', and can be different for each individual.  We recommend speaking to your system administrator before making changes.
-
 To restrict the listing to particular dates or {{workarea}}s, click the search bar or the '+' icon on the right of the search bar, and search options will appear. Change the details and click the 'fetch data' button and the table will update showing the requested information.
 
-![Searching for particular {{work}} records]({{imgpath}}59b.png)
+![Searching for particular {{referral}} records]({{imgpath}}206a.png)
 
 __Restrict by custom fields__
 
