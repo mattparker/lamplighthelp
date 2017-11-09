@@ -6,15 +6,9 @@ The date and {{workarea}} fields on the when and where tab are required.
 
 When selecting a {{workarea}}, you must select one {{workarea}}, and any number of {{subworkarea}}s. To add a {{workarea}}, click on the button and choose from the options
 
-![Adding a {{workarea}} to the {{outcome}} record]({{imgpath}}75a.png)
+Add a {{Workarea}} and {{sunworkareas}} in the same way as in a work record.  See [9.1  Where and Where, work areas](/help/index/v/{{version}}/p/9.1)).
 
-To add a {{subworkarea}}, click on the button, hover over the {{workarea}} until the submenu appears, and click on the {{subworkarea}}. It will appear below the {{workarea}} text on the button.
-
-![Selecting a {{subworkarea}}]({{imgpath}}75b.png)
-
-To add another {{subworkarea}}, just repeat. If you add a {{subworkarea}} from a different {{workarea}}, it will remove the selections you have already made.
-
-You can select as many locations as necessary. 
+You can select locations as necessary. 
 
 ###### core module
 
