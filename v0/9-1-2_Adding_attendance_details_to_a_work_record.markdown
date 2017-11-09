@@ -22,6 +22,12 @@ To remove someone added in error, click the delete box - the right-hand table ce
 
 You can also add the number of people that attended who are unknown to you: a large public event, for example. Just add the number of people in the final field 'Number of unknown attendees'. 
 
+On some systems, there will be an option to 'Update all rows' for each column, underneath the last person in the attendance table.  Using this will update every {{person}} or {{organisation}} in the table with the option you choose.  Select the opton you wish to change, and then click 'Update all rows'.  For example, you could change all rows to 'Attended', or add a note for each person.
+
+![Upadating all rows in the {{work}} record Attendance table.]({{imgpath}}204a.png)
+
+
+
 [View the video](/help/video/id/9)
 ###### core module
 
