@@ -15,7 +15,8 @@ The following options are available in the context menu:
   * Remove link to {{linked case}} - means you can remove this {{comm}} from the {{linked case}} it is linked to.
  * Close {{linked case}} - flags the {{linked case}} as closed
   * Re open {{linked case}} - will open a {{linked case}} that has previously been closed.
-  * View case details
+* View {{linked case}} details - takes you to a screen to see the details of the {{linked case}} itself.
+* Edit {{link case}} allows you to edit the details of the {{linked case}} itself.
 
 You can also create or log {{comm}}s with the {{person}} you are viewing: click the 'Create communication' or 'Log communication' buttons in the top or bottom right hand corner (see sections [12.1.0  Creating a {{comm}}](/help/index/v/{{version}}/p/12.1.0) and [12.2.0  Logging {{comm}}s](/help/index/v/{{version}}/p/12.2.0) respectively). 
 
