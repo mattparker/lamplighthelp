@@ -6,13 +6,13 @@ To view a list of all {{work}} records, click on '{{Work}}' on the main menu, ho
 
 ![{{Work}} records list]({{imgpath}}59a.png)
 
-This lists all {{work}} records occurring in the last month, ordered by date with the most recent showing at the top.
+This lists all {{work}} records occurring in the last month, ordered by date with the most recent showing at the top.  The records shown will be restricted by date.  The default range of dates shown, can be set in your 'Personal Settings', and can be different for each individual.  We recommend speaking to your system administrator before making changes.
 
-To restrict the listing to particular dates or {{workarea}}s, click the '+' icon on the right of the search bar, and search options will appear. Change the details and click the 'fetch data' button and the table will update showing the requested information.
+To restrict the listing to particular dates or {{workarea}}s, click the search bar or the '+' icon on the right of the search bar, and search options will appear. Change the details and click the 'fetch data' button and the table will update showing the requested information.
 
 ![Searching for particular {{work}} records]({{imgpath}}59b.png)
 
-If you wish to download the information you have searched for into a spreadsheet, click the 'Download data' button at the bottom of the table'.
+If you wish to download the information you have searched for into a spreadsheet, click the 'Download' button at the bottom of the table'.
 
 The context menu for the table has a number of options: right-click on a row of the table or use the menu button to see these. Some will be disabled, depending on the {{work}} record and your permission level within the system.. 
 
