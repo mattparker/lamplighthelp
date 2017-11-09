@@ -10,7 +10,13 @@ In most systems that uses {{Linked case}}'s, you'll find details of a {{person}}
 
 !['{{Linked case}} View' tab}}]({{imgpath}}207a.png)
 
-Different types of record can be linked together to form a single {{linked case}}. For example, one {{linked case}} may consist of 4 {{work}} records; some {{outcome}} measures; and a couple of {{comm}}s (if you have the {{comm}}s module). To link a particular record to a {{linked case}}, use the options on the right-click context menu.
+__Using {{Linked case}}'s__
+
+You can link many different types of record to a case.  For example, one {{linked case}} may consist of 4 {{work}} records; some {{outcome}} measures; and a couple of {{comm}}s (if you have the {{comm}}s module)  You can do this, either by creating the record from within the {{linked case}} View tab, or by linking a record afterwards.
+
+To create a record from within the {{Linked case}} View tab, goto a profile, and click on the {{Linked case}} Vew tab.  As shown below, from here you can choose the type of record to create.  Click on the appropriate button, and create the record as you would normallu.
+
+Alternativly you can link a record to a case by creating the record normally, and viewing them in the record view, and then using the option on the right click context mentu, or menu link on the left of each row, to link to the case.  You can also do this with existing records.  Details shown in the next page.
 
 ![Linking a record to a {{linked case}}]({{imgpath}}94a.png)
 
