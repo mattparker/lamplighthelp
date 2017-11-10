@@ -11,7 +11,7 @@ Further details about operator roles can be seen in section [18.6.2  System Admi
 __copying personal settings__
 You can choose to copy personal settings from another member of staff.  When setting up a system your implementor is likely to have changed personal settings to give you the experience you recognise.  It's normal when creating a new user to copy personal settings from another member of staff.  You can read more about personal settings at: [18.12.0  My personal settings - customising {{Lamplight}}](/help/index/v/{{version}}/p/18.12.0). 
 
-When you click 'save' to create the new operator, they will be emailed their new password and login details. The system will also create a profile for that person, setting them as a member of {{staff}}. To view this profile click 'View file' on the context menu. See section [8.3.0  Profiles](/help/index/v/{{version}}/p/8.3.0) for more about profiles. 
+When you click 'save' to create the new operator, they will be emailed their new password and login details. The system will also create a profile for that person, setting them as a member of {{staff}}. To view this profile click 'View full details' on the context menu. See section [8.3.0  Profiles](/help/index/v/{{version}}/p/8.3.0) for more about profiles. 
 
 __Password issues__
 
