@@ -6,7 +6,7 @@ To view a list of all {{work}} records, click on '{{Work}}' on the main menu, ho
 
 ![{{Work}} records list]({{imgpath}}59a.png)
 
-This lists all {{work}} records occurring within a set date range, ordered by daten with the most recent showing at the top.  The default range of dates shown, can be set in your 'Personal Settings', and can be different for each individual.  We recommend speaking to your system administrator before making changes.
+This lists all {{work}} records occurring within a set date range, ordered by date with the most recent showing at the top.  The default range of dates shown, can be set in your 'Personal Settings', and can be different for each individual.  We recommend speaking to your system administrator before making changes.
 
 __Restrict by date and work area__
 
@@ -24,7 +24,7 @@ The second search bar is called 'Additional data columns to display'.  This does
 
 __Saving your view__
 
-You can adjust the columns shown in the table, by right clicking in the headings row of the table.  This will show you a list of rows.  Ticked rows are shown, and unticked rows are hidden.  You can change this by clicking on the item you wish to show or hide. If you wish to make that change the default view, click again and from the bottom of the opo-up list, choose 'Save table columns layout'.  This will now be shown as the default view for you.  This only affects you, and not the rest of your team.  Choose 'Reset table columns layout' to return to the system standard.  (If you have added additional columns from the 'Additional data columns to display' view, these can also be saved.)
+You can adjust the columns shown in the table, by right clicking in the headings row of the table.  This will show you a list of rows.  Ticked rows are shown, and unticked rows are hidden.  You can change this by clicking on the item you wish to show or hide. If you wish to make that change the default view, click again and from the bottom of the pop-up list, choose 'Save table columns layout'.  This will now be shown as the default view for you.  This only affects you, and not the rest of your team.  Choose 'Reset table columns layout' to return to the system standard.  (If you have added additional columns from the 'Additional data columns to display' view, these can also be saved.)
 
 __Downloading and printing the table__
 
@@ -32,7 +32,7 @@ If you wish to download the information you have searched for into a spreadsheet
 
 __The context menu__
 
-The context menu for the table has a number of options: right-click on a row of the table or use the menu button to see these. Some will be disabled, depending on the {{work}} record and your permission level within the system.. 
+The context menu for the table has a number of options: right-click on a row of the table or use the menu button to see these. Some will be disabled, depending on the {{work}} record and your permission level within the system.
 
 ###### core module
 
