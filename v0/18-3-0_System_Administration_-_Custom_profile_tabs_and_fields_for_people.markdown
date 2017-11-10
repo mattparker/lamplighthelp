@@ -20,6 +20,8 @@ To add a new tab, click on the 'click to add' button. The central panel will dis
 
 To add the tab, double- click on the 'Tab label: click to add' text. A pop-up window will appear, allowing you to set the basic details of the tab.
 
+__Important__  If you set-up a new tab, and then leave System Administration witout entering at least one field, the tab will appear on your system, but will not be availabel to populate in the System Administration menu.  To fix this you will need to contact Lamplight.  Always add a field to a new tab, even if only a temporary one, which you can remove later when others are added.
+
 ![Setting the tab name]({{imgpath}}146c.png)
 
 Give the tab a name (this is what will appear on the tab in the profile). Select who this tab should appear for, and if you have multiple {{project}}s, you can choose which {{project}}s the tab will be available for. Click the 'save' button in the bottom right hand corner. The main page will update itself, showing the information you have just entered.
