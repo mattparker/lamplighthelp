@@ -1,3 +1,5 @@
+# 17.1.1    Creating {{report}} templates
+
 You can also create {{report}} templates for each different type of {{report}}, from within the System Administration menu.  You'll need to be a System Administrator to do this.
 
 Once created these {{report}}s are shown when you goto create a {{report}} from the main menu.  The templates you have created are shown as dropdown options, and a new option is added for a non-template report.  For example, 'Custom {{work}} report'.
