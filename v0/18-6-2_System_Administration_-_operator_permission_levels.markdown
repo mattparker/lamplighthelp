@@ -4,7 +4,7 @@
 
 {{Lamplight}} has the following permission levels for database operators, that control what they may see and do. Some of these options will depend on your system configuration.
 
-  * Receptionist: intended for occasional, low level staf. Operators can add records and edit their own records. Within profiles they are only able to view the contact details, relationship, {{work}} records and {{eval}}s tabs. They are unable to work with {{group}}s, {{outcome}}s, {{comm}}s or run {{report}}s.
+  * Receptionist: intended for occasional, low level staff. Operators can add records and edit their own records. Within profiles they are only able to view the contact details, relationship, {{work}} records and {{eval}}s tabs. They are unable to work with {{group}}s, {{outcome}}s, {{comm}}s or run {{report}}s.
   * Data entry: intended for basic data entry use. Operators can add {{user}}s and {{work}} records, but may only view edit records they have created. They cannot create {{group}}s, {{comm}}s, or delete data.
   * Staff: intended for general staff members. Operators can do everything that 'data entry' operators can, and can also: create {{comm}}s, view {{report}}s, work with {{group}}s, and create Excel exports.
   * Manager: can do everything that '{{Staff}}' operators can, but can also delete records.
