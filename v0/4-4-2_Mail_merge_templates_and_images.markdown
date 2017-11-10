@@ -14,7 +14,7 @@ If you have the {{comm}}s module and you create a {{comm}} originating from a re
 
 ![Mail merge {{comm}} module]({{imgpath}}22b.png)
 
-The 'happen merge' fields will insert information about the thing that happened ({{work}} record, {{outcome}} etc) to those people.
+The 'happen merge' fields will insert information about the thing that happened ({{work}} record, {{outcome}} etc) to those people.  These fields will only work, of you have come to the communication record from the 'happening' ({{work}}, {{Referral}} record etc, of that type)
 
 The document templates in the {{comm}} module, are standard letters (or parts of letters) that can be set up for the organisation as a whole. To use a template, simply select the name of the template from the menu. See section [18.8.0  {{Comm}} templates](/help/index/v/{{version}}/p/18.8.0) for more information about document templates.
 
