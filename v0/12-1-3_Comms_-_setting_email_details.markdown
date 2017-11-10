@@ -4,7 +4,17 @@
 
 If you are sending emails, you will need to complete the additional email fields.
 
-You can give the email a subject title in the text box and ensure the correct email address is being used to send the email from. By default this will be the email address you use to log in to {{Lamplight}} with. This will be the email address the recipients will see as the sender and if they click to reply to the email, it will where their reply is sent to. Please note that emails are sent through {{Lamplight}} and therefore a copy of the email won't be in the sent items of your separate email system (for example Outlook). 
+Emails are sent through your own email system (We have a handbook to support this), and will appear in your outbox.  Replies will be sent to your own email.
+
+You can give the email a subject title in the text box.
+
+You can also choose how to send out your email.
+
+1. A separate personalised email.  This will send an email in which you can mail merge the names of the recipients and other identifying information into the email.  We strongly recommend you only use this for emails with a smaller number of particpants, or without attachments.
+
+2. A single email copied (cc) to all recipients.  This will send the same email to everyone.  Using the C.C. (Carbon copy) option means that all the recipients will see the email addresses of the other recipients.  This is often not appropariate for mailings outside of your immediate organisation.  You can still mail-merge information that will go to everyone.
+
+3. A single email blind copied (bcc) to all recipients.  This is the option to use if you do not wish email recipients to see who else has recieved the email, and their email address.  This is standard practice for mailings and email to groups of people who will not have this information already. 
 
 Within this section you can also choose whether to send multiple, individual emails, or a single one cc or bcc-ed to everyone. If you are sending to a large number of recipients, and particularly if there are attachments, we strongly recommend that you send a single email. {{Lamplight}} is not designed as a mass- marketing tool, and large volumes of large emails create problems with our mail delivery servers. 
 
