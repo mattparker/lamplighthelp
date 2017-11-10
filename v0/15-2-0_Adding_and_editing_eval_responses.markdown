@@ -2,7 +2,7 @@
 
 > To add the responses to a particular {{eval}}, go to {{Work}}-> Add-> {{Eval}}s-> and click on the {{eval}} you wish to enter information for. 
 
-To add the responses to a particular {{eval}}, go to {{Work}}-> Add-> {{Eval}}s-> and click on the {{eval}} you wish to enter information for. The following screen will appear:
+To add the responses to a particular {{eval}}, go to {{Work}}-> Add new-> {{Eval}}s-> and click on the {{eval}} you wish to enter information for. The following screen will appear:
 
 ![Adding an {{eval}}]({{imgpath}}117a.png)
 
