@@ -20,7 +20,7 @@ To remove someone added in error, click the delete box - the right-hand table ce
 
 __Simple attendance table__
 
-Some systems will use the simple attandance table, which is differentiated by the tab being called Respondent.  This follows the same principle, but gives you two simple options as below.  (The simple setting can be selected in Global settings by your system administrator.) 
+Some systems will use the simple attendance table, which is differentiated by the tab being called Respondent.  This follows the same principle, but gives you two simple options as below.  (The simple setting can be selected in Global settings by your system administrator.) 
 
 ![Adding indiviuals to a 'Simple' attendance table in an {{outcome}} record]({{imgpath}}1209a.png)
 
