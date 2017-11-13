@@ -82,6 +82,8 @@ __Adding fields to a system standard tab__
 
 All records have the tabs 'Where and Where', 'Attendance', ( this may be called 'respondent' or 'Involved' in some cases), and Details.  You can add additional fields to these tabs, by 'creating' them in System Admin.  Create a field with the correct name as below, (Capitalisation is essential), and add fields to it.  You will be able to come back and edit/remove these fields, but will not see any of the standard fields.  These can only be changed by Lamplight.  Use the appropriate, correctly capitalised name as below.
 
+![System Admin - adding fields to system tabs]({{imgpath}}1221a.png)
+
 _{Work}} records_
 When and where
 Attendance
