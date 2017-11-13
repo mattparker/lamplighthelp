@@ -4,10 +4,10 @@
 
 Once you have deleted a profile, they are archived in the system. This means that the work you have done with them will be included in reports. These profiles can be re-instated from the archive, my a user of Manager level and above.
 
-__Undelting a profile__
+__Undeleting a profile__
 From the main Menu, choose People -> View -> {{user}} (or different role as appropriate.) -> All
 
-Click in the large search bar. If you have permission to undelete you'll see three options, the middle of which is labeled 'Limit list to'.
+Click in the large search bar. If you have permission to undelete you'll see three options, the middle of which is labelled 'Limit list to'.
 In this select box, choose 'Deleted People' and then press the 'Fetch Data' button.
 
 ![Find deleted profiles]({{imgpath}}1202a.png)
