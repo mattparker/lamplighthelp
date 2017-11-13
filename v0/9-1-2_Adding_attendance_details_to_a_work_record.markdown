@@ -24,7 +24,7 @@ You can also add the number of people that attended who are unknown to you: a la
 
 On some systems, there will be an option to 'Update all rows' for each column, underneath the last person in the attendance table.  Using this will update every {{person}} or {{organisation}} in the table with the option you choose.  Select the opton you wish to change, and then click 'Update all rows'.  For example, you could change all rows to 'Attended', or add a note for each person.
 
-![Upadating all rows in the {{work}} record Attendance table.]({{imgpath}}204a.png)
+![Upadating all rows in the {{work}} record Attendance table.]({{imgpath}}1204a.png)
 
 
 
