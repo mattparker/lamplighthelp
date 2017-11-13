@@ -8,6 +8,11 @@ To publish a {{work}} record, you will need to start by creating a {{work}} reco
 
 Each {{work}} record will have a **Publishing** tab: you 'll need to click on it. This is the final step in the tiered permission level, asking whether, of the information that has been agreed, if this record should be published. If you were creating a record for an internal meeting, for example, or a one-to-one session, you would probably not want to publish the information. But a training course may be appropriate to advertise publicly in advance. Therefore tick the box to allow it to be published and type a title for the record. This text will be transferred to your public facing site.
 
+* Tick the 'Publish this record' box to give permission to publish
+* Give the record a title, to be used in the publishing
+* You can allow people to add themselves to the record, through your site (If set-up)
+* You can set a maximum number of clients who can add themselves.
+
 ![publishing {{work}} records]({{imgpath}}214a.png)
 
 If you no longer wanted to publish the record, open the record in an 'edit' mode (see section [9.2.2  Edit a {{work}} record](/help/index/v/{{version}}/p/9.2.2)) and untick the **Publish this record via {{Lamplight}} API?** 
