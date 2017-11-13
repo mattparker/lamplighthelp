@@ -24,7 +24,7 @@ To create a new tab, select the button 'Click here to add' in the left-hand colu
 * What type of person is this for:  No answer can be selected here, as records show all fields for all users.
 * Restrict this field to managers/admins?:  Although you can tick this field, it does not function in this record.
 * Projects: You can select which projects (If you have more than one project) this field should display for.
-* You may also see fields about publishing, if you have the publishing module.  See: 
+* You may also see fields about publishing, if you have the publishing module.  See section [24.0 Publishing Module](/help/index/v/{{version}}/p/24.0)
 Click 'Save' to save the tab.
 
 __Important__ You must always add a field to a tab, to ensure it remains editable and visible in System Administration.  If you do not, you'll have an empty tab in your record which you will be unable to edit.  In this case, please contact Lamplight for support.
