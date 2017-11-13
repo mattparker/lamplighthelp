@@ -26,11 +26,13 @@ If you realise someone has been added in error, click on the red cross which wil
 
 The first option is based on {{work}} records. By ticking this selection as soon as the member on the list attends any {{work}} record as a {{user}} they will be removed from this {{waiting list}}. 
 
-If you wish the members to be removed automatically when they attend a specific {{work}} record linked to a {{workarea}} and/or {{subworkarea}}, select this from the dropdown list. 
+If you wish the members to be removed automatically when they attend a specific {{work}} record linked to a {{workarea}} and/or {{subworkarea}}, select the appropriate area. 
 
 Removal from the list can also (or alternatively) be a done due to the member being involved in a {{referral}} as the 'service user being referred'. As soon as they are added to a {{referral}} record, the date the {{referral}} took place will transfer onto the {{waiting list}} as the date they left the {{waiting list}}.
 
-The final option on the removal tab allows you to choose if you wish an alert to appear when the members have been on the {{waiting list}} for a specified amount of time. Type in the amount in the number box and choose from the drop-down list whether it is days, weeks, months or years.
+You can choose if you wish, to receive an alert to appear when the members have been on the {{waiting list}} for a specified amount of time.  This takes the form of a {{task}} in the diary of the person chosen for notifications. Type in the amount in the number box and choose from the drop-down list whether it is days, weeks, months or years.  Then choose from the list below, who will be alerted.
+
+You can also add a target time for people to be removed from a waiting list.  When viewing the waiting list, this will show those exceeding the time you choose, highlighted in red.
 
 When all the information has been added, click the 'save' button on the bottom right hand corner. You have now created your new {{waiting list}}.
 
