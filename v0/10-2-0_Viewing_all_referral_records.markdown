@@ -12,7 +12,7 @@ __Restrict by date and work area__
 
 To restrict the listing to particular dates or {{workarea}}s, click the search bar or the '+' icon on the right of the search bar, and search options will appear. Change the details and click the 'fetch data' button and the table will update showing the requested information.
 
-![Searching for particular {{referral}} records]({{imgpath}}206a.png)
+![Searching for particular {{referral}} records]({{imgpath}}1206a.png)
 
 __Restrict by custom fields__
 
