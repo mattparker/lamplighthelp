@@ -22,7 +22,7 @@ __Simple attendance table__
 
 Some systems will use the simple attandance table, which is differentiated by the tab being called Respondent.  This follows the same principle, but gives you two simple options as below.  (The simple setting can be selected in Global settings by your system administrator.) 
 
-![Adding indiviuals to a 'Simple' attendance table in an {{outcome}} record]({{imgpath}}209a.png)
+![Adding indiviuals to a 'Simple' attendance table in an {{outcome}} record]({{imgpath}}1209a.png)
 
 
 ###### core module
