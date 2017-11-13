@@ -10,11 +10,11 @@ To create a {{report}} template, use the 'Admin' option in the main menu, and ch
 
 ![System admin {{report}} showing the {{report}} templates section]({{imgpath}}1212a.png)
 
-Choose 'Add edit and remove {{report}} templates, to enter this section.  Once in this page, you will see options to add {{report}} templates for {{work}}, {{rereferral}}s, {{Linked case}}s, {{outcomes}}s, and and any of the modules you have enabled.  You'll be able to see existing templates which you can edit.  You'll also see an 'add' button at the bottom of each section.
+Choose 'Add edit and remove {{report}} templates, to enter this section.  Once in this page, you will see options to add {{report}} templates for {{work}}, {{rereferral}}s, {{Linked case}}s, {{outcomes}}s, and any of the modules you have enabled.  You'll be able to see existing templates which you can edit.  You'll also see an 'add' button at the bottom of each section.
 
 ![{{work}} {{report}} templates]({{imgpath}}1213a.png)
 
-__Filling the template__
+__Completing the template__
 
 Once you have completed the template it will save and take you back to the {{report}} templates page, without showing you the results.  For this reason we recommend you create your {{report}} normally first, to ensure it's been created correctly and is showing appropriate data, before recreating it in the {{report}} templates section.
 
