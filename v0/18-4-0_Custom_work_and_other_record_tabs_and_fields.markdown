@@ -80,19 +80,28 @@ __Types of fields__
  
 __Adding fields to a system standard tab__
 
-All records have the tabs 'Where and Where', 'Attendance', 'respondent' or 'Involved', and Details.  You can add additional fields to these tabs, but creating them in they system.  Create a field with the correct name as below, (Capitalisation is esssential), and add fields to it.  You will be able to come back and see these fields, but will not see any of the standard fields.  These can only be changed by Lamplight.  Use the correct, correctly capitalised name as below.
+All records have the tabs 'Where and Where', 'Attendance', ( this may be called 'respondent' or 'Involved' in some cases), and Details.  You can add additional fields to these tabs, by 'creating' them in System Admin.  Create a field with the correct name as below, (Capitalisation is esssential), and add fields to it.  You will be able to come back and edit/remove these fields, but will not see any of the standard fields.  These can only be changed by Lamplight.  Use the appropriate, correctly capitalised name as below.
 
-{{Work}} records
+_{Work}} records_
 When and where
 Attendance
 Details
 
-{{Outcome}} records
+_{Outcome}} records_
+When and where
+Respondent (If you have this tab)
 
-
-
-{{Referral}} records
+_{Referral}} records_
+When and where
+Attendance (If you have this tab)
+Involving (If you have this tab)
 details
+
+_{{Grant}} records_
+When and where
+Attendance
+details
+
 
 __Adding custom columns to the 'Attendance' table__
 
