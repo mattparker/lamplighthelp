@@ -4,13 +4,14 @@
 
 **{{Outcome}} monitoring**
 
-  * Charities {{Eval}} Service: [https://www.ces-vol.org.uk/](https://www.ces-vol.org.uk/)
+ 
   * National Association for Voluntary and Community Action: [https://navca.org.uk/](https://www.navca.org.uk/)
-  * National Council for Voluntary Organisations: [https://www.ncvo-vol.org.uk/](https://www.ncvo-vol.org.uk/)
+  * National Council for Voluntary Organisations: [https://www.ncvo.org.uk/](https://www.ncvo.org.uk/)
+  * Know How Non-Profit: [https://knowhownonprofit.org/] (https://knowhownonprofit.org/)
 
 **Data Security**
 
-  * Information Commissioner's Office: [https://www.ico.gov.uk/](https://www.ico.gov.uk/) 
+  * Information Commissioner's Office: [https://ico.org.uk/](https://ico.org.uk/) 
 
 ###### core module
 
