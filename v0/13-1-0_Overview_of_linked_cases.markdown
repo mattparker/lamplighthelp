@@ -8,7 +8,7 @@ Using the options in the case, you may be able to select different types of case
 
 In most systems that uses {{Linked case}}'s, you'll find details of a {{person}}'s {Linked case}}'s in the '{{linked case}} View' tab in their profile.  (Your system may use a different name to the one in the image below)
 
-!['{{Linked case}} View' tab}}]({{imgpath}}207a.png)
+!['{{Linked case}} View' tab}}]({{imgpath}}1207a.png)
 
 __Using {{Linked case}}'s__
 
