@@ -18,6 +18,8 @@ The third option allows you to view an **historical view**, which shows the deta
 
 If you have the appropriate access level the context menu will allow you to edit the {{waiting list}} or delete it. If you do not have the appropriate access level the option on the menu will appear as grey text and is not available to be selected.
 
+If you have the appropriatre access level, you will also be able to choose 'Delete group' to delete the waiting list.  This cannot be undone from within the system.
+
 If you have the {{comm}}s module enabled on your system, the context menu will also show a '{{comm}}' option. When selected this will move you directly into a new {{comm}}s record. Those on the {{waiting list}} (not including historical members) will have their names transferred directly into the recipients tab on the {{comm}} record. See section [12.0.0  {{Comm}}s](/help/index/v/{{version}}/p/12.0.0) for more information.
 
 The final option is the option to print. When selected a new tab in your browser will open so that you can print the information about the {{waiting list}} members. 
