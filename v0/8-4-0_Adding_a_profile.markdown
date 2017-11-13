@@ -6,7 +6,7 @@ To add a new profile move your mouse up to the menu bar to the {{People}} option
 
 At this point your system may function in one of two ways.  In many systems, you will see a drop-down menu, asking you to choose the type of {{person}} you wish to create - see [3.1.0  {{People}}](/help/index/v/{{version}}/p/3.1.0) for more information about these roles. 
 
-![Add new {{person}} through dropdown menu]({{impgpath}}200a.png}
+![Add new {{person}} through dropdown menu]({{impgpath}}1200a.png}
 
 Alternativly, it will take you straight to the page to add a {{person}}, and you'll be able to choose the type of {{person}} at the bototm of this page as shown below. 
 
