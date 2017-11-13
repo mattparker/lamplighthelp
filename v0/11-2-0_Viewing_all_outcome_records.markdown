@@ -16,7 +16,7 @@ To restrict the listing to particular dates or {{workarea}}s, click the search b
 
 __Restrict by custom fields__
 
-Once you have clicked the search bar as above, and the date and work area options are displayed, you will see a further two search bars shown below this.  The first called 'Custom field filters'.  This lets you select additional filtering options, from any additonal fields you may have inside your {{outcome}} record (It's common not to have any fields in this section).  Click the 'Fetch data' button to show records matching these filters.
+Once you have clicked the search bar as above, and the date and work area options are displayed, you will see a further two search bars shown below this.  The first called 'Custom field filters'.  This lets you select additional filtering options, from any additional fields you may have inside your {{outcome}} record (It's common not to have any fields in this section).  Click the 'Fetch data' button to show records matching these filters.
 
 __Display additional columns__
 
@@ -24,7 +24,7 @@ The second search bar is called 'Additional data columns to display'.  This does
 
 __Saving your view__
 
-You can adjust the columns shown in the table, by right clicking in the headings row of the table.  This will show you a list of rows.  Ticked rows are shown, and unticked rows are hidden.  You can change this by clicking on the item you wish to show or hide. If you wish to make that change the default view, click again and from the bottom of the opo-up list, choose 'Save table columns layout'.  This will now be shown as the default view for you.  This only affects you, and not the rest of your team.  Choose 'Reset table columns layout' to return to the system standard.  (If you have added additional columns from the 'Additional data columns to display' view, these can also be saved.)
+You can adjust the columns shown in the table, by right clicking in the headings row of the table.  This will show you a list of rows.  Ticked rows are shown, and unticked rows are hidden.  You can change this by clicking on the item you wish to show or hide. If you wish to make that change the default view, click again and from the bottom of the pop-up list, choose 'Save table columns layout'.  This will now be shown as the default view for you.  This only affects you, and not the rest of your team.  Choose 'Reset table columns layout' to return to the system standard.  (If you have added additional columns from the 'Additional data columns to display' view, these can also be saved.)
 
 __Downloading and printing the table__
 
