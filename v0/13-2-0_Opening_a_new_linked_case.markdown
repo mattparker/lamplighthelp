@@ -4,9 +4,9 @@ You can create a new {{Linked case}} either through the '{{linked case}} View' t
 
 __Through the '{{linked case}} View' tab.__
 
-If you scroll down to the botton of this tab, you'll see a section called 'Create a new {{linked Case}}'.
+If you scroll down to the bottom of this tab, you'll see a section called 'Create a new {{linked Case}}'.
 
-This will include the case name, (which is often the name of the {{user}}), and the date.  You may have additional options which you can choose, and which you may complete at different stages of the case. Complete any which are relevent.  You can also make any notes about the {{linked case}} in the '{{Linked case}} description'.
+This will include the case name, (which is often the name of the {{user}}), and the date.  You may have additional options which you can choose, and which you may complete at different stages of the case. Complete any which are relavent.  You can also make any notes about the {{linked case}} in the '{{Linked case}} description'.
 
 Once you have completed the details, use the save button to save the case.
 
@@ -14,7 +14,7 @@ Once you have completed the details, use the save button to save the case.
 
 __While linking a record to the case__
 
-Using the context menu from a view of {{work}} or other records, you can choose the 'Link to case' option, which will create a pop-up box, the same as above.  As you type, matches ot existing {{linked case}}s will be displayed, or you can enter a new case name, complete the details as above, and save.
+Using the context menu from a view of {{work}} or other records, you can choose the 'Link to case' option, which will create a pop-up box, the same as above.  As you type, matches to existing {{linked case}}s will be displayed, or you can enter a new case name, complete the details as above, and save.
 
 
 
