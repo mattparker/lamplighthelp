@@ -34,7 +34,7 @@ Right clicking on a row of the {{outcome}} table will give you a range of option
  * View {{linked case}} details - takes you to a screen to see the details of the {{linked case}} itself.
  * Edit {{link case}} allows you to edit the details of the {{linked case}} itself.
  
- * Communicate - will show if you have the {{comm}}s module, and allow you to communicate with the person whose o{{outcomes}}'s are being recorded.
+ * Communicate - will show if you have the {{comm}}s module, and allow you to communicate with the person whose {{outcomes}}'s are being recorded.
  
 [View the video](/help/video/id/11)
 ###### core module
