@@ -2,7 +2,7 @@
 
 > Deleted profiles are archived, and can be restored if needed. 
 
-Once you have deleted a profile, they are archived in the system. This means that the work you have done with them will be included in reports. These profiles can be re-instated from the archive, my a user of Manager level and above.
+Once you have deleted a profile, they are archived in the system. This means that the work you have done with them will be included in reports. these profiles can be re-instated from the archive, by an operator of Manager access level and above.
 
 __Undeleting a profile__
 From the main Menu, choose People -> View -> {{user}} (or different role as appropriate.) -> All
