@@ -2,7 +2,7 @@
 
 > The diary shows all that's going on for the current week. 
 
-The diary shows all that is going on for the current week. Each database operator has the option to customise their Diary homepage as they wish. An example of how it could be organised is shown below. By default when you first log-in to {{Lamplight}} on the My {{User}}s tab will be visible, unless this has been set differently by your System Administrator. Please see section [18.12.0  My personal settings - customising {{Lamplight}}](/help/index/v/{{version}}/p/18.12.0) to personalise your settings. 
+The diary shows all that is going on for the current week. Each database operator has the option to customise their Diary homepage as they wish. An example of how it could be organised is shown below. By default when you first log-in to {{Lamplight}} only the My {{User}}s tab will be visible, unless this has been set differently by your System Administrator. Please see section [18.12.0  My personal settings - customising {{Lamplight}}](/help/index/v/{{version}}/p/18.12.0) to personalise your settings. 
 
 The diary view can be changed by the options shown below the diary view. You can pick to view {{work}} and/or {{message}}s, by {{workarea}}, by location or by {{staff}} member attending, or indeed a combination of these options. Please note that only those with the {{Staff}} Management Module will be able to view the records associated with the module, such as non-contact work, {{staff}} training or {{staff}} appraisals. 
 
