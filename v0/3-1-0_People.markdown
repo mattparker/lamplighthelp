@@ -35,7 +35,7 @@ are the {{people}} that it is useful for you to have a record of (GPs, Social wo
 
 ### {{Org}}s
 
-can be used however you like: you may wish to keep a list of suppliers, or local schools, for example.
+can be used however you like: you may wish to keep a list of suppliers, or local schools, for example, or another organisation on your system, if you do volunteer brokerage.
 
 ### {{Volunteer}}s
 
