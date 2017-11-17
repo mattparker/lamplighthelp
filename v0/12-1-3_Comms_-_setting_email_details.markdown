@@ -18,7 +18,6 @@ You can also choose how to send out your email.
 
 Within this section you can also choose whether to send multiple, individual emails, or a single one cc or bcc-ed to everyone. If you are sending to a large number of recipients, and particularly if there are attachments, we strongly recommend that you send a single email. {{Lamplight}} is not designed as a mass- marketing tool, and large volumes of large emails create problems with our mail delivery servers. 
 
-[View the video](/help/video/id/27)
 ###### core module
 
 
