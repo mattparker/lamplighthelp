@@ -8,7 +8,7 @@ On the main menu go to {{Group}}s -> Add -> Add {{auto group}} and you will see 
 
 **{{Group}} name tab**: The first thing that you need to do on this screen is to give your {{group}} a name and a description.  Choose something that makes it clear who your {{group}} is made up of as these fields are used to remind you and other users of what the {{group}} is for. Both are required fields. There is also a tick box to allow you to 'lock' the group. This means that only you will be able to edit the {{group}} once it has been created.
 
-There is a 'Lock {{group}} option here.  This allows you to lock the {{group}} so that only you can change the {{group}}.  We suggest using this cautiously.
+There is a 'Lock {{group}} option here.  This allows you to lock the {{group}} so that only you can change the {{group}}.  This can be useful for example, when creating a regular {{group}} for reporting, where you need to be absolutely certain that the group criteria has not been changed bwteen running it.  Only you will be able to change or delete this group.  We suggest using this cautiously.
 
 The next step is to use the tabs at the top of the page to select which types of data you would like to use to filter your {{group}}.  Explanations of the filters each tab contains are given below.  Once you have finished choosing filters, your {{group}} will include {{people}} or organisations that meet **ALL** the criteria you have entered. 
 
