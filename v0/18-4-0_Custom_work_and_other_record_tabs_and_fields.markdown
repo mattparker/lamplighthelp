@@ -11,7 +11,7 @@ The system is almost identical to adding Custom tabs and fields on profiles.  Pl
 
 __Adding fields to a work record__
 
-Choose 'View, add and edit custom field on work records'.  You'll see three columns, with the first showing you a list of tabs available on your work records.  Depending on your set-up you may see one or more of the three standard fields on the work record (When and where, Attendance, Details).  This is where you have custom fields added to these tabs.  You'll also see any custom tabs you have created.
+Choose 'View, add and edit custom field on work records'.  You'll see three columns, with the first showing you a list of tabs available on your work records.  Depending on your set-up you may see one or more of the three standard tabs on the work record (When and where, Attendance, Details).  This is where you have custom fields added to these tabs.  You'll also see any custom tabs you have created.
 
 Click on a tab on the left, and you'll see the fields for that tab in the centre column.  If you then click on a field, you'll see the field information, and options if applicable in the right column.  As shown below.
 
@@ -60,17 +60,17 @@ __Types of fields__
 
 * Select box - Select a single option from the list of options.
 * Multi-select box - to select several options, hold the ctrl key down and select the options you need.
-* Plain text area - enter a short amount of free text.
-* Plain text box - enter longer amounts of free text
+* Plain text box - enter a short amount of free text.
+* Plain text area - enter longer amounts of free text
 * Rich text - enter free text here and add formatting as desired.
 * Check box - click on the box to fill in a tick
 * Radio button - click on the button to indicate a yes
 * Dates - Dates are entered in UK format by selecting from the day/month/year select boxes or using the popup calendar.
 * Date/Times - Dates and times are entered on a 24-hour clock from select boxes.
-* Date of birth selector - Dates are entered in UK format by selecting from the day/month/year select boxes and a current age is displayed
+* Date of birth selector - Dates are entered in UK format by selecting from the day/month/year select boxes and a current age is displayed.  Date of birth fields also give you options in {{group}}s to do things like 'people aged between 18 and 24', and to look at anniversaries etc. So 'date of birth' fields can also be useful for things like 'Date of membership'.
 * Number box - enter numbers only into a small text box.
 * Caption - a label is added, to separate fields within a tab.
-* Fixed text box - again this is descriptive text that cannot be altered in profiles, but can be used to add descriptive text or reminders about the other information on the tab
+* Fixed text box - this is descriptive text that cannot be altered in profiles, but can be used to add informative text or reminders about the other information on the tab
 * Year selector - choose the year from a drop-down (but not month or day)
 * Radio buttons - select one: add several radio buttons, only one of which can be selected
 * Checkboxes - select many: lets you select several options using tick boxes
@@ -84,16 +84,16 @@ All records have the tabs 'Where and Where', 'Attendance', ( this may be called 
 
 ![System Admin - adding fields to system tabs]({{imgpath}}1221a.png)
 
-_{Work}} records_
+_{{Work}} records_
 When and where
 Attendance
 Details
 
-_{Outcome}} records_
+_{{Outcome}} records_
 When and where
 Respondent (If you have this tab)
 
-_{Referral}} records_
+_{{Referral}} records_
 When and where
 Attendance (If you have this tab)
 Involving (If you have this tab)
@@ -107,11 +107,11 @@ details
 
 __Adding custom columns to the 'Attendance' table__
 
-The other option you'll see in the 'Manage drop-down lists' section is 'view and edit custom columns on the attendance table'.  If you look at the {{Work}} records 'Attendance table in the attendance tab, you'll see that you have a number of columns, including name, attendance type, and role.  It's possible to add additional custom columns here, and you may already have some.
+The other option you'll see in the 'Manage drop-down lists' section is 'view and edit custom columns on the attendance table'.  If you look at the {{work}} records Attendance table in the attendance tab, you'll see that you have a number of columns, including name, attendance type, and role.  It's possible to add additional custom columns here, and you may already have some.
 
-Follow the link, and you'll see a familiar three column set-up.  In this section, the first column is simply a label, as every field appears in the attendance table, and not in its own tab.  Follow the same procedure as for {{Work}} records above, to create a new item in the left-hand column, calling it something useful for your team, as an aid to memory.
+Follow the link, and you'll see a familiar three column set-up.  In this section, the first column is simply a label, as every field appears in the attendance table, and not in its own tab.  Follow the same procedure as for {{work}} records above, to create a new item in the left-hand column, calling it something useful for your team, as an aid to memory.
 
-Click on the item in the left-hand column, and you'll be able to add a new field and options in the centre and then right columns.  Once created these will appear after the system tabs, in the {{Work}} Record attendance table.
+Click on the item in the left-hand column, and you'll be able to add a new field and options in the centre and then right columns.  Once created these will appear after the system tabs, in the {{work}} Record attendance table.
 
 Things to consider
 * The attendance table can become quickly crowded if you add many columns, and so consider what you need carefully, and the length of the field title.
