@@ -16,17 +16,17 @@ Both charge and payee policies can take various factors into account in their ca
 
 __Creating policies__
 
-For example, you might have a charging policy that charges everyone Â£50, and a payee policy that says that the {{person}} attending pays the full amount. A more complex example of a charging policy would: 
+For example, you might have a charging policy that charges everyone £50, and a payee policy that says that the {{person}} attending pays the full amount. A more complex example of a charging policy would: 
 
  1. Use an hourly rate for the {{workarea}} chosen, a fixed amount for the location used, and the hourly rate for the staff present,
-  2. If {{people}} attending are unemployed, charge them a fixed rate of Â£10,
+  2. If {{people}} attending are unemployed, charge them a fixed rate of £10,
   3. Gives a discount for {{people}} booking online before a certain date
   4. Only charges {{user}}s attending the full amount; staff are charged nothing and {{people}} that do not attend are charged 50%
 
 A more complicated payee policy might say: 
 
   1. If the {{person}} attending lives in Westminster, charge Westminster Council 50% (we have a contract with them)
-  2. If the {{person}} attending has a visual impairment we can charge Â£30 to a private Foundation that has given us a grant.
+  2. If the {{person}} attending has a visual impairment we can charge £30 to a private Foundation that has given us a grant.
   3. Charge any remainder to the {{organisation}} linked to the person that attended
 
 When you create a {{work}} record using these policies, {{Lamplight}} will calculate the amounts and payees, and they will appear on the {{charge}} tab of the relevant profiles, with a summary shown on the {{work}} record. 
