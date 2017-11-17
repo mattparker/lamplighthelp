@@ -2,7 +2,7 @@
 
 > Enter additional information required for your emails, and the way they are sent. 
 
-If you are sending emails, you will need to complete the additional email fields.
+If you are sending emails, you will need to complete the additional email fields.  Email systems often require the reply-to address to match the sender address, and may not send the email at all if they don't. If you are not sure about this you'll need to check with your system administrator or email provider.
 
 Emails are sent through your own email system (We have a handbook to support this), and will appear in your outbox.  Replies will be sent to your own email.
 
