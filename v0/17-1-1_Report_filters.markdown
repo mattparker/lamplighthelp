@@ -22,7 +22,7 @@ The attendance type option allows you to filter so that you can create a {{repor
 
 The role filter will filter based on how the person attended the activity, for example allowing you to view just {{user}}s or just {{staff}} who attended the sessions.
 
-Profile type drop-down option allows you to filter by {{person}}, {{organisation}} or family profiles (if they have been enabled by your system administrator). 
+Profile type drop-down option allows you to filter by {{person}}, {{organisation}} or {{family}} profiles (if they have been enabled by your system administrator). 
 Include information about linked profiles will information about attendees enter via default {{relationship}}s (For example, entered in the attendance table as {{Person}} 1, {{person}} 2).
 You can also choose to exclude anonymous attendees from your {{report}}s.  This may be useful when reporting on particular activities, and can also be useful when troubleshooting reports, where you are seeking to understand how many of the ‘unknown’ breakdown results are from anonymous users, and how many have simply not been entered.
 
