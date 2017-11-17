@@ -35,7 +35,7 @@ You can:
 
 **Relationship history**
 
-Below the relationships table, on the right hand side of the screen next to the 'Add' button, there is a 'View History' button. If you click on this you will see all the {{people}} who have ever been shown as having a relationship with the {{person}} in this profile.  The 'Since' column will show you when the relationship was started, and the 'To' column when that relationship was closed.  Click the 'View current' button on the right to retrun to the normal view.
+Below the relationships table, on the right hand side of the screen next to the 'Add' button, there is a 'View History' button. If you click on this you will see all the {{people}} who have ever been shown as having a relationship with the {{person}} in this profile.  The 'Since' column will show you when the relationship was started, and the 'To' column when that relationship was closed.  Click the 'View current' button on the right to return to the normal view.
 
 ![relationships history]({{imgpath}}1201a.png) 
 
