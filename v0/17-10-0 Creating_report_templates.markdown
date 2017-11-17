@@ -1,6 +1,8 @@
-# 17.1.1    Creating {{report}} templates
+# 17.10.0    Creating {{report}} templates
 
-You can also create {{report}} templates for each different type of {{report}}, from within the System Administration menu.  You'll need to be a System Administrator to do this.
+A {{report}} template is a a way of saving a particular {{report}}, so saving a particular set of filters and display options, so that you can run them easily at any time.  These can be useful, for example, for regular reports for funders, so that you don't need to create a new report each time.  They are set-up and operate in the same way as a normal report, (but in a different place) and can then be chosen from the appropriate report menu.
+
+You can create {{report}} templates for each different type of {{report}}.  You do this from within the System Administration menu.  You'll need to be a System Administrator to do this.
 
 Once created these {{report}}s are shown when you go to create a {{report}} from the main menu.  The templates you have created are shown as dropdown options, and a new option is added for a non-template report.  For example, 'Custom {{work}} report'.
 
@@ -30,6 +32,6 @@ The other difference when creating a {{report}} template, are the dates.  Within
 Finally, when run, {{reports}} display the information requested in the template, but can then be altered, to break down the numbers in different ways for example.  This means that one {{report}} may be created as a template and then changed in a number of different ways, to more easily give a range of data for your reporting from a single {{report}}
 __Viewing {{report}} templates__
 
-As {{report}} templates show in the main menu, you will need to log-out and log back in, in order to see your newly added reports in the menu.  In some browsers, refreshing the page may be sufficient.
+As {{report}} templates show in the main menu, you will need to refresh the page in your browser, using the F5 key, in order to see your newly added reports in the menu.
 
 ###coremodule
