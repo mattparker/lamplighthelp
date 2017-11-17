@@ -2,7 +2,7 @@
 
 > Enter details of when the {{outcome}} was achieved/measured on the when and where tab. 
 
-The date and {{workarea}} fields on the when and where tab are required, and the date to must be after the date from. The time by default is set to an hour after the start time.  Many people will simply ignore the time for the purposes of outcome records. If you the default time period to be different for your system, your system administrator can make this change in 'Global settings'. 
+The date and {{workarea}} fields on the when and where tab are required. Many organisations will be able to simply ignore the time for the purposes of outcome records.
 
 When selecting a {{workarea}}, you must select one {{workarea}}, and any number of {{subworkarea}}s. To add a {{workarea}}, click on the appropriate radio button / {{work area}}
 
