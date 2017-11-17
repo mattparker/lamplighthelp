@@ -20,7 +20,7 @@ All profiles, whether they are for {{user}}s, {{staff}}, {{funder}}s, {{org}}s o
 
 If you are entering a {{person}} you will see input boxes for title, first name, surname and suffix. (Titles and Suffixes will be available if your system administrator has added them in the system administration section). If you are entering an organisation you will see an input box for the organisation name.
 
-Once you have entered the name of the {{person}}, if you did not so so thought the main manu, you'll have th eoption to select what kind of profile you are creating - see [3.1.0  {{People}}](/help/index/v/{{version}}/p/3.1.0) for more information about these roles. 
+Once you have entered the name of the {{person}}, if you did not so so thought the main manu, you'll have the option to select what kind of profile you are creating - see [3.1.0  {{People}}](/help/index/v/{{version}}/p/3.1.0) for more information about these roles. 
 
 Save the profile by clicking the save button at the bottom right hand corner of the screen.
 
