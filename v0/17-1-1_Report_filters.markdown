@@ -4,7 +4,7 @@
 
 All {{report}}s have the same set of filters initially, shown below:
 
-![{{Report}} filters]({{imgpath}}1 216a.png)
+![{{Report}} filters]({{imgpath}}1216a.png)
 
 The date from and date to fields will show records dated between these two dates, including the dates selected.
 
