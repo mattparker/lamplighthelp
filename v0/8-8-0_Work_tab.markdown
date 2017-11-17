@@ -26,7 +26,7 @@ To view a {{work}} record right click on the row in the table showing the {{work
   * Close {{linked case}} - flags the {{linked case}} as closed
   * Re open {{linked case}} - will open a {{linked case}} that has previously been closed.
   * View {{linked case}} details {{linked case}} details - opens a list of {{work}} records, {{outcome}}s and {{comm}}s that are linked to that {{linked case}}.
-  * Edit {{linked case}} - takes you to a screen which edits the details of the case itself.
+  * Edit {{linked case}} - takes you to a screen which edits the details of the {{linked case}} itself.
   * {{Comm}} - opens the {{comm}}s window (See section [12.0.0  {{Comm}}s](/help/index/v/{{version}}/p/12.0.0) for more on {{comm}}s) and enters the names of the {{people}} that attended the piece of {{work}} as the recipients.
   * Add {{outcome}}s - opens the {{outcome}}s data entry window (see section [11.1.0  Adding {{outcome}}s](/help/index/v/{{version}}/p/11.1.0) for more on {{outcome}}s). The date, time, {{workarea}} information and {{people}} who attended the piece of {{work}} will be added automatically to the {{outcome}}s input screen. 
 
