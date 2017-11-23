@@ -10,11 +10,11 @@ To email invitees, view all campaigns [(Viewing campaigns 23.2.0)](/help/index/v
 
 __Communication Type__
 
-In this tab, choose your dates (only for the record), and the work area.  'Type' will always be 'Email', and you can enter a 'Summary for saving'.  This will show in the table of communications.
+In this tab, choose your dates (Only for the recor d- it will send right away), and the work area.  'Type' will always be 'Email', and you can enter a 'Summary for saving', similar to 'Summary' in a work record.
 
 __Recipients__
 
-This will already be populated, by the type of invitees you chose when selecting the email option.  You may have multiple pages of recipients.  You can add or remove recipients if you choose.
+This will already be populated, by the category of invitees you chose when selecting the email option.  You may have multiple pages of recipients.  You can add or remove recipients if you choose.
 
 __Email details__
 
@@ -28,9 +28,9 @@ Allows you to upload attachments to your message.  Please use Lamplight sparingl
 
 __Message content__
 
-This allows you to compose your email, and to add merge fields and formatting.  In the top right of the text editing box, click the = symbol, to expand the text editing tools.
+This allows you to compose your email, and to add merge fields and formatting.  In the top right of the text editing box, click the **+** symbol, to expand the text editing tools.
 
-All the normal formatting options are displayed here, and can be used as normal.  You also have some mail merge options
+All the normal formatting options are displayed here, and can be used as normal.  You also have some mail merge options.  To use these position your cursor where you want the field, and select it from the drop down menus.  Format the field exactly as you would the content in a normal email.
 
 * People mail merge:  Allows you to merge information from a person's profile.
 * Evaluation campaign: Allows you to merge in information about the specific campaign you have selected to email about
@@ -40,7 +40,9 @@ If you have the communications module, you'll also see the two below.
 * Document Templates: Allows you to use  a pre-set template, set-up by your system administrator
 * Image library: Allows you to use a pre-loaded logo in your email.
 
-When you have finished writing your email, click the 'create/send' button. Emails will be sent to each recipient with an email address. You will need to make alternative arrangements (downloading the url) for anyone without an email address [(Edit a campaign 23.3.0)](/help/index/v/{{version}}/p/23.3.0). 
+When you have finished writing your email, click the 'create/send' button to send.
+
+Emails will be sent to each recipient with an email address. You will need to make alternative arrangements (downloading the url) for anyone without an email address [(Edit a campaign 23.3.0)](/help/index/v/{{version}}/p/23.3.0). 
 
 Please also note that if you are using the campaign merge fields (for example 'campaign_url') the invitee list of the campaign must match the recipient list for the email, for the merge fields to correctly sync. 
 
