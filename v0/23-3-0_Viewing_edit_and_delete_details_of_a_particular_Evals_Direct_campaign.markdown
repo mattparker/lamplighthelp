@@ -1,6 +1,6 @@
 # 23.3.0    Viewing, edit and delete details of a particular {{Eval}}s Direct campaign
 
-> To view details for a particular campaign, view all campaigns [Viewing campaigns 23.2.0)](/help/index/v/{{version}}/p/23.2.0)) and then use the context menu. 
+> To view details for a particular campaign, view all campaigns [Viewing campaigns 23.2.0)](/help/index/v/{{version}}/p/23.2.0) and then use the context menu. 
 
 **Viewing existing campaigns**
 
