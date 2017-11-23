@@ -9,6 +9,7 @@ To set up a DataDirect {{Eval}} Campaign, in the main menu go to {{work}} -> Dat
 ![EvalDirect campaign]({{imgpath}}207a.png)
 
 Complete each section:
+
 __Campaign details__
 
 * Select Evaluation: Choose the existing evaluation you want to use, or create a new one first through the {{eval}}s module.
