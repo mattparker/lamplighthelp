@@ -2,11 +2,15 @@
 
 > View aggregated responses via the DataDirect -> {{eval}} campaigns -> view. 
 
-To view a {{report}} of your campaign responses, view all campaigns (see section [23.3.0  Viewing, edit and delete details of a particular {{Eval}}s Direct campaign](/help/index/v/{{version}}/p/23.3.0)), right-click (or use the menu button) on the campaign you wish to view, and select 'view {{report}} of responses'
+To view a {{report}} of your campaign responses, view all campaigns [(Viewing campaigns 23.3.0)](/help/index/v/{{version}}/p/23.3.0), and use the menu on the campaign you wish to view to and select 'view {{report}} of responses'
 
-This will take you directly to the {{Eval}}s {{report}}, set the dates and other details from your campaign dates, and show you the results.
+This will take you directly to the {{Eval}}s {{report}}.  This works in exactly the same way as a normal evaluations report [({{eval}} reporting 17.5.0)](help/index/v/{{version}}/p/17.5.0) Simply set the dates and other details from your campaign dates, and click 'Fetch data' to show the results.
 
-From there you can carry out further analysis (see section [17.5.0  {{Eval}} {{report}}](/help/index/v/{{version}}/p/17.5.0) for more help on {{eval}} {{report}}s) and download the results (see section [17.1.4  Exporting {{report}}s](/help/index/v/{{version}}/p/17.1.4)). 
+From there you can carry out further analysis and download the results
+
+Further reading
+[{{eval}} reporting (17.5.0)](help/index/v/{{version}}/p/17.5.0)
+[Exporting {{report}}s (17.1.4)](/help/index/v/{{version}}/p/17.1.4)).
 
 ###### datadirect module
 
