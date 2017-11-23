@@ -2,7 +2,7 @@
 
 > {{Lamplight}} lets you email invitees to {{eval}} direct campaigns: all of them, those that haven't responded, or those that have. 
 
-To email invitees, view all campaigns [(Viewing campaigns 23.2.0)](/help/index/v/{{version}}/p/23.2.0)), right-click (or use the menu button) on the campaign you wish to view, and select the email option you need. The only difference is the recipient list.
+To email invitees, view all campaigns [(Viewing campaigns 23.2.0)](/help/index/v/{{version}}/p/23.2.0), right-click (or use the menu button) on the campaign you wish to view, and select the email option you need. The only difference is the recipient list.
 
 ![comm invitees]({{imgpath}}210a.png)
 
