@@ -7,4 +7,3 @@ Using Lamplight, you can send out one link to everyone, or a different link to e
 To do this you set-up an {{eval}}s Direct campaign, that identifies which evaluation you will be using, who you want to send it to, and when.
 
 ###### datadirect module
-
