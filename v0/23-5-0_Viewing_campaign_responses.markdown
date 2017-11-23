@@ -10,6 +10,7 @@ From there you can carry out further analysis and download the results
 
 Further reading
 [{{eval}} reporting (17.5.0)](help/index/v/{{version}}/p/17.5.0)
+
 [Exporting {{report}}s (17.1.4)](/help/index/v/{{version}}/p/17.1.4)).
 
 ###### datadirect module
