@@ -1,10 +1,8 @@
 # 23.1.0    Setting up an {{Eval}}s Direct campaign
 
-> Before you start, you will need the {{Eval}}s and {{Eval}}s Direct modules enabled on {{Lamplight}}
+> Before you start, you will need the {{Eval}}s and {{Eval}}s Direct modules enabled on {{Lamplight}}.  A Datadirect campaign uses existing {{eval}}s.  If you want to use a new {{eval}} you'll need to set it up using the {{eval}}s module.  [(Evaluations 15.0.0)](/help/index/v/{{version}}/p/15.0.0)
 
-A Datadirect campaign uses existing {{eval}}s.  If you want to use a new {{eval}} you'll need to set it up using the {{eval}}s module.  ([Evaluations 15.0.0](/help/index/v/{{version}}/p/15.0.0)
-
-A 'Campaign' is the name of a particular set of evaluation requests from invitees.  It may be a one off campaign following training for example, or you may use the same campaign for all activities of a particular type.  You can report on information across the campaign as a whole, or see answers broken down by a specific choice in one of the questions. 
+A 'Campaign' is the name of a particular set of evaluation requests to invitees.  It may be a one off campaign following a training session for example, or you may use the same campaign for all activities of a particular type.  You can report on information across the campaign as a whole, or see answers broken down by a specific choice in one of the questions. 
 
 To set up a DataDirect {{Eval}} Campaign, in the main menu go to {{work}} -> DataDirect -> {{eval}} campaigns -> and choose add.  You will see a screen like the one below.
 
