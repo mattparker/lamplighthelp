@@ -25,7 +25,7 @@ If you send out individual emails (the box above is ticked) then you can choose 
 
 __Invitees__
 
-Select the {{people}} you wish to complete the survey, in the same way that you would for other records ([Adding attendance 9.1.2](/help/index/v/{{version}}/p/9.1.2).
+Select the {{people}} you wish to complete the survey, in the same way that you would for other records [(Adding attendance 9.1.2)](/help/index/v/{{version}}/p/9.1.2).
 
 __Text and styling__
 
@@ -45,7 +45,7 @@ System administrators can create customised designs if required, which you'll se
 
 Further reading
 * [{{Eval}}s overview (15.0.0)](/help/index/v/{{version}}/p/15.0.0)
-* [Creating an {{eval}} (15.1.1)(/help/index/v/{{version}}/p/15.1.1)
-* [Viewing {{eval data}} (15.1.2)(/help/index/v/{{version}}/p/15.1.2)
-* [{{eval}} reporting (17.5.0)(/help/index/v/{{version}}/p/17.5.0)
+* [Creating an {{eval}} (15.1.1)](/help/index/v/{{version}}/p/15.1.1)
+* [Viewing {{eval data}} (15.1.2)](/help/index/v/{{version}}/p/15.1.2)
+* [{{eval}} reporting (17.5.0)](/help/index/v/{{version}}/p/17.5.0)
 
