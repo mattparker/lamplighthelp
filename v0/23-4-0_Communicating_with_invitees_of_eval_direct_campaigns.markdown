@@ -47,7 +47,7 @@ Emails will be sent to each recipient with an email address. You will need to ma
 Please also note that if you are using the campaign merge fields (for example 'campaign_url') the invitee list of the campaign must match the recipient list for the email, for the merge fields to correctly sync. 
 
 Further reading
-[({{Comm}}s 12.0.0)](/help/index/v/{{version}}/p/12.0.0)
+* [{{Comm}}s (12.0.0)](/help/index/v/{{version}}/p/12.0.0)
 
 ###### datadirect module
 
