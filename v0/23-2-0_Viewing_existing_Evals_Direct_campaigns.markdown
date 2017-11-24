@@ -2,14 +2,15 @@
 
 > To view a existing {{Eval}} Direct campaigns, go to {{work}} > DataDirect > {{eval}} campaigns > view on the main menu. 
 
-The table here shows you a list of all the campaigns open during the dates you have specified in personal settings, and some basic information, including the number of invitees and the number of respondents.  
+The table here shows you a list of all the campaigns which have been set up so far, the dates that
+they were opened and some basic information, including the number of invitees and the number of respondents.  
 
-You can use the 'Search' bar durectly above the table to filter the records you see by date, work area, custom fields, and to add additional columns.  See the 'filter' section below.
+You can use the 'Search' bar directly above the table to filter the records you see by date, work area, custom fields, and to add additional columns to view.  See the 'filter' section below.
 
 Using the context menu (small square on the left of each row), you also have a number of options.
 
 * View Full details: Shows a summary of the campaign information and settings.
-* Edit: Edits the campaign information and settings.
+* Edit: Allows you to edits the campaign information and settings.
 * Delete: Deletes the campaign.  You cannot undo this.
 * Duplicate record: Duplicates the campaign, so that you can alter it, rather then creating afresh.
 * Email all invitees/have responded/not yet reponded: Takes you to a communication page to email these invitees. [(Sending a communication 23.4.0)](/help/index/v/{{version}}/p/23.4.0)
@@ -37,7 +38,7 @@ The second search bar is called 'Additional data columns to display'.  This does
 
 __Saving your view__
 
-You can adjust the columns shown in the table, by right clicking in the headings row of the table.  This will show you a list of rows.  Ticked rows are shown, and unticked rows are hidden.  You can change this by clicking on the item you wish to show or hide. If you wish to make that change the default view, click again and from the bottom of the pop-up list, choose 'Save table columns layout'.  This will now be shown as the default view for you.  This only affects you, and not the rest of your team.  Choose 'Reset table columns layout' to return to the system standard.  (If you have added additional columns from the 'Additional data columns to display' view, these can also be saved.)
+You can adjust the columns shown in the table, by right clicking in the headings row of the table.  This will show you a list of all the columns that are available in your table. Ticked columns are shown, and unticked columns are hidden.  You can change this by clicking on the item you wish to show or hide. If you wish to make that change the default view, click again and from the bottom of the pop-up list, choose 'Save table columns layout'.  This will now be shown as the default view for you.  This only affects you, and not the rest of your team.  Choose 'Reset table columns layout' to return to the system standard.  (If you have added additional columns from the 'Additional data columns to display' view, these can also be saved.)
 
 ![Saving table column layout{{work}} records]({{imgpath}}1205a.png)
 
