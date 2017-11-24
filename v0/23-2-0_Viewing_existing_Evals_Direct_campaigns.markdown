@@ -12,7 +12,7 @@ Using the context menu (small square on the left of each row), you also have a n
 * Edit: Edits the campaign information and settings.
 * Delete: Deletes the campaign.  You cannot undo this.
 * Duplicate record: Duplicates the campaign, so that you can alter it, rather then creating afresh.
-* Email all invitees/have responded/not yet reponded: Takes you to a communication page to email these invitees. [(Sending a communication)](/help/index/v/{{version}}/p/23.4.0)
+* Email all invitees/have responded/not yet reponded: Takes you to a communication page to email these invitees. [(Sending a communication 23.4.0)](/help/index/v/{{version}}/p/23.4.0)
 * View report of reponses:  This takes you to an Evaluations report. [(Evaluation reporting 17.5.0)](/help/index/v/{{version}}/p/17.5.0)
 
 Viewing, editing and deleting campaigns is shown in more detail on the next page. [(view, edit, delete campaigns 23.3.0)](/help/index/v/{{version}}/p/23.3.0)
