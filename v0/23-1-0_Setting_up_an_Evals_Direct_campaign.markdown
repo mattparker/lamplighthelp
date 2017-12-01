@@ -1,28 +1,28 @@
 # 23.1.0    Setting up an {{Eval}}s Direct campaign
 
-> Before you start, you will need the {{Eval}}s and {{Eval}}s Direct modules enabled on {{Lamplight}}.  A Datadirect campaign uses existing {{eval}}s.  If you want to use a new {{eval}} you'll need to set it up using the {{eval}}s module.  [(Evaluations 15.0.0)](/help/index/v/{{version}}/p/15.0.0)
+> Before you start, you will need the {{Eval}}s and {{Eval}}s Direct modules enabled on {{Lamplight}}.  A Datadirect campaign uses existing {{eval}}s.  If you want to use a new {{eval}} you'll need to set it up using the {{eval}}s module.  [({{Eval}}s 15.0.0)](/help/index/v/{{version}}/p/15.0.0)
 
-A 'Campaign' is the name of a particular set of evaluation requests to invitees.  A 'Campaign' is the name of a particular set of evaluation requests to invitees.     You can report on information across the campaign as a whole, or see answers broken down by a specific choice in one of the questions. 
+A 'Campaign' is the name of a particular set of evaluation requests to invitees.  A 'Campaign' is the name of a particular set of {{eval}} requests to invitees.     You can report on information across the campaign as a whole, or see answers broken down by a specific choice in one of the questions. 
 
 To set up a DataDirect {{Eval}} Campaign, in the main menu go to {{work}} -> DataDirect -> {{eval}} campaigns -> and choose add.  You will see a screen like the one below.
 
-![EvalDirect campaign]({{imgpath}}207a.png)
+![{{Eval}} Direct campaign]({{imgpath}}207a.png)
 
 Complete each section:
 
 __Campaign details__
 
-* Select Evaluation: Choose the existing evaluation you want to use, or create a new one first through the {{eval}}s module.
-* Title for the campaign: Choose a title which will allow you to identify this campaign. For example, you may have a generic 'training feedback' {{eval}} template set up, but the title might refer to the particular piece of training carried out (e.g. Health and Safety course May 2011).  This will be shown at the top of the page when any invitee goes to complete the evaluation.
+* Select {{Eval}}: Choose the existing {{eval}} you want to use, or create a new one first through the {{eval}}s module.
+* Title for the campaign: Choose a title which will allow you to identify this campaign. For example, you may have a generic 'training feedback' {{eval}} template set up, but the title might refer to the particular piece of training carried out (e.g. Health and Safety course May 2011).  This will be shown at the top of the page when any invitee goes to complete the {{eval}}.
  * Time and date starts and finishes: These define when your invitees will be able to complete the {{eval}} form.  If they try outside of these times, they will receive an error message.
- * Work Area: Responses will be entered directly into {{Lamplight}}, and so as with every other type of record, requires a {{workarea}}.  All responses to this campaign will be assigned to this {{workarea}}
+ * {{Workarea}}: Responses will be entered directly into {{Lamplight}}, and so as with every other type of record, requires a {{workarea}}.  All responses to this campaign will be assigned to this {{workarea}}
  
  * 'Do you want to create a separate page for each invitee'
  This option is ticked by default.  {{Lamplight}} will create a unique url (website address) for each invitee.  Using this method you will be able to see who has responded and what they have said, and this information will appear in their profile, and centrally in DataDirect.  It's good practice to ensure invitees know their responses are not anonymous.  If you untick this box, all invitees will receive the same link, give anonymous replies, and information will be held only in data direct, and not in profiles.
  
  * Do you want invitees to be able to use their web link more than once
 If you have ticked the box to choose to send out individual emails then you can choose whether
-respondents need to complete the evaluation all in one go, whether they can leave and come back
+respondents need to complete the {{eval}} all in one go, whether they can leave and come back
 to it, or if they can respond multiple times.
 
 __Invitees__
@@ -31,7 +31,7 @@ Select the {{people}} you wish to complete the survey, in the same way that you 
 
 __Text and styling__
 
-The final tab, 'Text and styling', will let you customise the appearance and content of the online evaluation. The elements of the survey screen are, in order:
+The final tab, 'Text and styling', will let you customise the appearance and content of the online {{eval}}. The elements of the survey screen are, in order:
 
   1. The 'introductory text'. Appears at the top of the screen before the survey.
   2. The 'text to display at the bottom of the page', after the survey.
