@@ -6,12 +6,12 @@ In the section 'Manage drop-down lists' you'll see options at the bottom to add 
 
 ![System Admin - Add fields to records]({{imgpath}}1217a.png)
 
-Each type of record works on the same principle, with the example below being for work records.  
-The system is almost identical to adding Custom tabs and fields on profiles.  Please ensure you are familiar with this section first.  See:
+Each type of record works on the same principle, with the example below being for {{work}} records.  
+The system is almost identical to adding Custom tabs and fields on profiles.  Please ensure you are familiar with this section first. [(Adding custom tabs and fields 18.3.0)])(/help/index/v/{{version}}/p/18.3.0)
 
 __Adding fields to a work record__
 
-Choose 'View, add and edit custom field on work records'.  You'll see three columns, with the first showing you a list of tabs available on your work records.  Depending on your set-up you may see one or more of the three standard tabs on the work record (When and where, Attendance, Details).  This is where you have custom fields added to these tabs.  You'll also see any custom tabs you have created.
+Choose 'View, add and edit custom field on {{work}} records'.  You'll see three columns, with the first showing you a list of tabs available on your {{work}} records.  Depending on your set-up you may see one or more of the three standard tabs on the {{work}} record (When and where, Attendance, Details).  This is where you have custom fields added to these tabs.  You'll also see any custom tabs you have created.
 
 Click on a tab on the left, and you'll see the fields for that tab in the centre column.  If you then click on a field, you'll see the field information, and options if applicable in the right column.  As shown below.
 
@@ -23,8 +23,8 @@ To create a new tab, select the button 'Click here to add' in the left-hand colu
 
 * What type of person is this for:  No answer can be selected here, as records show all fields for all users.
 * Restrict this field to managers/admins?:  Although you can tick this field, it does not function in this record.
-* Projects: You can select which projects (If you have more than one project) this field should display for.
-* You may also see fields about publishing, if you have the publishing module.  See section [24.0 Publishing Module](/help/index/v/{{version}}/p/24.0)
+* {{Project}}s: You can select which {{project}}s (If you have more than one {{project}}) this field should display for.
+* You may also see fields about publishing, if you have the publishing module. [(Publishing Module 24.0)](/help/index/v/{{version}}/p/24.0)
 Click 'Save' to save the tab.
 
 __Important__ You must always add a field to a tab, to ensure it remains editable and visible in System Administration.  If you do not, you'll have an empty tab in your record which you will be unable to edit.  In this case, please contact Lamplight for support.
@@ -37,7 +37,7 @@ To edit a tab, select the tab in the left-hand column, and when the tab informat
 
 __Creating a field__
 
-Select the required tab, and in the middle column, choose the button 'Click to add'. In the right-hand column, you'll see a new section appear 'Field: Click to add.'  Double click on the non-bold text 'Field: Click to add ‘and a pop--up box will open.  Again, some of the options show here are redundant for work records.
+Select the required tab, and in the middle column, choose the button 'Click to add'. In the right-hand column, you'll see a new section appear 'Field: Click to add.'  Double click on the non-bold text 'Field: Click to add ‘and a pop--up box will open.  Again, some of the options show here are redundant for {{work}} records.
 
 ![System Admin - field information]({{imgpath}}1220a.png)
 
@@ -48,7 +48,7 @@ Select the required tab, and in the middle column, choose the button 'Click to a
 
 * Is this a required for: IF this is selected, a user will not be able to exit the tab without entering information.  Use very cautiously.
 * Restrict this field to managers/admins?:  Although you can tick this field, it does not function in this record.
-* Projects: You can select which projects (If you have more than one project) this field should display for.
+* {{Project}}s: You can select which {{project}}s (If you have more than one {{project}}) this field should display for.
 * You may also see fields about publishing, if you have the publishing module.  See: 
 Click save once you have completed the appropriate fields.
 
@@ -115,7 +115,7 @@ Click on the item in the left-hand column, and you'll be able to add a new field
 
 Things to consider
 * The attendance table can become quickly crowded if you add many columns, and so consider what you need carefully, and the length of the field title.
-* Reporting is more limited on custom fields than it is for normal fields in a work record.  You can report on them in {{work}} reports, and display them in a person's {{work}} records profile tab, but they can't be used in groups, and only in Dataviews using a custom template.
+* Reporting is more limited on custom fields than it is for normal fields in a {{work}} record.  You can report on them in {{work}} reports, and display them in a person's {{work}} records profile tab, but they can't be used in groups, and only in Dataviews using a custom template.
 * You can hide other columns you don't need in the table, by right clicking in the table header row and deselecting ones you don't need.  Right click again and choose 'Save table columns layout' to always show only the selected rows.  This only applies to your user, and can be different for each person.
 
 
