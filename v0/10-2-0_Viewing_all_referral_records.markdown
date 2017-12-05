@@ -32,7 +32,7 @@ If you wish to download the information you have searched for into a spreadsheet
 
 __The context menu__
 
-The context menu for the table has a number of options: right-click on a row of the table or use the menu button to see these. Some will be disabled, depending on the {{work}} record and your permission level within the system.
+The context menu for the table has a number of options: right-click on a row of the table or use the menu button to see these. Some will be disabled, depending on the {{referral}} record and your permission level within the system.
 
 ###### core module
 
