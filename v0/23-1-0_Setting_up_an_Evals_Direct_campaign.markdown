@@ -18,7 +18,7 @@ __Campaign details__
  * {{Workarea}}: Responses will be entered directly into {{Lamplight}}, and so as with every other type of record, requires a {{workarea}}.  All responses to this campaign will be assigned to this {{workarea}}
  
  * 'Do you want to create a separate page for each invitee'
- This option is ticked by default.  {{Lamplight}} will create a unique url (website address) for each invitee.  Using this method you will be able to see who has responded and what they have said, and this information will appear in their profile, and centrally in DataDirect.  It's good practice to ensure invitees know their responses are not anonymous.  If you untick this box, all invitees will receive the same link, give anonymous replies, and information will be held only in data direct, and not in profiles.
+ If you create a separate page for each invitee, you will know who has said what - their responses will not by anonymous. This may be helpful from your perspective, as it broadens out the possibilities when reporting. However, you ought to let respondents know that their responses are not anonymous; and if you do so, they may change their responses, or not respond. This is a judgement you will need to make for the particular respondents and questions you have.  If you untick this box, all invitees will receive the same link, give anonymous replies, and information will be held only in data direct, and not in profiles. 
  
  * Do you want invitees to be able to use their web link more than once
 If you have ticked the box to choose to send out individual emails then you can choose whether
