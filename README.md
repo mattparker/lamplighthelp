@@ -105,6 +105,7 @@ Please use tags from the following list (which is case sensitive):
  - Advanced topics
  - Time saving tips
  - System admin
+ - Data protection
  - {{Report}}
  - {{Group}}
  - {{Activity}}
