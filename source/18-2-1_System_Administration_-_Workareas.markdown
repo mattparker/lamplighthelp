@@ -2,7 +2,7 @@
 
 > Current {{workarea}}s are shown in bold, with the {{subworkarea}}s listed below them. 
 
-{{Workarea}}s and {{subworkarea}}s are managed in a similar to other lists within the system administration menu (see section [18.2.0  System Administration - Lists](/help/index/v/{{version}}/p/18.2.0) ).:
+{{Workarea}}s and {{subworkarea}}s are managed in a similar to other lists within the system administration menu (see section [18.2.0  System Administration - Lists](/help/index/v/{{version}}/p/18.2.0) ).
 
 ![Editing {{workarea}}s and {{outcome}}s]({{imgpath}}145a.png)
 
