@@ -4,7 +4,7 @@
 
 If you need to see a {{person}} or {{org}}'s {{grant}} activity, the '{{Grant}}s' tab in their profile is the best place to look. When you open it you will see a table of all the records where they have been included in the attendance table.
 
-![{{Grant}}s Tab Table](/help/index/p/60.2.0a.png)
+![{{Grant}}s Tab Table](60.2.0a.png)
 
 The default setting for viewing {{referral}} records is 5 to a page, but this can be changed by your system administrator through 'Global settings'(for more on this, see [16.12.4 Global Settings - Data Display Options](/help/index/p/16.12.4). Alternatively you can use the page numbers at the top of the table to move through the records. 
 
