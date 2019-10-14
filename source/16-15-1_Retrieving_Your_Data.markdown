@@ -20,11 +20,11 @@ The Archive Module allows us to retain your data, as we will still have a Hostin
 You can use various methods to download your information in full:
    - Using {{group}}s with data views to show profile and {{activity}} information (see [12.0.0 {{Group}}s](/help/index/p/12.0.0) and [13.0.0 {{Group}} Data Views](/help/index/p/13.0.0)).
    
-   ![Data View to Show Personal Details](16.5.1a.png)
+   ![Data View to Show Personal Details](16.15.1a.png)
    
    - Downloading {{activity}} records ({{work}}, {{referral}} etc.) with additional columns to show contents (see [7.3.0 Viewing All {{Work}} Records](/help/index/p/7.3.0)).
    
-   ![{{Work}} Records Table](16.5.1b.png)
+   ![{{Work}} Records Table](16.15.1b.png)
    
    - Downloading ‘Complete Reponses’ in {{eval}} reports (see [15.2.0 {{Eval}} Reports](/help/index/p/15.2.0)).
    
