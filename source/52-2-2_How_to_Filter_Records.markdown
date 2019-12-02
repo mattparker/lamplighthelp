@@ -6,8 +6,7 @@
 
 This video gives and introduction to the 'search' bar which you can find above some tables in {{Lamplight}}. It helps you to narrow down your search for records by information found in the records, such as {{workarea}} or date. 
 
-<iframe title="How to Filter Records" width="640" height="564" src="https://player.vimeo.com/video/279244828" data-video-display="home" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
-
+<iframe src="https://player.vimeo.com/video/279243736" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ##### No Manual
 
