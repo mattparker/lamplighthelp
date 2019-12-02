@@ -8,17 +8,17 @@
 
 To see a table of your existing campaigns:
 - Go to '{{work}} -> DataDirect -> {{eval}} campaigns -> view'.
-- The table here shows you a list of your campaigns. If the one that you are looking for is not in the table, you may need to change the date filters in the 'Search' bar above the table.
+- The table here shows you a list of your campaigns. If the one that you are looking for is not in the table, you may need to change the date filters. To do this, click on the 'Filter' button in the 'Search' bar above the table, then choose the dates you need.
 
 ### The Search Bar
 
 ![DataDirect Search Bar](23.5.0a.png)
 
-The 'Search' bar also allows you to filter by {{workarea}} and custom fields, and to add additional columns.  
+The filters in this bar also mean that you can narrow down your results by {{workarea}} and custom fields, and add additional columns.  
   
 #### Filtering  
 
-The filter options allow you to filter: 
+The options allow you to filter: 
    - Between specific dates: set the dates in the 'campaigns are open between' boxes.
    - Related to a particular {{workarea}} or {{subworkarea}}: choose it from the list. If you choose more than one, you will see campaigns which relate to any of the areas chosen rather than to all of them.
    - Related to the staff member who added or edited it last: choose the relevant staff member from the drop-down list.
