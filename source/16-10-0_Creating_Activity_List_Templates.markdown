@@ -4,7 +4,7 @@
 
 
 
-When you view {{activity}} records, there is a search bar above the table where you can add filters to narrow down your search, and extra columns so that you can choose to see more information. 
+When you view {{activity}} records, there is a 'Filters' button in a search bar above the table. Click on this to find filters which can be used to narrow down your search, and extra columns so that you can choose to see more information. 
 
 ![{{Work}} Records Table](16.10.0a.png)
 
