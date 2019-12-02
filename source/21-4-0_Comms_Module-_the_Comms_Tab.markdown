@@ -16,7 +16,7 @@ If you want to look at details of a {{comm}} record, the following options are a
 
 - View full details: opens the details of the {{comm}} including any attached files.
 - Edit: opens the data entry window where you can change the details of some {{comm}}s (see section [10.1.0 Creating a {{comm}}](/help/index/p/10.1.0)).
-- Delete: archives the {{comm}}. You can still see it by selecting 'Show deleted records' from the search bar above the table of {{comm}}s.
+- Delete: archives the {{comm}}. You can still see it if you click on the 'Filter' button in the search bar above the {{comm}}s table, then select 'Show deleted records'.
 
 ![View Deleted Records](21.4.0b.png)
 
