@@ -14,7 +14,7 @@ The default setting for viewing {{referral}} records is 5 to a page, but this ca
 
 If you can't see the record that you want in the table, it may be that you need to change the dates of the displayed records. To do that:
 
-- Click on the 'Search' bar above the table.
+- Click on the 'Filter' button in the search bar above the table.
 
 ![Table Search Bar](60.2.0b.png)
 
