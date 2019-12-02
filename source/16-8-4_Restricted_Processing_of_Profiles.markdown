@@ -26,7 +26,7 @@ You will be taken back to the home page.
 System Administrators can view restricted profiles. 
 
 - Go to '{{people}} -> view -> (choose the type of {{person}} this is, e.g. {{user}}.
-- In the search bar above the table set ‘Limit list to’ ‘People restricted for processing’. 
+- Click on the 'Filter' button in the search bar above the table, then set ‘Limit list to’ ‘People restricted for processing’. 
 
 ![Limit List to {{People}} Restricted for Processing](16.8.4a.png)
 
