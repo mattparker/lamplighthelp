@@ -41,7 +41,7 @@ The fields in this tab are:
  
 #### Do you want search bars within profile tabs (for {{work}}, {{referral}}, {{grant}}, {{comm}} and {{eval}} tabs)?
 
-   This option enables the search bar in each of the listed profile tabs. Clicking the search bar will expand it to show options that can be used to filter the results displayed in the table below. It will also allow you to add certain extra data columns. This option can be useful if you have many records linked to profiles and need to filter them to get a useful view of the data.
+   This option enables the search bar in each of the listed profile tabs. Clicking the 'filter' button on the search bar will expand it to show options that can be used to filter the results displayed in the table below. It will also allow you to add certain extra data columns. This option can be useful if you have many records linked to profiles and need to filter them to get a useful view of the data.
    
    ![Search Bar on Profile {{Work}} Records](16.12.4f.png)
  
