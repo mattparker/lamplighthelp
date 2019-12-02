@@ -14,7 +14,7 @@ You will see a table showing invoices previously created.
 
 ![Viewing invoices created](20.6.3a.png)
 
-By default you will see invoices created in the last month. To change this, click on the search bar above the table to change the dates. 
+By default you will see invoices created in the last month. To change this, click on the 'filter' button in the search bar above the table to change the dates. 
 
 ![The Search Bar](20.6.3b.png)
 
