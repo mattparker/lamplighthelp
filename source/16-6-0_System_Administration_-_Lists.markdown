@@ -48,7 +48,7 @@ Please read 'Important Things to Consider' (above) before making any changes.
 Please read 'Important Things to Consider' (above) before deleting any list items.
 - Find the item you would like to delete in the list.
 - Click the grey dustbin icon to the right of it. This will turn the selected row red. 
-- If you have clicked this in error, clicking on the dusbin icon again will 'undelete' the item.
+- If you have clicked this in error, clicking on the dustbin icon again will 'undelete' the item.
 - Click 'save all changes' at the top or bottom of the page to keep your changes. Once you have done this you will not be able to undelete the item.
 
 
