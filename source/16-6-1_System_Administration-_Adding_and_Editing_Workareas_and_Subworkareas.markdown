@@ -45,11 +45,11 @@ It is possible to add a number of {{workarea}}s to this list in one go.
 ### Adding {{Subworkarea}}s
 
 Once you have set up your {{workarea}}s, you may want to add {{subworkarea}} 'subsets' to them. For example, you might have 'Advice drop-in' as your {{workarea}}, then 'Monday lunchtime', 'Tuesday morning', 'Thursday evening' and 'Friday afternoon' as your {{subworkarea}}s. This allows you to track and report on your work in more detail.
-- Click on the name of the {{workarea}} that you would like to add {{subworkarea}}s to. If it is an existing {{workarea}} you may already see some {{subworkarea}}s listed here.
+- Click on the name of the {{workarea}} that you would like to add {{subworkarea}}s to. If it is an existing {{workarea}} you may already see some {{subworkarea}}s listed here.  
 **If you're adding one new {{subworkarea}}:**
 - Click on 'add new activity'.
 - Type the name of the {{subworkarea}} into the text box.
-- Click 'update'. The {{subworkarea}} will now be listed below the {{workarea}}.
+- Click 'update'. The {{subworkarea}} will now be listed below the {{workarea}}.  
 **If you're adding more than one new {{subworkarea}}:**
 - Click on 'bulk add activity'. 
 - Type the names of the {{subworkarea}}s you want to add in the pop-up box. Each one should be separated by a semi-colon (;), but you don't need any spaces between each one. For example 'Monday lunchtime;Tuesday morning;Thursday evening;Friday afternoon'.  
