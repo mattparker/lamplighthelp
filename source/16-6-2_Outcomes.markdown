@@ -58,13 +58,13 @@ xxxxx Picture here xxxxx
 
 - Find the measure that you would like to add descriptors to, and click to open it. 
 
-**To add a single descriptor:**
+#### To add a single descriptor:
 - Click on 'add new score descriptor'. A pop-up box will open.
 - Enter the score which you are describing in the top box. For example, '1'.
 - In the box underneath write what the score means, for example 'Very unhappy'. 
 - Click 'update' when you have finished.
 
-**To add a number of descriptors to the same measure:**
+#### To add a number of descriptors to the same measure:
 - Click on 'bulk add {{outcome}} measure'. This will open a pop-up box.
 - Add the descriptors that you need, each one separated by a semi-colon (:). You do not need a space at the beginning or end of them. For example, you may have 'very happy;happy;neither happy nor unhappy;unhappy;very unhappy'. It is easier if you add these in order from teh lowest score to the highest (so in this example we have the descriptors starting with the one which relates to a score of 1, up to the one relating to a score of 5).
 - Click on 'add all' when you have finished. This will add all the descriptors to your measure. However, you still need to tell Lamplight which score each one belongs to.
