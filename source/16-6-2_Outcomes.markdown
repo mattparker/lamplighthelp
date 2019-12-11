@@ -58,7 +58,7 @@ xxxxx Picture here xxxxx
 
 - Find the measure that you would like to add descriptors to, and click to open it. 
 
-**To add a single desctriptor:**
+**To add a single descriptor:**
 - Click on 'add new score descriptor'. A pop-up box will open.
 - Enter the score which you are describing in the top box. For example, '1'.
 - In the box underneath write what the score means, for example 'Very unhappy'. 
