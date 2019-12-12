@@ -8,60 +8,86 @@ The other option you'll see in '{{Work}} Record Custom Tabs and Fields' is 'Mana
 
 If you look at the 'Attendance' tab in a {{Work}} record you will see the attendance table. There are a number of columns, including name, attendance type, and role.  It's possible to add additional custom columns here (you may already have some.) However, the attendance table can become quickly crowded if you add too many columns, and so consider what you need carefully.
 
-### Adding a New Column
+### Finding your Custom Columns
 - Go to 'admin -> system administration -> Manage Custom Fields and Drop-down Lists -> {{Work}} Records Custom Tabs and Fields -> Manage custom columns on the attendance table'.
 
-You will see any existing custom columns in the left-hand column, under 'Current Sets'.
+If you have any existing custom columns in your system you will see a list of them here. 
 
-To add a new one, click the 'click to add' button' at the bottom of this column. This will bring up a new 'set' in the middle column.  Click on the text 'click to add' (this will be on the second line down, not the title). 
+### Adding Sets
 
-This opens up a pop-up box with the following fields:
-   - Text: the name of the column. Keep it short, as it will appear in the header row of the table.
-   - What type of person is this for?: there are no options in this field, as the column will appear for all types of person.
-   - Restrict this field to managers/admins?: although you can tick this field, it does not function in this record.
-   - {{Project}}s: if you have more than one {{project}} in your system, you can select ones the field will be displayed in. 
-   - If you have the Publishing Module you will also see fields about publishing. See [28.3.0 Publishing Module: Publishing Records to the Remote Site](/help/index/p/28.3.0). 
-   - Click 'Save' to save the tab.
+If you want to add new columns, first you will need at least one set. Column sets are for adminstrative convenience in system admin - they are sometimes used to group columns together. You will not see them in the table itself, but they could be used for reference in future. You can put any number of columns in one set.
 
-**Important** You must always add a field to a column as soon as you create it to ensure it remains editable and visible in System Administration. If you do not, you'll have an empty column in your record which you will be unable to edit. In this case, please contact Lamplight for support.
+#### To Add a Single Set
 
-### Adding a Field
-- In the middle column, choose the button 'Click to add'. 
-- A new section will now appear in the right-hand column: 'Column: Click to add.' 
-- Double click on the non-bold text (not the title) 'Column name: Click to add'
-- A pop-up box will open. 
+- Click on the 'add new set' button. In the pop-up box you'll need to enter:
+   - Set name -  this will be what you see at the top of the attendance table column.
+   - If you have more than one {{project}}, which ones you would like it to be included in. 
+- Once you have finished here click 'Update'. Remember, your changes will not be finally saved until you click on the 'save all changes' button at the top or bottom of the custom fields page. 
 
-![Custom Column Fields](16.7.5a.png)
+#### To Bulk Add Sets
 
-Some of the options shown here will not be relevant to the attendance table. 
-- Text: This is the name of the field.
-- What type of person is this for: No answer can be selected here, as records show all fields for all users.
-- Type: This selects the type of field you will be creating. By default, a new field will be a 'select' field, unless changed. (For types of custom field see [16.7.3 Types of Custom Tab and Field in {{Activity}} Records](/help/index/p/16.7.3). 
+- Click on 'bulk add set', then add any set names to the text box that opens up. These should be separated by a semi-colon (;) - you do not need a space before each new one. For example, 'Set 1;Set 2;Set 3'.
+- When you have finished, click 'Update'. Remember, your changes will not be finally saved until you click on the 'save all changes' button at the top or bottom of the custom fields page. 
+- If you want to share your custom columns across different {{Lamplight}} {{project}}s, you will need to go back to each set in the list and choose the {{project}}s you would like them to be visible to.
 
 
-Reporting is more limited on custom attendance table fields than for normal fields in a {{work}} record.  You can use them to present your {{report}} (as either row or column data) in {{work}} {{report}}s, and display them in a person's {{work}} records profile tab, but they can't be used in {{group}}s, and only in data views using a custom template. 
+### Adding Columns
 
-In addition:
+- Click on the set that you would like to add columns to. If there are already columns in this set you will see them listed here. If it is  a new set you will see the option to click to add a new column. 
+
+#### Adding a Single Column
+
+- Either click the 'add new column' button which is above the list of existing ones, or, if it is a new set, click the 'add new field to get started' button in the tab itself.  This opens a pop-up box. Complete the details with:
+
+   ![Add a Field to a Tab](16.7.2e.png)
+
+   ![Adding a new field](16.7.2f.png)
+
+- The 'Field name' (this is the text you will see at the top of the attendance table column, so keep it short).
+- Whether it is a required field (if you choose this option it will not be possible to edit the table and save it without putting data in this field).
+- Type: This selects the type of field you will be creating. By default, a new field will be a 'select' field, unless changed. (For types of custom field see [16.7.3 Types of Custom Tab and Field in {{Activity}} Records](/help/index/p/16.7.3). Reporting is more limited on custom attendance table fields than for normal fields in a {{work}} record.  You can use them to present your {{report}} (as either row or column data) in {{work}} {{report}}s, and display them in a person's {{work}} records profile tab, but they can't be used in {{group}}s, and only in data views when using a custom template. 
+   In addition:
    - Captions and fixed text fields do not work with attendance table columns (even though it is still possible to select them.) If you create these then the attendance table will not display correctly.
    - Look-up fields will function only as text boxes.
    - Radio fields will not show any options.
+- {{Project}}s: if you have more than one {{project}} in your system, you can select ones the field will be displayed in. 
+- If you have the Publishing Module you will also see fields about publishing. See [28.3.0 Publishing Module: Publishing Records to the Remote Site](/help/index/p/28.3.0). 
+- When you have finished, click 'Update'. Remember, you will also need to click 'save all changes' before leaving the main custom fields page, or you will lose your new column. 
+- The column that you have just added will now appear in the set.
+  
+ ![New Field in Tab](16.7.2g.png) 
+ 
+#### Bulk Adding Columns
 
-- Is this a required field?: If this is selected, a user will not be able to exit the tab without entering information. Use very cautiously.
-- Restrict this field to managers/admins?: Although you can tick this field, the column will still be visible to all operators.
-- Projects: You can select which projects this field should display in (if you have more than one {{Lamplight}} project).
-- If you have the Publishing Module you will also see fields about publishing. For more on this see [28.0.0. Publishing Module](/help/index/p/28.0.0). This does not apply to custom attendance fields, however, as attendances cannot be published.
+- Click on 'bulk add option' beneath the header of the set you would like to include them in. This opens a pop-up box.
+- Type the names of all the columns that you are adding in the text box (again, remember that this is what will appear in the attendance table header bar, so keep the names short) each one separated by a semi-colon (;). You do not need a space before new ones. For example, 'Paid subs?;Behaviour rating;Weekly contribution'.
+- When you have finished, click 'add all'. Don't forget, these are not finally saved until you click on the 'save all changes' at the top or bottom of the custom fields page before exiting - you still need to choose the type of field it is, and whether it is shared with other {{project}}s, for example. 
+- You will now see all your new columns at the bottom of the list. 
+- Click on each one in turn and choose the pen and paper icon to open it for editing. Their names will already be entered into the form, but you will need to add the other details for them, such as type of field, as described for a single tab above.
+- When you've finished editing each one, click 'Update'. (Again, you still need to click on 'save all changes' before exiting the page.) You're now ready to add options to your fields, as necessary. 
 
-Click 'save' once you have completed the appropriate fields.
+### Setting Options
+   
+The column type that you have just added may need some options (for example, if you've added checkboxes, you might want the options 'Yes' and 'No'.) Click on its name to open it, then if you can't see the buttons which allow you to add options, click on the three dots to the right of the column name. 
 
-### Editing a Column
-- Select the set in the left-hand column.
-- Double click on the text 'Set label' in the middle column.
-- Edit the existing information (as above).
+#### Add a Single Option
 
-### Editing a Field
-- Click on the field you wish to edit in the centre column. 
-- In the right-hand column, you will see the field information appear (you may need to scroll up if you have a long list of options.) 
-- Double click on the non-bold text 'Column name:'. From here follow the process as above to edit and save the field.
+- To add your options one at a time, click on the 'add new option' button. This opens a pop-up box where you add the text of your option (in the previous example this would be 'Yes'). 
+- Click 'Update' when you have finished. 
+- Continue adding all the options you need in this way.
+
+#### Add a Number of Options at Once
+
+- If you have a column based on a field with a number of different options, click on 'bulk add option'. 
+- Type all your options in the text box, with a semi-colon (;) between each one. You do not need a space before each new one. For example, 'Yes;No;Not known.'
+- When you have finished, click 'add all'. They will appear in a list below the column name.
+
+#### Add from a Built-in List
+
+- Lamplight contains a number of built-in sets of options. To see what is there, click on the 'add from built-in list' button. They include yes/no; some demographic lists such as ethnicity, gender, religion and language; number lists; days and months. If you would like to use any of these lists as options for your column, click on the circle next to the appropriate one then click 'add'. 
+- If you do not see any sets of options which are relevant to your column, click cancel to come out of the bulk lists again. 
+- Once you have added options to your columns, do not forget to save them before leaving the page using the 'save all changes' tab which can be found at the top and bottom of the main Attendance Custom Fields page. 
+
 
 
 ##### Tags
