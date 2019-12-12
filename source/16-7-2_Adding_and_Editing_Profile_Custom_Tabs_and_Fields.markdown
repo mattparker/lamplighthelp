@@ -29,7 +29,7 @@
    - Type of {{person}} - you must choose what type or types of {{person}} this new tab is for. If you do not choose anything here then the new tab will not be visible on any profiles.
    - Roles - you can also choose to limit this tab to {{people}}, {{org}}s or {{family}} (if they are used in your system) with particular roles.
    - Restrict the field - ticking this means that only operators with a Manager or Administration level of access will be able to see the field and its contents.
-   - Projects - if you have more than one project in your system, you can choose to share this tab so that it is also visible in other projects. When tabs and fields are shared, it is possible to report information across projects.
+   - {{Project}}s - if you have more than one {{project}} in your system, you can choose to share this tab so that it is also visible in other {{project}}s. When tabs and fields are shared, it is possible to report information across {{project}}s.
 
 ![Setting the tab name](16.7.2c.png)
 
@@ -40,7 +40,7 @@
 #### Bulk Adding Tabs
 
 - Click on 'bulk add option'. This opens a pop-up box.
-- Type all the names of all the tabs that you are adding in the text box, separated by a semi-colon (;). You do not need a space before each one. For example, 'Personal;Support Issues;Currrent Situation'.
+- Type the names of all the tabs that you are adding in the text box, separated by a semi-colon (;). You do not need a space before each one. For example, 'Personal;Support Issues;Currrent Situation'.
 - When you have finished, click 'add all'. Don't forget, these are not finally saved until you click on the 'save all changes' at the top or bottom of the page before exiting. 
 - You will now see all your new tabs at the bottom of the list. 
 - Click on each one in turn and choose the pen and paper icon to open it for editing. You will need to add the details for them as described for a single tab above.
@@ -52,7 +52,7 @@
 
 #### Adding a Single Field
 
-- Either click the 'add new field' button which is above the list of existing fields, or, if it is a new tab, click the 'add new field' to get started button in the tab itself.  This opens up a pop-up box. Complete the details with:
+- Either click the 'add new field' button which is above the list of existing fields, or, if it is a new tab, click the 'add new field to get started' button in the tab itself.  This opens up a pop-up box. Complete the details with:
 
    ![Add a Field to a Tab](16.7.2e.png)
 
@@ -65,17 +65,25 @@
    - Which type of profiles it will be applicable to (both the type of {{person}} and the role). It is important that you fill these in, or the field will not be visible in any profiles.
    - The type of field required - there is detailed information on how to choose the best field type in [16.7.1 Custom Fields in Profiles](/help/index/p/16.7.1).
    - Whether to restrict the field to Managers and Admins. If you select this it means that database operators with lower levels of access will not see these fields or be able to add data to them.
-   - If you have more than one project, you have the option to share this new field across your projects.
+   - If you have more than one {{project}}, you have the option to share this new field across your {{project}}s.
    XXXXXXXXX - If you have the Publishing Module, you can also specify whether data in this field should be published - although the profile will also need to be published before any data becomes available. See [28.1.0 Publishing Module Security](/help/index/p/28.1.0) for more information about the Publishing Module and the controls in place. XXXXXXXXXXXXX
 - When you have completed all the details, click 'Update'. Remember, this will not be finally saved until you click 'save all changes' at the top or bottom of the profile custom fields page. 
 - The field that you have just added will now appear in the tab.
   
  ![New Field in Tab](16.7.2g.png) 
-   
+ 
+#### Bulk Adding Fields
+
+- Click on 'bulk add option' beneath the header of the tab you would like to include them in. This opens a pop-up box.
+- Type the names of all the fields that you are adding in the text box, separated by a semi-colon (;). You do not need a space before each one. For example, 'Consent;Sign-up for Newsletter;Ready to Volunteer'.
+- When you have finished, click 'add all'. Don't forget, these are not finally saved until you click on the 'save all changes' at the top or bottom of the custom fields page before exiting. 
+- You will now see all your new fields at the bottom of the list. 
+- Click on each one in turn and choose the pen and paper icon to open it for editing. Their names will already be entered into the form, but you will need to add the other details for them, such as type of field, as described for a single tab above.
+- When you've finished editing each one, click 'Update'. (Again, you still need to click on 'save all changes' before exiting the page.) When you have added all the details you can add options to your fields, as necessary. 
+
 ### Setting Options
    
 The field that you have just added may need some options (for example, if you've added a 'Current status' field, you might want the options 'Active' and Inactive'.) If it is a field that you have just added it will be open, with buttons allowing you to add options at the bottom. If it is an existing field that you want to add more fields to, or are editing, click on the field name then select the three dots on the right to see these 'add' options. 
-In the right column, you’ll now see the settings for your field (if you can't, click on the field name - the grey button in the middle column.)
 
 #### Add a Single Option
 
@@ -91,7 +99,7 @@ In the right column, you’ll now see the settings for your field (if you can't,
 
 #### Add from a Built-in List
 
-- Lamplight contains a number of built-in sets of options. To see what is there, click on the 'add from built-in list' option. They include yes/no; some demographic options such as ethnicity, gender, religion and language; number lists; days and months. If you would like to add any of these lists of options to your field, click on the circle next to the appropriate one then click 'add'. 
+- Lamplight contains a number of built-in sets of options. To see what is there, click on the 'add from built-in list' button. They include yes/no; some demographic options such as ethnicity, gender, religion and language; number lists; days and months. If you would like to use any of these lists as options for your field, click on the circle next to the appropriate one then click 'add'. 
 - If you do not see any sets of options which are relevant to your field, click cancel to come out of the bulk lists again. 
 
 Once you have added options to your fields, do not forget to save them before leaving the page, using the 'save all changes' tab which can be found at the top and bottom of the page. 
@@ -151,7 +159,7 @@ If you delete a tab, all of the fields in it will be deleted too. Similarly, if 
 
 To delete any tab, field or option:
  
- - Find it in the list, then click on the 'dustbin' icon to the right of it. Click the 'Del' button to the right of the relevant field or tab. The item you have chosen will now show as pink in the list.
+ - Find it in the list, then click on the 'dustbin' icon to the right of it. The item you have chosen will now show as pink in the list.
  - Remember to click 'save all changes' at the top or bottom of the page before moving on, or the item will remain active. 
 
 
