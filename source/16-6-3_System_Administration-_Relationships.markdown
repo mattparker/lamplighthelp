@@ -10,26 +10,27 @@ To add a new one, or edit an old one:
 - Go to 'admin -> system administration -> Manage Custom Fields and Drop-down Lists -> People and Organisations -> Relation types between people'.
 
 ### Inverse Text
-Some relationships are reciprocal, with two different sides. For example, a parent and child, or employer and employee.  If the relationship that you are adding is like this: 
+Some relationships are reciprocal, with two different sides. For example, a parent and child, or employer and employee. To create a reciprocal relationship:  
 
 - Add the initial relationship (e.g. "parent").
-- Double-click on the 'double-click to add' after 'Inverse text'. 
-- Add the label for the 'reverse direction' of the relationship (e.g. "child"). 
+- Add the other side of the relationship (in this case "child") in the  'Inverse text' box. 
 
 ![Inverse Text](16.6.3a.png)
 
 ### Linked Records
-If you decide to link records, then {{people}} or {{org}}s who have this type of relationship can be added to the attendance table of an {{activity}} record linked to each other.
+There is also a checkbox for 'Use in linked records'. If you decide to do this then {{people}} or {{org}}s who have this type of relationship can be added to the attendance table of an {{activity}} record together.
 
 - When you use the search box in the 'Attendance' tab of a record, the name of the {{person}} or {{org}} you are searching for will appear there.
 - If they have any relationships of this type, there will be another item in the search results list with the name of the {{person}} or {{org}} with whom they have this relationship appearing next to them. 
 
 ![Linked Relationships in a {{Work}} Record](16.6.3b.png)
 
-If you choose the linked option (rather than the {{person}}'s name by itself), the record will be attached to both profiles and you will be able to report on the attendance of both of them.  It will count as one attendance in reporting, rather than as two if you added them separately.
+- If you choose the linked option (rather than the {{person}}'s name by itself), the record will be attached to both profiles and you will be able to report on the attendance of both of them.  It will count as one attendance in reporting, rather than the two attendances that would show if you added them separately.
 
 One example of when this is useful is if you are running training and people attending are there on behalf of an organisation.  You need to know both the name of the person and their organisation, and they need to be shown together so you know which person is from which organisation.  It's only actually one attendance at the training session, so you need to use linked relationships to record their attendance.
 
+- Once you have finished the relationship details, click 'Update'. 
+- Remember to click 'save all changes' at the top or bottom of the page before you leave. If you navigate away from this page before saving then your changes will be lost.
 
 ###### core module
 
