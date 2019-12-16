@@ -15,18 +15,39 @@ System Administrator level access is required to configure the file categories.
 
 ![Media Drop-down in System Admin](27.1.0a.png)
 
-- If you already have some categories you will see them listed here. Scroll to the bottom of the list and double-click where it says ‘double-click to add’.  This brings up a text field. Type the name of the category in this box, then press 'enter' on your keyboard to save. 
-- A new 'double click to add' field will appear at the bottom of the list. Continue creating categories as required.
+- If you already have some categories you will see them listed here. Above these are 'add new item' (to add a single category) and 'bulk add item' (to add a number of categories) buttons.  
 
-### Editing and Deleting a File Category
+#### To add a single category:
+   - Choose 'add new item', then type the name of the new category in the 'Text' box.
+   - Click 'Update'. You will see it added to the list.
+   - Click 'save all changes' at the top or bottom of the main page to keep this change. (You can make a number of changes to multimedia categories without saving in between, but you must not navigate away from the page before saving or all the changes will be lost.)  
+   
+#### To add a number of categories:
+   - Choose 'bulk add item', then type in each of the categories separated by a semi-colon (;). You do not need spaces between each one. For example, 'Sign-up form;DBS Check;{{Outcome}}s pictures'.
+   - When you have listed them all, click 'add all'. You will see them added to the list - check that they are all as you expected.
+   - Click 'save all changes' at the top or bottom of the page before leaving.
+   
+### Editing Existing Categories
 
-You can edit the name of an existing category by double clicking over the text to open it up as a text box.  Once you’ve finished editing, click ‘enter’ on your keyboard to save your changes.
+To edit an existing category: 
+- Find the relevant category in the list and click on the pen and paper icon ('edit text') to the right of it. 
+- Make the changes you need, then click 'Update'.
+- Click 'save all changes' at the top or bottom of the main page to keep your changes. If you navigate away from this page before saving then all changes will be lost.
 
-To delete a list item, drag it to the grey rectangle labelled ‘Drag here to delete’ at the bottom of the list of file categories.
+#### Re-ordering Items Already in the List
 
-![Deleting a File Category](27.1.0b.png)
+- To the right of each list item is a series of buttons. The first two of these allow you to move a category up and down the list.
+- Press the 'up' arrow to move an item up, and the 'down' arrow to move it down the list. 
+- You can also use the 'sort' button which you will find above the list. Pressing it once sorts your list alphabetically (A-Z), while pressing twice sorts it in reverse order (Z-A). 
+- Click 'save all changes' at the top or bottom of the main page to keep your changes. If you navigate away from this page before saving then all changes will be lost.
 
-It is not possible to delete a new file category immediately after setting it up. You will need to leave the file categories page, then re-open it. 
+#### Deleting an Item
+
+Please note: If you delete an item from the list you will not lose any of your multimedia files, this classification will simply be removed from them.
+- Find the category you would like to delete in the list.
+- Click the grey dustbin icon to the right of it. This will turn the selected row red. 
+- If you have clicked this in error, clicking on the dustbin icon again will 'undelete' the category.
+- Click 'save all changes' at the top or bottom of the page to keep your changes. Once you have done this you will not be able to undelete the category.
 
 
 ###### media module
