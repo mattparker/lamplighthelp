@@ -10,27 +10,43 @@ If you have the {{Comm}}s Module you can log {{comm}}s in your system. When you 
 
 ### Add a {{Comm}} Type
 
-- Go to 'admin -> system administration -> {{Comm}} Settings' and click on 'Edit types of logged {{comm}}s'.
-- Go to the bottom of the list and click in the 'double click to add’ box.
+- The items currently in the list will show in boxes on the page. Above these are 'add new item' (to add a single item) and 'bulk add item' (to add a number of items) buttons.  
 
-![Adding a New Logged {{Comm}} Type](21.1.2a.png)
+#### If you are adding a single item:
+   - Choose 'add new item', then type the name of the new type of logged communication in the 'Text' box.
+   - Click 'Update'. You will see it added to the list.
+   - Click 'save all changes' at the top or bottom of the main page to keep this change. (You can make a number of changes to logged communications without saving in between, but you must not navigate away from the page before saving or all the changes will be lost.)  
+   
+#### If you are adding a number of items:
+   - Choose 'bulk add item', then type in each of the items separated by a semi-colon (;). You do not need spaces between each one. For example, 'Fax;Informal conversation;Meeting notes'.
+   - When you have listed them all, click 'add all'. You will see them added to the list - check that they are all as you expected.
+   - Click 'save all changes' at the top or bottom of the page before leaving.  
 
-- This opens a text box where you can add in the name of the {{comm}} type that you want to add. 
-- Press enter (the return key) on your keyboard to save. 
+#### Editing Existing Items
+Before making any changes to the logged communication categories on your list, we recommend that you only ever edit existing items if there is a spelling or other mistake in the name, or if you are changing to something with the equivalent meaning. Changing the name of a category in the list can also affect your data, as although the name will be different, the data already recorded in that category will still be there. If, for example, you rename the 'Email received' option to ‘Telephone conversation’, everyone communication previously listed as an ‘Email received’ will now show as a 'Telephone conversation'.  This would affect your reporting and your view of how you are communicating. You should never edit existing items if you change the meaning of the item: better to add a new item with the different meaning.  
 
-### Editing a {{Comm}} Type
+To edit an existing category: 
+- In system admin, find the list that you item is in.
+- Find the relevant item in the list, and click on the pen and paper icon ('edit text') to the right of it. 
+- Make the changes you need, then click 'Update'.
+- Click 'save all changes' at the top or bottom of the main page to keep your changes. If you navigate away from this page before saving then all changes will be lost.
 
-- Double click on the {{comm}} type that you would like to edit.
-- The box will change to a text field where you can make your changes. 
-- Once you have finished editing press ‘Enter’ (the return key on your keyboard) to save it.
+![Editing lists](144a.png)
 
-### Deleting a {{Comm}} Type
+#### Re-ordering Items Already in the List
+- To the right of each list item is a series of buttons. The first two of these allow you to move an item up and down the list.
+- Press the 'up' arrow to move an item up, and the 'down' arrow to move it down the list. 
+- You can also use the 'sort' button which you will find above the list. Pressing it once sorts your list alphabetically (A-Z), while pressing twice sorts it in reverse order (Z-A). 
+- Click 'save all changes' at the top or bottom of the page to keep your changes. If you navigate away from this page before saving then all changes will be lost.
 
-- Drag the list item you would like to delete into the grey ‘Drag here to delete’ box at the bottom of the list. 
-- The {{comm}} type will appear in the grey box, confirming that it is being deleted.
-- If you have just created the list item, you will need to go to the main system administration page then return to the 'Edit types of logged {{comm}}' page before you can delete it. 
+![Editing lists - re-ordering items](144b.png)
 
-
+#### Deleting an Item
+Please note: If you delete an item from the list, you will no longer be able to select this logged communication type for new items. You will also not be able to use the communication type to filter your {{report}}s or {{group}}s, or to create a new data view to show the historic information on it.  
+- Find the item you would like to delete in the list.
+- Click the grey dustbin icon to the right of it. This will turn the selected row red. 
+- If you have clicked this in error, clicking on the dustbin icon again will 'undelete' the item.
+- Click 'save all changes' at the top or bottom of the page to keep your changes. Once you have done this you will not be able to undelete the item.
 ###### comms module
 
 
