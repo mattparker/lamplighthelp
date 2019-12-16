@@ -91,17 +91,6 @@ To find the 'sort' button which will order the questions within an {{eval}}, cli
 
 To find the 'sort' button which will arrange options within a specific question, click on the field name, then the button with three dots to the right of it. The 'sort' button appears at the top of the list of options.
 
-### Deleting {{Evals}}, Questions and Options
-
-If you are thinking of deleting evluations, questions or options, be aware that once you do this you will no longer be able to filter, present information in {{report}}s, or create {{group}}s using any information already entered into them. However, the underlying data has not been deleted, and the responses will still be listed in {{activity}} -> view -> {{eval}}. it is possible in some circumstances for Lamplight to reinstate it for you.
-
-If you delete an {{eval}}, all of the questions in it will be deleted too. Similarly, if you delete a question, the options within that will also be erased.
-
-To delete any {{eval}}, question or option:
- 
- - Find it in the list, then click on the 'dustbin' icon to the right of it. The item you have chosen will now show as pink in the list.
- - Remember to click 'save all changes' at the top or bottom of the page before moving on, or the {{eval}} will remain active. 
-
 ### Testing Your {{Eval}}  
 
 Once an {{eval}} has been created, try completing it to ensure everything is displayed as intended. 
