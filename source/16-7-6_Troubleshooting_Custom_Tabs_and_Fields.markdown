@@ -4,10 +4,7 @@
 
 
 
-### I’m trying to make changes to my tabs, but the system hangs/does not save the changes that I make. What can I do?  
-   
-   We generally find that the best browser for making changes in system admin is Firefox.
-   
+
 ### What happens when I edit an existing field?  
 
    It is best to only edit fields or options to correct typing mistakes or make clarifications. If you have any data in the field you should not edit it to change the meaning. This is because the data already stored in the system does not change; it is only the label which is altered. For example, if you change the options in a 'gender' field, editing 'male' to 'female', all your service users whose genders are already recorded as 'male' will now show as 'female'.
@@ -37,7 +34,7 @@ Issues happen when the type of information you are recording is changing. For ex
    
       ![Type of Person and Role in Custom Tabs and Fields](16.7.6a.png)
       
-      You can only choose one ‘person’ type, but to select multiple ‘roles’ for a tab or field, hold down the ‘Ctrl’ key as you click items in the list. This has to be completed for both the tab and each field in it. When you look on the tab and field management page, you can see what person type and role have been selected when you click on each one.
+      You can only choose one ‘person’ type, but to select multiple ‘roles’ for a tab or field, hold down the ‘Ctrl’ key as you click items in the list. This has to be completed for both the tab and each field in it. When you look on the tab and field management page, you can see what person type and role have been selected for each one.
       
       You can see in the example below that the ‘Personal Details’ tab is visible to individuals who are clients, staff, contacts and volunteers. The ‘Gender’ field in that tab is visible to individuals who are clients, staff and volunteers:
       
@@ -45,17 +42,12 @@ Issues happen when the type of information you are recording is changing. For ex
       
       The tab / field will only appear in the types of profile you choose. If, for example, it is set up to be for clients, you will not see it in a staff profile.
       
-      If the correct person or role types are not showing, click on either ‘Tab label’ (for tabs) or ‘Field name’ (for fields) to edit the settings. 
+      If the correct person or role types are not showing, click on the paper and pen icon to the right of the tab or field name) to edit and update the settings. Remember to click on 'save all changes' at the top of the custom fields page before you leave, or you will lose any alterations you have made. 
    
    - If you have already selected [which tabs to view in your personal settings](help/index/p/16.4.2), you will need to tick any new tabs before they will be visible in profiles.
    
-   ![Selecting Tabs to View in Personal Settings](16.7.6c.png)
-
-      
-### I have a tab showing in profiles with no fields in it, but I can’t see it in system administration.
-
-   This is a "ghost tab". This happens if you create a new tab, but then click away from the system admin page before adding any fields. It will show in profiles but it is not in the system admin list, so you can’t add fields or delete it. If you find that you have a ghost tab, please contact us (hello@lamplightdb.co.uk) and we will delete it for you.
-   
+   ![Selecting Tabs to View in Personal Settings](16.7.6c.png) 
+ 
    
 ##### Tags
 System admin
