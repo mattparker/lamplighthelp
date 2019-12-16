@@ -10,6 +10,7 @@ If you have the {{Comm}}s Module you can log {{comm}}s in your system. When you 
 
 ### Add a {{Comm}} Type
 
+- Go to 'admin -> system administration', find the 'Communication Settings' box in the top section and click on 'Edit types of Logged Communications'.
 - The items currently in the list will show in boxes on the page. Above these are 'add new item' (to add a single item) and 'bulk add item' (to add a number of items) buttons.  
 
 #### If you are adding a single item:
@@ -26,8 +27,8 @@ If you have the {{Comm}}s Module you can log {{comm}}s in your system. When you 
 Before making any changes to the logged communication categories on your list, we recommend that you only ever edit existing items if there is a spelling or other mistake in the name, or if you are changing to something with the equivalent meaning. Changing the name of a category in the list can also affect your data, as although the name will be different, the data already recorded in that category will still be there. If, for example, you rename the 'Email received' option to ‘Telephone conversation’, every communication previously listed as an ‘Email received’ will now show as a 'Telephone conversation'.  This would affect your reporting and your view of how you are communicating. You should never edit existing items if you change the meaning of the item: better to add a new item with the different meaning.  
 
 To edit an existing category: 
-- In system admin, find the list that you item is in.
-- Find the relevant item in the list, and click on the pen and paper icon ('edit text') to the right of it. 
+
+- Find the relevant category in the list and click on the pen and paper icon ('edit text') to the right of it. 
 - Make the changes you need, then click 'Update'.
 - Click 'save all changes' at the top or bottom of the main page to keep your changes. If you navigate away from this page before saving then all changes will be lost.
 
@@ -47,6 +48,8 @@ Please note: If you delete an item from the list, you will no longer be able to 
 - Click the grey dustbin icon to the right of it. This will turn the selected row red. 
 - If you have clicked this in error, clicking on the dustbin icon again will 'undelete' the item.
 - Click 'save all changes' at the top or bottom of the page to keep your changes. Once you have done this you will not be able to undelete the item.
+
+
 ###### comms module
 
 
