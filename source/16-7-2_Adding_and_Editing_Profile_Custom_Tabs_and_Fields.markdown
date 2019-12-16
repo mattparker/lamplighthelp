@@ -122,11 +122,11 @@ You can create several groups of linked fields on the same tab. These links are 
 You can re-order tabs, fields and options in the list, which will in turn change the order they are shown in the rest of Lamplight. To reorder tabs: 
 
 - Find the one you would like to change, click on it, then use the up and down arrows to the right of it to change its position in the list. 
-- Alternatively you can reorder all of your tabs in alphabetical order by clicking on the 'sort' button above the list. Pressing this button once will arrange the tabs in alphabetical order, while pressing again will sort them in reverse order.
+- Alternatively you can reorder all of your tabs alphabetically by clicking on the 'sort' button above the list. Pressing this button once will arrange the tabs in alphabetical order, while pressing again will sort them in reverse order.
 
 The same principal applies to sorting fields (which can be moved up and down within their tab), and options (which can be reordered within the field):
 
-- Click on the field or option that you  want to move, then use the arrow buttons to the right of the one you want to move. 
+- Click on the field or option that you  want to move, then use the arrow buttons to the right of it. 
 - If you want to arrange all fields in a tab (or all options in a field) in alphabetical order, use the 'sort' button at the top of the list.
 
 To find the 'sort' button which will order the fields within a tab, click on the tab name and the sort button will be displayed immediately below it. 
@@ -137,19 +137,19 @@ To find the 'sort' button which will arrange options within a specific field, cl
 
 You can return to this screen at any time to edit or add tabs and fields. 
 
-It is best to only edit fields or options to correct typing mistakes or make clarifications. You should not edit fields or options if you change the meaning of that field/option text. 
+It is best to only edit fields or options to correct typing mistakes or make clarifications. You should not edit them if you change the meaning. 
 
-If you edit a field, be aware that when you change the title of a field this will not change the data that is already stored there. For example, if you changed the options in a 'gender' field, editing 'male' to 'female' and vice-versa, all your service users whose genders had previously been recorded as 'male' would now show as 'female', and vice versa. 
+If you edit a field, be aware that when you change its title this will not change the data that is already stored there. For example, if you changed the options in a 'gender' field, editing 'male' to 'female' and vice-versa, all your service users whose genders had previously been recorded as 'male' would now show as 'female', and vice versa. 
 
 To edit the tab or field:
 
-- Find the required tab or field in the list and click on the pen and paper icon to the right of it.    
-- Make the changes you want, and click 'Update'. Remember to click 'save all changes' at the top of the custom fields page before navigating away, or you will lose any changes you have made.
+- Find it in the list and click on the pen and paper icon to the right of it.    
+- Make the changes you want, then click 'Update'. Remember to click 'save all changes' at the top of the custom fields page before navigating away, or you will lose any changes you have made.
  
 To edit a field option:
  
 - Find the field in the list. Click on its name to open the list of options. If you can't see any it could be that this field does not have any options yet, so click on ... (more) button to the right of it to show the 'add options' buttons. 
-- Make the changes that you need, then press 'enter' on your keyboard to save. 
+- Make the changes that you need, then press 'update' on your keyboard to save. Again, remember to 'save all changes' before leaving the page, or you will lose any alterations you've made. 
  
 ### Deleting Tabs, Fields and Options
 
