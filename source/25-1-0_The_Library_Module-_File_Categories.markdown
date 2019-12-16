@@ -8,32 +8,39 @@ System Administrators can create categories which are added to uploaded files an
 
 ### Setting Up File Categories
 
-- Go to ‘admin -> system administration’.
-- Find the 'Module Administration' section towards the bottom of the page. 
-- In the 'Library Module' box click 'Manage library categories’.
-- On the list page, double-click where it says ‘double click to add’ at the bottom of the list of existing categories.
+- Go to ‘admin -> system administration’, find the 'Module Administration' section towards the bottom of the page and in the 'Library Module' box click 'Manage library categories’.
+- The items currently in the list will show in boxes on the page. Above these are 'add new item' (to add a single category) and 'bulk add item' (to add a number of categories) buttons.  
 
-![Adding a New Category](25.1.0a.png)
+#### If you are adding a single category:
+   - Choose 'add new item', then type the name of the new category in the 'Text' box.
+   - Click 'Update'. You will see it added to the list.
+   - Click 'save all changes' at the top or bottom of the main page to keep this change. (You can make a number of changes to library categories without saving in between, but you must not navigate away from the page before saving or all the changes will be lost.)  
+   
+#### If you are adding a number of categories:
+   - Choose 'bulk add item', then type in each of the categories separated by a semi-colon (;). You do not need spaces between each one. For example, 'Internal;Meeting notes;Useful reference information'.
+   - When you have listed them all, click 'add all'. You will see them added to the list - check that they are all as you expected.
+   - Click 'save all changes' at the top or bottom of the page before leaving.
+   
+### Editing Existing Categories
 
-- Type the name of the category in the text field that opens up.
-- When you have finished, press the ‘Enter’ key on your keyboard to save.
+To edit an existing category: 
+- Find the relevant category in the list and click on the pen and paper icon ('edit text') to the right of it. 
+- Make the changes you need, then click 'Update'.
+- Click 'save all changes' at the top or bottom of the main page to keep your changes. If you navigate away from this page before saving then all changes will be lost.
 
-#### Editing a File Category
+#### Re-ordering Items Already in the List
 
-Existing file categories can be edited from the same screen:
-- Double-click the category in the list. 
-- Type the new text and press ‘Enter’ to save.
-**Please note:** it is best not to change the meaning of existing categories if they already have library items linked to them. The existing items will remain linked once the category has been edited.  
+- To the right of each list item is a series of buttons. The first two of these allow you to move a category up and down the list.
+- Press the 'up' arrow to move an item up, and the 'down' arrow to move it down the list. 
+- You can also use the 'sort' button which you will find above the list. Pressing it once sorts your list alphabetically (A-Z), while pressing twice sorts it in reverse order (Z-A). 
+- Click 'save all changes' at the top or bottom of the main page to keep your changes. If you navigate away from this page before saving then all changes will be lost.
 
-#### Changing the List Order
+#### Deleting an Item
 
-- Click on the item in the list that you would like to re-order, then drag and drop it where you need it to go (left-click and hold the button down while you move your cursor to the new position, before releasing). 
-- The other options will adjust to make space for it.
-
-#### Deleting a List Item
-
-- Find the item that you would like to delete in the list. 
-- Drag it to the end of the list and drop it in the grey box labelled ‘Drag here to delete’. 
-
+Please note: If you delete an item from the list you will not lose any of your data or saved files, you will simply not be able to classify items by this category any more.
+- Find the category you would like to delete in the list.
+- Click the grey dustbin icon to the right of it. This will turn the selected row red. 
+- If you have clicked this in error, clicking on the dustbin icon again will 'undelete' the category.
+- Click 'save all changes' at the top or bottom of the page to keep your changes. Once you have done this you will not be able to undelete the category.
 
 ###### library module
