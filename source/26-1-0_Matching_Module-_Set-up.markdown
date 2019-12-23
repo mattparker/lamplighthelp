@@ -6,11 +6,11 @@
 
 The matching module uses five sets of categories for both {{volunteering opportunity}} and {{volunteering application}} records.  By default these are:
 
-- **interests** of the {{volunteering applicant}},
-- who it would be **ideal for** (e.g. any personal circumstances a {{volunteering applicant}} might have),
-- **role** - what they would be doing,
-- **requirements** - any competencies etc. the {{volunteering applicant}} may need,
-- **skills** the {{volunteering applicant}} will gain.
+- **Interests** of the {{volunteering applicant}}.
+- who it would be **ideal for** (e.g. any personal circumstances a {{volunteering applicant}} might have).
+- **Role** - what they would be doing.
+- **Requirements** - any competencies etc. the {{volunteering applicant}} may need.
+- **Skills** the {{volunteering applicant}} will gain.
 
 The items in these lists, and the labels for the lists themselves, can be changed in your system as required.
 
