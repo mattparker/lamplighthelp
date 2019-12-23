@@ -88,7 +88,7 @@ You can delete a whole category with all its related subcategories in one go, or
 ![Deleted {{Workarea}}](16.6.1c.png)
 
 
-### Attendance roles
+### Attendance Roles
 
 You will also need to have two attendance roles, one for {{volunteering applicant}} attendances and one for {{opportunity provider}}s.  We will need to assign these for you - please contact us if this has not been done.
 
