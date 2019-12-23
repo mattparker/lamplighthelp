@@ -1,4 +1,4 @@
-# 26.2.2 Matching Module - Creating {{volunteering application}} records
+# 26.2.2 Matching Module - Creating {{Volunteering Application}} Records
 
 > {{Volunteering application}} records are created for each applicant to show their skills, availability, location and interests. You can find them in each {{volunteer}}'s profile
 
