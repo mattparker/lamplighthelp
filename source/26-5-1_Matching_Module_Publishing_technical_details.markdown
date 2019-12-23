@@ -1,20 +1,15 @@
-# 26.5.1 Matching Module - Publishing technical details
+# 26.5.1 Matching Module - Publishing Technical Details
 
-> You can use the Matching Module to request raw data through the API for use elsewhere
+> You can use the Matching Module to request raw data through the API for use elsewhere. The information on this page is intended for developers
 
 ### Matching Module Opportunity API
 
-Lamplight can store details of {{volunteering opportunity}} records.  These can be made
-available through a public API for display on other websites etc.
+Lamplight can store details of {{volunteering opportunity}} records. These can be made available through a public API for display on other websites etc.
 
 ### Access
 
-Access is controlled using an API key, different to the main publishing API key.
-We assume that {{volunteering opportunity}} records are 'more public' than other aspects
-of the matching module, and that the key may not be kept secret, as it is assumed
-to be in the main publishing module.  For example, customers may choose to embed and
-iframe directly in their website so that they can easily display opportunities, which
-means that the API key will be public.
+Access to the records is controlled using an API key. This is different to the main publishing API key used in other parts of {{Lamplight}}.
+We assume that {{volunteering opportunity}} records are 'more public' than other aspects of the matching module, and that the key may not be kept secret. The API in the main Publishing Module is treated as secret.  For example, with the Matching Module you may choose to embed an iframe directly in your website so that you can display opportunities more easily. This will mean that the API key is public.
 
 The API key is available via the main system admin section in Lamplight.
 
@@ -22,12 +17,10 @@ Requests should be made to `https://lamplight.online/api/volunteering/opportunit
 You will need to add a `key` parameter, with the API key.
 
 
-
 ### Searching Opportunities
 
 The main endpoint for searching volunteering opportunities is
-`https://lamplight.online/api/volunteering/opportunity/search`.  The following search
-parameters are available:
+`https://lamplight.online/api/volunteering/opportunity/search`.  The following search parameters are available:
 
 
 
@@ -48,16 +41,14 @@ parameters are available:
 `include_form` will include a search form in the response (not for json formatted requests).
 
 
-#### Return formats
+#### Return Formats
 
 Data can be returned as partial `html`, `json`, or `iframe` - html results in a full web page.
 Pass the `format` parameter to set this.  The default is `html` if this is empty or invalid.
 
-You can change the amount of data returned using the `return` parameter; set to `short` it will
-provide a limited response.
+You can change the amount of data returned using the `return` parameter; set to `short` it will provide a limited response.
 
-Passing the `callback` parameter to a json response will wrap the response with the
-callback you pass:
+Passing the `callback` parameter to a json response will wrap the response with the callback you pass:
 
 <code>
 https://lamplight.online/api/volunteering/opportunity/search?key=aabbcc&format=json&callback=console.log
@@ -74,8 +65,7 @@ console.log({"meta": {}, "data": {}});
 
 ### Return data
 
-If format=html or format=iframe you'll get rendered html, which will look something
-like this:
+If format=html or format=iframe you'll get rendered html, which will look something like this:
 
 <code>
 &lt;div class="lamplight lamplight-volunteering lamplight-listing"&gt;
@@ -109,8 +99,7 @@ like this:
 
 </code>
 
-The difference between html and iframe is that iframe will also return a &lt;head&gt; and wrap the above
-in a &lt;body&gt;.  If there's a form, it will also include some javascript to enhance the form.
+The difference between html and iframe is that iframe will also return a &lt;head&gt; and wrap the above in a &lt;body&gt;.  If there's a form, it will also include some javascript to enhance the form.
 
 
 format=json will give you something like this:
@@ -182,10 +171,9 @@ format=json will give you something like this:
 }
 </code>
 
-### Viewing a single opportunity
+### Viewing a Single Opportunity
 
-The endpoint will provide data for a single opportunity, using the id given by
-the responses above.
+The endpoint will provide data for a single opportunity, using the id given by the responses above.
 
 `https://lamplight.online/api/volunteering/opportunity/one?id=123key=aabbcc&format=iframe`
 
@@ -200,17 +188,14 @@ Find opportunities for people interested in media, to use as the `src` of an ifr
 
 `https://lamplight.online/api/volunteering/opportunity/search?key=aabbcc&format=iframe&topics[]=1`
 
-Look for 5 opportunities from provider id 332, starting on the third page,
-returning short html listings
+Look for 5 opportunities from provider id 332, starting on the third page, returning short html listings
 
 `https://lamplight.online/api/volunteering/opportunity/search?key=aabbcc&format=html&provider_id=332&start=10&num=5&return=short`
 
 
 ### API Feeds
 
-The easiest way to use all of this is to create [API feeds in Lamplight](/help/index/p/26.5.1), via the system admin
-menu.  This lets you specify this information in advance, and provides an html snippet that
-can be embedded in other websites.
+The easiest way to use all of this is to create [API feeds in Lamplight](/help/index/p/26.5.1), via the system admin menu. This lets you specify this information in advance, and provides an html snippet that can be embedded in other websites.
 
 You can create any number of feeds for different purposes.
 
@@ -220,8 +205,7 @@ Key features of an API Feed:
 - set how many results to show per page
 - specify CSS files to include in the `<head>` of the iframe
 
-By default, the iframe will render fairly simple results.  'Next page' links will be shown,
-and clicking on an opportunity will show full details.
+By default, the iframe will render fairly simple results. 'Next page' links will be shown, and clicking on an opportunity will show full details.
 
 Lamplight will provide the html code to copy and paste into your own website.
 
