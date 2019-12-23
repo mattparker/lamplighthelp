@@ -8,7 +8,7 @@ For {{volunteering opportunity}} records to appear in the API feeds, you will ne
 
 ### To Create a New Feed
 
-- Go to admin > system  administration and in the 'Matching Module' section click 'create new API feed'.  
+- Go to admin > system  administration and in the 'Matching Module' section click 'create new API feed'.  (If you can't see this option, please contact Lamplight).
 - You will see any feeds you have already set up, and below that a form to create a new one:
 
 ![Create new {{volunteering opportunity}} feed](26.5.0a.PNG)
