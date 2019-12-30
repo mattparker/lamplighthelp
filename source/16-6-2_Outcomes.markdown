@@ -38,23 +38,25 @@ This can be useful if you are adding a number of {{outcome}} categories at once.
 - Type in the text for your measure in the 'Text' box.  
 - Choose the 'Measure type' from the list:
 
-**'score'**: Choose this if you're using a scale system (for example a scale of 1-10) to record your {{outcome}}s (e.g. "how confident do you feel about job-seeking, where 10 is very and 1 is not at all?")
-**'yes/no'**: Choose this if the measure is a simple yes/no (e.g. "in full time employment").
-**'number'**: This is for recording specific amounts (for example, "by how much has your debt been reduced?" - from 50,000 to 0). 
+   - **'score'**: Choose this if you're using a scale system (for example a scale of 1-10) to record your {{outcome}}s (e.g. "how confident do you feel about job-seeking, where 10 is very and 1 is not at all?")
+   - **'yes/no'**: Choose this if the measure is a simple yes/no (e.g. "in full time employment").
+   - **'number'**: This is for recording specific amounts (for example, "by how much has your debt been reduced?" - from 50,000 to 0). 
 
 ![Change {{outcome}}](186b.png)
 
 - Minimum and maximum values: Use these to set your lowest and highest score for the measure (e.g. as above, your scale might be 1 (minimum) and 10 (maximum)). If you're creating a yes/no {{outcome}} use the minimum value of 0 and the maximum value of 1.
-- 'Notes': Double click to open the notes section to add any explanatory notes for operators.
+- 'Notes': Double click to open the notes section to add any explanatory notes for operators. These appear when you add the {{outcome}} either through {{activity} -> add new -> {{outcome}}, or if you go to the {{oucome}} tab in a profile then click the 'add' button. You will not see it if you choose to add the {{outcome}} through the profile tab, using the 'add' button in the Mode box in the middle of the page. 
 - If you have more than one {{project}}, you can tick which {{project}}s you would like this {{measure}} to be available to.
 - Click 'update' when you have finished. Remember that these changes will not be finally saved until you click 'save all changes' at the top or bottom of the page.
 - Continue these steps until you have added all the measures that you need.
 
 ### Adding Score Descriptors
 
-Sometimes you may want to show descriptors for your {{outcome}}s - this is text which describes what the score for this measurement means. For example, you may have a scale of 1 - 5 where 1 is 'very unhappy' and 5 is 'very happy'. You can add these descriptors to your scores so that they show when the {{outcome}}s are being recorded.
+Sometimes you may want to show descriptors for your {{outcome}}s - this is text which describes what the score for this measurement means. For example, you may have a scale of 1 - 5 where 1 is 'very unhappy' and 5 is 'very happy'. You can add these descriptors to your scores so that they show when the {{outcome}}s are being recorded. (You will only see this when you add the {{outcome}} either through {{activity} -> add new -> {{outcome}}, or if you go to the {{oucome}} tab in a profile then click the 'add' button to the right of the page.  
 
 xxxxx Picture here xxxxx
+
+You will not see it if you choose to add the {{outcome}} through the profile tab, using the 'add' button in the Mode box in the middle of the page. 
 
 - Find the measure that you would like to add descriptors to, and click to open it. 
 
