@@ -11,10 +11,9 @@
 - Go to admin on the menu bar and click 'system administration'.
 - Under the 'Manage Custom Fields and Drop-down Lists' section, click on 'Manage custom tabs and fields on profiles'.
 - If you already have tabs set up in your system, you will see a list showing them all. You can click on any one of these to see the fields that are held in that tab.
-
 - If you find that there is too much information on the screen and that you would like to see a simpler view, click on the 'compact view' button the middle of the page above the list. Click on it again to revert to the standard view. 
 
-![Setting up custom fields and tabs](146a.png)
+![Setting up custom fields and tabs](16.7.2a.png)
 
 ### To Add a New Tab
    
@@ -30,20 +29,23 @@
    - Roles - you can also choose to limit this tab to {{people}}, {{org}}s or {{family}} (if they are used in your system) with particular roles.
    - Restrict the field - ticking this means that only operators with a Manager or Administration level of access will be able to see the field and its contents.
    - {{Project}}s - if you have more than one {{project}} in your system, you can choose to share this tab so that it is also visible in other {{project}}s. When tabs and fields are shared, it is possible to report information across {{project}}s.
+- Once you have finished, click the 'Update' button in the bottom right corner. 
 
-![Setting the tab name](16.7.2c.png)
+![Completed Tab Information](16.7.2c.png)
 
-- Once you have finished, click the 'Update' button in the bottom right corner. You will now see the new tab you’ve added at the bottom of the list. It will be open, allowing you to carry on and add the fields to it that you need (for instructions see 'Adding Fields' below).
+- The new tab you’ve added will now appear at the bottom of the list. It will be open, allowing you to add the fields to it that you need (for instructions see 'Adding Fields' below).
 
-![New Tab Details](16.7.2d.png)
 
 #### Bulk Adding Tabs
 
-- Click on 'bulk add option'. This opens a pop-up box.
-- Type the names of all the tabs that you are adding in the text box, separated by a semi-colon (;). You do not need a space before each one. For example, 'Personal;Support Issues;Currrent Situation'.
-- When you have finished, click 'add all'. Don't forget, these are not finally saved until you click on the 'save all changes' at the top or bottom of the page before exiting. 
+- Click on 'bulk add tab' button. This opens a pop-up box.
+- Type the names of all the tabs that you are adding in the text box, separated by a semi-colon (;). You do not need a space before each one. 
+
+![Bulk Add Tab](16.7.2d.png)
+
+- When you have finished, click 'add all'. 
 - You will now see all your new tabs at the bottom of the list. 
-- Click on each one in turn and choose the pen and paper icon to open it for editing. You will need to add the details for them as described for a single tab above.
+- You will need to add in the details of the tab, as described for adding a single tab above. To do this, click on the pen and paper icon to the right of the name . You will need to add the details for them as described for a single tab above (name, role etc).
 - When you've finished editing each one, click 'Update'. (Again, you still need to click on 'save all changes' before exiting the page.) You are now ready to add the fields to your tab.
 
 ### Adding Fields
@@ -53,11 +55,6 @@
 #### Adding a Single Field
 
 - Either click the 'add new field' button which is above the list of existing fields, or, if it is a new tab, click the 'add new field to get started' button in the tab itself.  This opens up a pop-up box. Complete the details with:
-
-   ![Add a Field to a Tab](16.7.2e.png)
-
-   ![Adding a new field](16.7.2f.png)
-
    - The 'Field name' (this is the text you will see next to the field in the new tab).
    - Whether it is a required field (if you choose this option it will not be possible to edit the tab and save it without putting data in this field).
    - Placeholder text, which will appear in your empty text box (for example 'Add the reason here') if you choose that field type.
@@ -65,25 +62,31 @@
    - Which type of profiles it will be applicable to (both the type of {{person}} and the role). It is important that you fill these in, or the field will not be visible in any profiles.
    - The type of field required - there is detailed information on how to choose the best field type in [16.7.1 Custom Fields in Profiles](/help/index/p/16.7.1).
    - Whether to restrict the field to Managers and Admins. If you select this it means that database operators with lower levels of access will not see these fields or be able to add data to them.
-   - If you have more than one {{project}}, you have the option to share this new field across your {{project}}s.
-   XXXXXXXXX - If you have the Publishing Module, you can also specify whether data in this field should be published - although the profile will also need to be published before any data becomes available. See [28.1.0 Publishing Module Security](/help/index/p/28.1.0) for more information about the Publishing Module and the controls in place. XXXXXXXXXXXXX
-- When you have completed all the details, click 'Update'. Remember, this will not be finally saved until you click 'save all changes' at the top or bottom of the profile custom fields page. 
+   - If you have more than one {{project}}, you have the option to share this new field with other {{project}}s.
+   - If you have the Publishing Module, you can also specify whether data in this field can be published - although you will also need to authorise this for each individual profile before any data becomes available. See [28.1.0 Publishing Module Security](/help/index/p/28.1.0) for more information about the controls.
+   - When you have completed all the details, click 'Update'. Remember, this will not be finally saved until you click 'save all changes' at the top or bottom of the profile custom fields page. 
 - The field that you have just added will now appear in the tab.
   
- ![New Field in Tab](16.7.2g.png) 
+ ![New Field in Tab](16.7.2e.png) 
  
 #### Bulk Adding Fields
 
-- Click on 'bulk add option' beneath the header of the tab you would like to include them in. This opens a pop-up box.
+- Find the field and click on 'bulk add option' either beneath the header, or if it is a new tab, in the tab itself. This opens a pop-up box.
 - Type the names of all the fields that you are adding in the text box, separated by a semi-colon (;). You do not need a space before each one. For example, 'Consent;Sign-up for Newsletter;Ready to Volunteer'.
-- When you have finished, click 'add all'. Don't forget, these are not finally saved until you click on the 'save all changes' at the top or bottom of the custom fields page before exiting. 
-- You will now see all your new fields at the bottom of the list. 
-- Click on each one in turn and choose the pen and paper icon to open it for editing. Their names will already be entered into the form, but you will need to add the other details for them, such as type of field, as described for a single tab above.
-- When you've finished editing each one, click 'Update'. (Again, you still need to click on 'save all changes' before exiting the page.) When you have added all the details you can add options to your fields, as necessary. 
+- When you have finished, click 'add all'. Don't forget, these will not be finally saved until you click 'save all changes' at the top or bottom of the page before exiting. 
+- All your new fields will now appear in the tab (if you can't see them, click on the tab name or the three dots icon to the right hand side for more). 
+- Open each one in turn to add the details (to do this choose the pen and paper icon to the right to open it for editing). 
+
+![Editing Fields](16.7.2f.png)
+
+- Their names will already be entered into the form, but you will need to add the other details for them, such as type of field, as described for a single tab above.
+- When you've finished editing each one, click 'Update'. (Again, you still need to click on 'save all changes' before exiting the page.) When you have added all the details you can add options to the fields that need them. 
 
 ### Setting Options
    
-The field that you have just added may need some options (for example, if you've added a 'Current status' field, you might want the options 'Active' and Inactive'.) If it is a field that you have just added it will be open, with buttons allowing you to add options at the bottom. If it is an existing field that you want to add more fields to, or are editing, click on the field name then select the three dots on the right to see these 'add' options. 
+The field that you have just added may require some options (for example, if you've added a 'Current status' field, you might want the options 'Active' and Inactive'.) If it's a field that you have just added it you will see buttons allowing you to add options. If it is an existing field that you are editing, click on the field name then select the three dots ('more' button) on the right to see these 'add' options. 
+
+![Adding Options](16.7.2g.png)
 
 #### Add a Single Option
 
@@ -100,6 +103,9 @@ The field that you have just added may need some options (for example, if you've
 #### Add from a Built-in List
 
 - Lamplight contains a number of built-in sets of options. To see what is there, click on the 'add from built-in list' button. They include yes/no; some demographic options such as ethnicity, gender, religion and language; number lists; days and months. If you would like to use any of these lists as options for your field, click on the circle next to the appropriate one then click 'add'. 
+
+![Built-in List Options](16.7.2h.png)
+
 - If you do not see any sets of options which are relevant to your field, click cancel to come out of the bulk lists again. 
 
 Once you have added options to your fields, do not forget to save them before leaving the page, using the 'save all changes' tab which can be found at the top and bottom of the page. 
@@ -110,18 +116,27 @@ You may want to link fields together so that you can enter multiple records unde
 
 - Create the fields you wish to link, making sure that they are next to each other in the tab and in the correct order. 
 - Looking at the first field that you are linking, click on the squared button to the right of it. An information box will appear, explaining about linked fields, then giving the option at the bottom to 'create new linked record set'.  Click on this. This first field will now have been added to the linked set. 
+
+![Creating a Linked Field](16.7.2i.png)
+
 - Click on the next option that you want to add to the set. Another box will pop up explaining again about linked fields, and asking if you want to create a new set, or link to the first option that you just added to a set. Click the 'Link with previous record set' option. You will see that these now both have a coloured bar to the left of them, and a link symbol to show that they are in a set. 
+
+![Creating a Linked Field Set](16.7.2j.png)
+
 - Continue adding options in the same way until all the fields that you want are linked to one another. 
 - If you link an option in error, click the squared icon again to get the option to 'Remove this field from the linked set'.
 - Once you have saved your changes using the 'save all changes' button at the top of the custom fields page, press F5 to refresh your system. When you look at the fields in the tab, you will now see that they are displayed as a table rather than separately.
 
-You can create several groups of linked fields on the same tab. These links are indicated by the number displayed next to the squared icon on each option, and the colour of the bar to the left of the fields. 
+You can create several groups of linked fields on the same tab. These links are indicated by the number displayed next to the squared icon on each option, and the colour of the bar to the left of the fields. Each field can only be included in one 'linked field' set. 
 
 ### Changing the Order of Tabs, Fields and Options
 
 You can re-order tabs, fields and options in the list, which will in turn change the order they are shown in the rest of Lamplight. To reorder tabs: 
 
 - Find the one you would like to change, click on it, then use the up and down arrows to the right of it to change its position in the list. 
+
+![Up and Down Arrows in a List](16.7.2k.png)
+
 - Alternatively you can reorder all of your tabs alphabetically by clicking on the 'sort' button above the list. Pressing this button once will arrange the tabs in alphabetical order, while pressing again will sort them in reverse order.
 
 The same principal applies to sorting fields (which can be moved up and down within their tab), and options (which can be reordered within the field):
@@ -148,7 +163,7 @@ To edit the tab or field:
  
 To edit a field option:
  
-- Find the field in the list. Click on its name to open the list of options. If you can't see any it could be that this field does not have any options yet, so click on ... (more) button to the right of it to show the 'add options' buttons. 
+- Find the field in the list. Click on its name to open the list of options. If you can't see any it could be that this field does not have any options yet, so click on '...' (the more button) to the right of the name to show the 'add options' buttons. 
 - Make the changes that you need, then press 'update' on your keyboard to save. Again, remember to 'save all changes' before leaving the page, or you will lose any alterations you've made. 
  
 ### Deleting Tabs, Fields and Options
@@ -160,6 +175,11 @@ If you delete a tab, all of the fields in it will be deleted too. Similarly, if 
 To delete any tab, field or option:
  
  - Find it in the list, then click on the 'dustbin' icon to the right of it. The item you have chosen will now show as pink in the list.
+ 
+ ![Deleting Items in Custom Tabs and Fields](16.7.2l.png)
+ 
+ - If you have deleted in error, just click the dustbin icon again and the row will return to the normal colour.
+ 
  - Remember to click 'save all changes' at the top or bottom of the page before moving on, or the item will remain active. 
 
 
