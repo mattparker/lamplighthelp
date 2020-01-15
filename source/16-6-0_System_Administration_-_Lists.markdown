@@ -14,7 +14,7 @@ When you make changes to a drop-down list, it can have an effect on your existin
 #### Finding the Relevant List
 - Go to 'admin -> system admin -> Manage Custom Fields and Drop-down Lists'.
 - Click on the list you would like to alter.
-- Alternatively, if it is a dropdown list relating to a module, you can find the relevant module in the 'Module Administration' section of system admin. 
+- Alternatively, if it is a dropdown list relating to a module, you can find this in the 'Module Administration' section of system admin. 
 
 #### Adding New Items to a List
 - The items currently in the list will show in boxes on the page. Above these are 'add new item' (to add a single item) and 'bulk add item' (to add a number of items) buttons.
