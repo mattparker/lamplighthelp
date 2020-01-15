@@ -12,8 +12,8 @@ To add a new one, or edit an old one:
 ### Inverse Text
 Some relationships are reciprocal, with two different sides. For example, a parent and child, or employer and employee. To create a reciprocal relationship:  
 
-- Add the initial relationship (e.g. "parent").
-- Add the other side of the relationship (in this case "child") in the  'Inverse text' box. 
+- Add the initial relationship (e.g. "parent") in the 'Text' box.
+- In the 'Inverse text' box, add the other side of the relationship (in this case "child"). 
 
 ![Inverse Text](16.6.3a.png)
 
