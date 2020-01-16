@@ -11,7 +11,7 @@ When a file is uploaded to a profile it can be assigned a category so that it is
 System Administrator level access is required to configure the file categories. 
 
 - Click ‘admin’ in the main menu, then ‘system administration’.
-- In the ‘Module Administration’ section, find the 'Media Module' section and click on 'File categories drop-down list'.
+- In the ‘Module Administration’ section, find the 'Media Module' box and click on 'File categories drop-down list'.
 
 ![Media Drop-down in System Admin](27.1.0a.png)
 
