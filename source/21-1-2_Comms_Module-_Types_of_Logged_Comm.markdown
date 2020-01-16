@@ -32,20 +32,22 @@ To edit an existing category:
 - Make the changes you need, then click 'Update'.
 - Click 'save all changes' at the top or bottom of the main page to keep your changes. If you navigate away from this page before saving then all changes will be lost.
 
-![Editing lists](144a.png)
-
 #### Re-ordering Items Already in the List
 - To the right of each list item is a series of buttons. The first two of these allow you to move an item up and down the list.
 - Press the 'up' arrow to move an item up, and the 'down' arrow to move it down the list. 
 - You can also use the 'sort' button which you will find above the list. Pressing it once sorts your list alphabetically (A-Z), while pressing twice sorts it in reverse order (Z-A). 
-- Click 'save all changes' at the top or bottom of the page to keep your changes. If you navigate away from this page before saving then all changes will be lost.
 
-![Editing lists - re-ordering items](144b.png)
+![Editing lists - re-ordering items](21.1.2b.png)
+
+- Click 'save all changes' at the top or bottom of the page to keep your changes. If you navigate away from this page before saving then all changes will be lost.
 
 #### Deleting an Item
 Please note: If you delete an item from the list, you will no longer be able to select this logged communication type for new items. You will also not be able to use the communication type to filter your {{report}}s or {{group}}s, or to create a new data view to show the historic information on it.  
 - Find the item you would like to delete in the list.
 - Click the grey dustbin icon to the right of it. This will turn the selected row red. 
+
+![Deleting a {{Comm}} Type](21.1.2c.png)
+
 - If you have clicked this in error, clicking on the dustbin icon again will 'undelete' the item.
 - Click 'save all changes' at the top or bottom of the page to keep your changes. Once you have done this you will not be able to undelete the item.
 
