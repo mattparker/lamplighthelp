@@ -36,7 +36,7 @@ Issues happen when the type of information you are recording is changing. For ex
       
       You can only choose one ‘person’ type, but to select multiple ‘roles’ for a tab or field, hold down the ‘Ctrl’ key as you click items in the list. This has to be completed for both the tab and each field in it. When you look on the tab and field management page, you can see what person type and role have been selected for each one.
       
-      You can see in the example below that the ‘Personal Details’ tab is visible to individuals who are clients, staff, contacts and volunteers. The ‘Gender’ field in that tab is visible to individuals who are clients, staff and volunteers:
+      In the example below that the ‘Personal Details’ tab is visible to individuals who are users, staff, contacts and volunteers. The ‘Gender’ field in that tab is visible to people who are users:
       
       ![Type of Person and Role Showing on Tab and Field Lists](16.7.6b.png)
       
@@ -44,7 +44,7 @@ Issues happen when the type of information you are recording is changing. For ex
       
       If the correct person or role types are not showing, click on the paper and pen icon to the right of the tab or field name) to edit and update the settings. Remember to click on 'save all changes' at the top of the custom fields page before you leave, or you will lose any alterations you have made. 
    
-   - If you have already selected [which tabs to view in your personal settings](help/index/p/16.4.2), you will need to tick any new tabs before they will be visible in profiles.
+   - If you have already selected [which tabs to view in your personal settings](help/index/p/16.4.2), you will need to tick any newly created tabs before they will be visible in profiles.
    
    ![Selecting Tabs to View in Personal Settings](16.7.6c.png) 
  
