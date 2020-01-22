@@ -6,7 +6,7 @@ System admin lists are used for adding options to drop-down menus, for example r
 
 The videos in this section are:
 
-- [52.4.1 Adding and Editing Simple Drop-down Lists](/help/index/p/52.4.1)
+- [52.4.1 Working with Drop-down Lists in System Admin](/help/index/p/52.4.1)
 - [52.4.2 Adding and Editing {{Workarea}}s and {{Subworkarea}}s](/help/index/p/52.4.2)
 - [52.4.3 Adding and Editing Custom Tabs and Fields](/help/index/p/52.3.3)
 
