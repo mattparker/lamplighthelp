@@ -66,6 +66,8 @@ Please read 'Important Things to Consider' (above) before deleting any list item
 - If you have clicked this in error, clicking on the dustbin icon again will 'undelete' the item.
 - Click 'save all changes' at the top or bottom of the page to keep your changes. Once you have done this you will not be able to undelete the item.
 
+Why not have a look at our [video on how to manage drop-down list items in system admin](/help/index/p/52.4.1)?
+
 
 ##### Tags
 System admin
