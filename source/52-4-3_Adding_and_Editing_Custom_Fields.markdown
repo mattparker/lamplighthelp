@@ -2,7 +2,7 @@
 
 > Every Lamplight system has custom tabs and fields which are used in profiles and {{activity}} records. You can add to and edit these in sytem admin
 
-<iframe src="https://player.vimeo.com/video/383303486" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/386471222" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ### Script
