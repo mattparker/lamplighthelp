@@ -112,6 +112,7 @@ You can delete a whole {{workarea}} with all its related {{subworkarea}}s in one
 - Always remember to click 'save all changes' at the top or bottom of the page before you leave. Once you have done this you will not be able to undelete the item.
 
 
+Why not take a look at our [video demonstration of adding and editing {{workarea}}s and {{subworkarea}}s](/help/index/p/52.4.2) in your system?
 
 
 ###### core module
