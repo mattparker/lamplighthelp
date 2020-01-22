@@ -1,10 +1,19 @@
 # 16.20.0 System Administration for Modules and {{Project}}s
 
-> All system administration information relating to optional modules can be found under that module in Section 17
+> System administrators can enable or disable additional modules through the System Admin menu.  All system administration information relating to optional modules can be found under that module in Section 17
+
+
+If you have system admin rights (or project admin if you are a multi-project system) you can add or remove modules at any time.  To do so, go to system admin &gt; Customise Lamplight &gt; Add or remove modules.
+
+This will show you the modules available, along with a description of each, and allow you to tick or untick any of the modules you want to add or remove.  At the bottom of the screen is a confirmation box that you will need to tick to make the changes.
+
+Please be aware that the changes you make will have immediate effect.  If you are removing a module you have used, you will lose access to any module-specific data you have entered in the past.  Changes to your hosting fee will be reflected in your next invoice.
+
+Once you click the 'update my system' a Hosting Agreement Amendment will be created and emailed to you, along with links to support documents for any modules you've added to help you get set up.  The module will be immediately activated in your system but you may need to reload the page (press f5) to refresh the main menu to see changed options. 
 
 
 
-If you have any modules or {{project}}s in your system, any system administration controls relating to them will be covered in the section on the module itself. 
+The system administration settings for the modules or {{project}}s in your system are covered in the section on the module itself. 
 
 ![System Admin for Modules](16.20.0a.png) 
 
