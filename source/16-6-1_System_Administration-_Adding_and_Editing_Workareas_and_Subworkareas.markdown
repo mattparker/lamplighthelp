@@ -30,7 +30,7 @@
 - If you have multiple {{project}}s in your system, you can also choose which ones will share this {{workarea}}. 
 - When you have finished, click on 'Update'. 
 - If you don't want to add any {{subworkarea}} at this point, don't forget to click the 'save all changes' button at the top or bottom of the page before you leave, or you will lose this new {{workarea}}.
-- If you want to add {{subworkareas}}, see 'Adding {{Subworkarea}}s' below.
+- If you want to add {{subworkarea}}s, see 'Adding {{Subworkarea}}s' below.
 
 ### Adding Multiple {{Workarea}}s
 
@@ -49,7 +49,7 @@ It is possible to add a number of {{workarea}}s to this list in one go.
 
 ![Save All Changes](16.6.1d.png)
 
-- If you want to add {{subworkareas}}, see 'Adding {{Subworkarea}}s' below.
+- If you want to add {{subworkarea}}s, see 'Adding {{Subworkarea}}s' below.
 
 ### Adding {{Subworkarea}}s
 
@@ -68,12 +68,12 @@ Once you have set up your {{workarea}}s, you may want to add {{subworkarea}} 'su
 - Click on 'bulk add activity'. 
 - Type the names of the {{subworkarea}}s you want to add in the pop-up box. Each one should be separated by a semi-colon (;), but you don't need any spaces between each one. For example 'Monday lunchtime;Tuesday morning;Thursday evening;Friday afternoon'. 
 
-[Bulk Adding {{Subwork}} Areas](16.6.1f.png)
+[Bulk Adding {{Subworkarea}}s](16.6.1f.png)
 
 - When you have finished, click 'add all'. These will now appear in the list below the {{workarea}}.
 - Before leaving this page, click the 'save all changes' button at the top or bottom of the page or you will lose your changes.
 
-### Editing {{Workarea}}s and {{Subworkareas}}
+### Editing {{Workarea}}s and {{Subworkarea}}s
 
 Before editing or deleting {{workarea}}s please see 'Things to Consider When Making Changes to {{Workarea}}s' above. As a general rule, you should only change the name of the {{workarea}} if the meaning is staying the same, for example due to a spelling error or a re-brand. 
 
