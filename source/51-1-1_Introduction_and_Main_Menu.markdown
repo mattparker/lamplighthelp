@@ -2,9 +2,8 @@
 
 > This video introduces you to finding your way around Lamplight using the main menu and search functions
 
+<iframe src="https://player.vimeo.com/video/383303486" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-
-<iframe width="640" height="564" src="https://player.vimeo.com/video/282516727" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>  
 
 ### Script
 
