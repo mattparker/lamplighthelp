@@ -182,6 +182,8 @@ To delete any tab, field or option:
  
  - Remember to click 'save all changes' at the top or bottom of the page before moving on, or the item will remain active. 
 
+We also [have a video](/help/index/p/52.4.3] which shows you how to add, edit and order custom tabs and fields in your system.
+
 
 ##### Tags
 System admin
