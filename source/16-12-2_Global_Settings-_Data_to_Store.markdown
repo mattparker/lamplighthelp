@@ -79,7 +79,7 @@ See below for explanations of the different fields:
 
 #### Do you want to allow adding new service user profiles from {{work}}, {{referral}} etc. records, even if you have profile essential fields enabled (see previous tab)? 
 
-   If you have specified essential fields that must be completed when adding profiles, it is not usually possible to create new profiles from within a {{work}}, {{referral}} or {{outcome}} record. This is because profiles created in this way will not have the essential fields completed was you add them.
+   If you have specified essential fields that must be completed when adding profiles, it is not usually possible to create them profiles from within a {{work}}, {{referral}} or {{outcome}} record. This is because profiles created in this way will not have the essential fields completed was you add them.
 
    Enabling this option will mean that profiles can be created in the attendance table of {{activity}} records even though they will not have all the essential information completed at that time.
 
@@ -131,7 +131,7 @@ See below for explanations of the different fields:
 
 #### Do you want to use simple or tabular attendance information on {{referral}} records?    
 
-   You can add profiles can be added to the attendance table in {{referral}} records using either the default table style or simple search boxes. While in the default table you can add as many attendees in as many different roles as you want, in the simple table view on {{referral}} records you are restricted to three attendees: referrer, service user referred and who they were referred to.
+   You can add profiles to the attendance table in {{referral}} records using either the default table style or simple search boxes. While in the default table you can add as many attendees in as many different roles as you want, in the simple table view on {{referral}} records you are restricted to three attendees: referrer, service user referred and who they were referred to.
 
    ![Referral Record Simple Table](16.12.2j.png)
  
