@@ -31,7 +31,7 @@ The process for this is exactly the same as if you were adding new tabs, fields 
 
 #### Adding Fields to a Standard System Tab
 
-There are some standard tabs in all {{activity}} records. In a work record, these are 'Where and Where', 'Attendance', (although they could be called something slightly different in your system). You can't edit of delete the fields which already exist in these tabs (this can only be done by Lamplight), but you can add additional fields to them by 'creating' them in System Admin.  Create a tab with the correct name as below, (it doesn't matter what your version of the tab is called - you will need to use these original names and capitalisation is essential), then you can add fields to it.  
+There are some standard tabs in all {{activity}} records. In a work record, these are 'Where and Where', 'Attendance', (although they could be called something slightly different in your system). You can't edit of delete the fields which already exist in these tabs (in limited circumstances it may be possible for Lamplight to do this for you), but you can add additional fields to them by 'creating' them in System Admin.  Create a tab with the correct name as below, (it doesn't matter what your version of the tab is called - you will need to use these original names and capitalisation is essential), then you can add fields to it.  
 
 ![System Admin - adding fields to system tabs](1221a.png)
 
