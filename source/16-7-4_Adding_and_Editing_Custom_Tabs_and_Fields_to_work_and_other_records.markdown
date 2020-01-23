@@ -6,7 +6,7 @@
 
 
 
-In the system administration menu page, there is a section called 'Manage Custom Fields and Drop-down Lists'. This is where you'll find options for adding and managing custom fields and tabs on different types of {{activity}} record
+In the system administration menu page, there is a section called 'Manage Custom Fields and Drop-down Lists'. This is where you'll find options for adding and managing custom fields and tabs on different types of {{activity}} record.
 
 ![System Admin Adding Custom Fields to {{Activity}} Records](16.7.4b.png)
 
