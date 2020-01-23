@@ -20,7 +20,7 @@ If you have any existing sets of custom columns in your system you will see a li
 
 ### Adding Sets
 
-If you want to add new columns, first you will need at least one set. Column sets are for adminstrative convenience in system admin - they are sometimes used to group columns together. You will not see them in the table itself, and you can put any number of columns in one set. You can change the order of columns within a set (which will then change the order that they show in your attendance table), but you can't move them from one set to another.  
+If you want to add new columns, first you will need at least one set. Column sets are for adminstrative convenience in system admin - they are sometimes used to group columns together. You will not see them in the table itself, and you can put any number of columns in one set. You can change the order of columns within a set (which will then change the order that they show in your attendance table), but you can't move them from one set to another. We generally recommend only creating one set and placing all your columns into that one.
 
 #### To Add a Single Set
 
