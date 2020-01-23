@@ -4,7 +4,7 @@
 
 
 
-### To Set Up a New {{Eval}}{{eval}}
+### To Set Up a New {{Eval}}
 #### Adding an {{Eval}} in System Admin
 
 - Click ‘admin’ in the main menu, then ‘system administration’.
