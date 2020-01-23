@@ -10,7 +10,7 @@ To add a new one, or edit an old one:
 - Go to 'admin -> system administration -> Manage Custom Fields and Drop-down Lists -> People and Organisations -> Relation types between people'.
 
 ### Inverse Text
-Some relationships are reciprocal, with two different sides. For example, a parent and child, or employer and employee. To create a reciprocal relationship:  
+Some relationships have two different sides, depending on whose profile you are looking from. If you are my **friend**, then (hopefully) I am also your **friend**. However, if you are my **parent** then I am not your **parent**, I am your **child**. 'Inverse text' allows you to set up the two differend sides for the relationship.
 
 - Add the initial relationship (e.g. "parent") in the 'Text' box.
 - In the 'Inverse text' box, add the other side of the relationship (in this case "child"). 
