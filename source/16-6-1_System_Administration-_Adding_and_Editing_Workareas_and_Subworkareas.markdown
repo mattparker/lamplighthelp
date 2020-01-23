@@ -36,12 +36,12 @@
 
 It is possible to add a number of {{workarea}}s to this list in one go. 
 - Above the list of existing {{workarea}}s, click on the 'bulk add {{workarea}}' button.
-- In the pop-up box, type the names of the {{workarea}}s you want to add. Each one should be separated by a semi-colon, but you don't need any spaces between each one. For example 'Breaks;1:1 Counselling;Housing Advice;Lunch Club'. 
+- In the pop-up box, type the names of the {{workarea}}s you want to add. Each one should be separated by a semi-colon, but you don't need any spaces between each one. For example 'Breaks;1:1 Counselling;Lunch Club'. 
 
 ![Adding Multiple {{Workarea}}s](16.6.1b.png)
 
 - Once you have finished this, click 'add all'. 
-- These new {{workarea}}s will appear at the bottom of your list. You will now need to click on the editing icon (a pen and paper)  to open up the details, assign it a colour and decide which {{project}}s it will be available to. For more on this, see 'Adding a Single {{Workarea}} above. 
+- These new {{workarea}}s will appear at the bottom of your list. You will now need to click on the editing icon (a pen and paper)  to open up the details, assign it a colour and decide which {{project}}s it will be available to. For more on this, see 'Adding a Single {{Workarea}}' above. 
 
 ![Editing {{Workarea}}s in the List](16.6.1c.png)
 
@@ -53,11 +53,11 @@ It is possible to add a number of {{workarea}}s to this list in one go.
 
 ### Adding {{Subworkarea}}s
 
-Once you have set up your {{workarea}}s, you may want to add {{subworkarea}} 'subsets' to them (these are referred to on this system admin page as 'Activities'). For example, you might have 'Advice drop-in' as your {{workarea}}, then 'Monday lunchtime', 'Tuesday morning', 'Thursday evening' and 'Friday afternoon' as your {{subworkarea}}s. This allows you to track and report on your work in more detail.
+Once you have set up your {{workarea}}s, you may want to add {{subworkarea}} 'subsets' to them. For example, you might have 'Advice drop-in' as your {{workarea}}, then 'Benefits and Income Maximisation', 'Housing', and 'Access to Health Services' as your {{subworkarea}}s. This allows you to track and report on your work in more detail.
 - Click on the name of the {{workarea}} that you would like to add {{subworkarea}}s to. If it is an existing {{workarea}} you may already see some {{subworkarea}}s listed here.  
 
 **If you're adding one new {{subworkarea}}:**
-- Click on 'add new activity'.
+- Click on 'add new {{subworkarea}}'.
 
 ![Adding a New {{Subworkarea}}](16.6.1e.png)
 
@@ -65,8 +65,8 @@ Once you have set up your {{workarea}}s, you may want to add {{subworkarea}} 'su
 - Click 'update'. The {{subworkarea}} will now be listed below the {{workarea}}.  
 
 **If you're adding more than one new {{subworkarea}}:**
-- Click on 'bulk add activity'. 
-- Type the names of the {{subworkarea}}s you want to add in the pop-up box. Each one should be separated by a semi-colon (;), but you don't need any spaces between each one. For example 'Monday lunchtime;Tuesday morning;Thursday evening;Friday afternoon'. 
+- Click on 'bulk add {{subworkarea}}'. 
+- Type the names of the {{subworkarea}}s you want to add in the pop-up box. Each one should be separated by a semi-colon (;), but you don't need any spaces between each one. For example 'Benefits and Income Maximisation;Housing;Access to Health Services'. 
 
 [Bulk Adding {{Subworkarea}}s](16.6.1f.png)
 
