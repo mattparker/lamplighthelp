@@ -92,7 +92,7 @@ You will not see it if you choose to add the {{outcome}} through the profile tab
 - Click 'update' when you have finished.
 
 #### To add a number of descriptors to the same measure:
-As with categories and measures, it's possible to buld add descriptors too.
+As with categories and measures, it's possible to bulk add descriptors too.
 - Click on 'bulk add score desctiptor'. This will open a pop-up box.
 - Add the descriptors that you need, each one separated by a semi-colon (:). You do not need a space at the beginning or end of them. It's easier if you add these in order from the lowest score to the highest.
 
