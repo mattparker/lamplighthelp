@@ -1,4 +1,4 @@
-# 17.3.0 <i class="fas fa-project-diagram"></i> Policy-base {{Project}} Sharing
+# 17.3.0 <i class="fas fa-project-diagram"></i> Policy-based {{Project}} Sharing
 
 > By default, no information is shared between different {{project}}s. Policy-based {{project}} sharing gives you fine control of what you choose to share. You will need to ask us to enable this for you
 
