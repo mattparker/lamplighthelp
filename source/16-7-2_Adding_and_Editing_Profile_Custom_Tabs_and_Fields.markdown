@@ -103,6 +103,7 @@ The field that you have just added may require some options (for example, if you
 #### Add from a Built-in List
 
 - Lamplight contains a number of built-in sets of options. To see what is there, click on the 'add from built-in list' button. They include yes/no; some demographic options such as ethnicity, gender, religion and language; number lists; days and months. If you would like to use any of these lists as options for your field, click on the circle next to the appropriate one then click 'add'. 
+- Once they've been added to a field they behave like any other options, and you can edit them and add more if needed.
 
 ![Built-in List Options](16.7.2h.png)
 
