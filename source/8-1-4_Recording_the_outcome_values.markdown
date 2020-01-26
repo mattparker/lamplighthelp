@@ -15,10 +15,10 @@ You may also have some tabs relating to modules in your system - these are outli
 These {{outcome}}s will either be recorded as:
 
    - Yes/no (e.g. 'do they have a job?').
-   - Scores (e.g. 'on a scale of 1-5, how happy are you with your job?').
+   - Scores (e.g. 'on a scale of 1-5, how happy are you with your job?').  Sometimes these scores will be entered as a number, other times you can select the score and meaning from a drop-down.
    - Amounts (e.g. 'how many hours/week do you work?').
 
-When entering {{outcome}}s you will either see a drop-down box with yes-no options, or if they are expecting scores or amounts, a box into which you type the number.  You may see also see some explanatory text to the right of the {{outcome}}s.
+When entering {{outcome}}s you will either see a drop-down box with yes-no options, a drop-down with options explaining each score, or if they are expecting scores or amounts, a box into which you type the number.  You may see also see some explanatory text to the right of the {{outcome}}s.
 
 ![Explanatory text for an {{outcome}}](8.1.4b.png)
 

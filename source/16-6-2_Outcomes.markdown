@@ -7,7 +7,9 @@ Adding, editing and deleting {{outcome}}s works in the same way as for other lis
 
 You can have as many categories as you need, and each can have any number of {{outcome}} measures in it. For practical reasons we'd suggest no more than ten measures in each category. 
 
-Before you change or delete an {{outcome}} you need to consider the implications. These are the same as for {{workarea}}s - for more on this see [16.6.1 Adding and Editing {{Workarea}}s and {{Subworkarea}}s](/help/index/16.6.1).
+If you are using an established {{outcome}} framework (e.g. Core, WEBWMS, Outcome Stars) these can be imported directly into your system without having to enter all the details, and in many cases sub totals and totals, and descriptions for individual scores, will also be set up for you.  Please contact the Lamplight help desk if you'd like to do this before entering them manually into your system.
+
+Before you change or delete an {{outcome}} you need to consider the implications. These are the same as for {{workarea}}s - for more on this see [16.6.1 Adding and Editing {{Workarea}}s and {{Subworkarea}}s](/help/index/16.6.1)).
 
 ### To Add a New {{Outcome}}
 

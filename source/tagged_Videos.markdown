@@ -81,6 +81,11 @@ In this section you'll learn about {{work}} records in {{Lamplight}}, including 
 This section shows;
 - [what {{outcome}} records are and how to add them](/help/index/p/51.5.1)
 
+</div>
+</div>
+<div class="pure-g">
+<div class="pure-u-1">
+
 ### [How To Videos](/help/index/p/52.0.0)
 
 How To Videos are collections of videos to help you to get the best from your Lamplight system. The collections include Personal Settings, Reporting, and System Admin.
