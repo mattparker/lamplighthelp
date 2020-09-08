@@ -10,7 +10,29 @@
 
 You can set the length of time operators can leave their system open without it detecting any activity before they are automatically logged out and need to sign in again. This is a security feature aimed at stopping systems with sensitive data being left open at an unattended computer. Be aware that {{Lamplight}} cannot detect some activity, such as entering text. 
 
-### 'My User' Set-up
+
+### Speech Recognition
+
+#### Allow operators to use speech recognition with {{Lamplight}}?
+
+   If you use Chrome it has built-in dictation which you can use to write your {{work}} records or other text. If you choose to enable speech recognition here, each operator will have the choice whether or not they would like to use it.
+
+   You may have privacy concerns about this (which is why it is in this section): Google will receive the audio of what you say in order to turn it into text. You can check their privacy policy at [https://www.google.com/chrome/privacy/whitepaper.html#speech](https://www.google.com/chrome/privacy/whitepaper.html#speech). If you do enable this option, when you click on a text box you’ll get a request to access your microphone: if you say yes, you’ll be able to dictate, and after each pause the text will appear in the box. You only need to allow access once on a particular browser, and you can revoke it at any time.
+   
+
+### Diary feeds
+
+#### Allow operators create diary feeds to show read-only work records in external calender apps (e.g. Outlook)
+
+Diary feeds are a live data export of work records in a format that can be displayed in other calendar apps, such as Google Calendar or Outlook.  This is a security setting because enabling them means that your data from Lamplight will be accessible to the provider of your calendar app (e.g. Google or Microsoft).  If you do enable these, any database operator can create a new Diary Feed or use existing ones.  The {{work}} record data that is exported includes: record identifier, date and times, workarea, location, summary text, and description text.  This cannot be changed.  Records for the previous week and the next 2 weeks will be included in the feed.  Only enable these if you are happy for this data to be exported in this way.  
+
+When you create a diary feed, Lamplight will generate a long, unique URL that you enter into your calendar app.  Anyone with this URL will be able to view the data - there's no additional login step, and it's not possible to add one.
+
+Also, some calendar apps allow you to publish calendars more publicly, including your Lamplight diary feed, and this tends to be controlled within the calendar app.  Your staff may need to be made aware of this so that data is not inadvertently shared.
+
+Operators can create as many diary feeds as needed, and each can use various filters to limit the data provided in the feed.
+
+### Limit access to profiles for particular operators - 'My User' restrictions
 
 The next three fields, restricting database operators, relate to a 'My User' restriction. 
 
@@ -54,14 +76,6 @@ Records with no attendees will not be visible with this option.
 #### If using "My Users" restriction above, should newly added profiles be made a "my user".
 
    By choosing this option, when a database user creates a new profile in the system, it will automatically be linked to them as 'my user'. This is to prevent the need for another operator with a higher level of access to go in and create the relationship before they can edit information in the profile.
-   
-### Speech Recognition
-
-#### Allow operators to use speech recognition with {{Lamplight}}?
-
-   If you use Chrome it has built-in dictation which you can use to write your {{work}} records or other text. If you choose to enable speech recognition here, each operator will have the choice whether or not they would like to use it.
-
-   You may have privacy concerns about this (which is why it is in this section): Google will receive the audio of what you say in order to turn it into text. You can check their privacy policy at [https://www.google.com/chrome/privacy/whitepaper.html#speech](https://www.google.com/chrome/privacy/whitepaper.html#speech). If you do enable this option, when you click on a text box you’ll get a request to access your microphone: if you say yes, you’ll be able to dictate, and after each pause the text will appear in the box. You only need to allow access once on a particular browser, and you can revoke it at any time.
    
 
 
