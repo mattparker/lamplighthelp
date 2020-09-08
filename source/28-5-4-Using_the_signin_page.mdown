@@ -1,6 +1,45 @@
 # 28.5.4 Using the public sign-in page
 
-> 
+> The public sign-in page lists published {{work}} records, allows users to sign in and out, and registers new users.
+
+### Opening the sign-in page
+
+Once you have [registered a device](/en/help/index/p/28.5.1) and [published a {{work}} record](/en/help/index/p/21.1.2) you are ready to view the sign-in page.  On your registered device, make sure you're not logged in to {{Lamplight}}, and go to the URL shown in the [sign-in admin settings](/en/help/index/p/28.5.1).  You will see a page similar to this showing all published {{work}} records happening today:
+
+
+![Sign-in page](28.5.4a.png)
+
+Your browser will ask if it can use the camera on your device.  This is used to scan for QR codes, so if you wish to enable this you should allow access to the camera.  This page is designed with multiple devices types in mind, so it will work on mobile phones, tablets and regular computers, although the layout will change slightly on smaller devices.
+
+In this example, the Board meeting has been published but the person did not allow attendees to be added via the API.  The sign-in page knows this and so doesn't show a 'sign in' or 'sign out' button.
+
+#### Signing in and out
+
+The Board games, however, can be signed in to.  A user arriving would press the 'sign in' button, and when they do the screen changes slightly to show what the camera is seeing: me holding my QR code with my finger over it!
+
+![Sign-in page](28.5.4b.png)
+
+When it recognises a valid QR code, it will automatically try and add the profile identified by the QR code to the {{work}} record.  Assuming it's a valid {{Lamplight}} QR code, the profile will be added and you'll see a message saying "Thanks - we've logged your visit".  It's now ready for the next person to sign in or out.
+
+Signing out is exactly the same: click the 'sign out' button (or the 'sign out of all records' button) and scan your QR code.  Within {{Lamplight}}, the attendance for that profile will be updated with a timestamp showing when they signed out.  They will still be listed as attending the record.
+
+#### Registering a new user
+
+If the person arriving is new they won't have a QR code.  They can register from the sign-in page, which will create a profile for them in {{Lamplight}}.  You would then have to [produce a QR code](/help/index/p/28.5.3) for them in whatever format you use, but in the meantime they'll be able to sign in to an event.
+
+From the sign-in page, press the 'please join us' button on the right-hand side of the screen above.  This will take you to a simple registration page that will collect enough information to create a simple profile.
+
+![Sign-in - new user registration page](28.5.4c.png)
+
+When these details are completed and the 'join us' button is pressed, a new profile will be created in {{Lamplight}} and they will return to the sign-in page.  If they then click on a 'sign in' button it will also add them to the relevant {{work}} record.
+
+#### Signing in and out without a QR code
+
+If the user arriving does not have a QR code, they can try and sign in using their email address.  They would press the 'sign in' or 'sign out' button, and then enter their email address in the 'Forgot your QR code?' section.  Clicking 'register using email' will cause {{Lamplight}} to search for a profile with that email address and add them to the {{work}} record.  If it doesn't find anyone, or finds more than one profile, you'll see an error message on the screen to that effect.
+
+#### Sign out of all records
+
+The 'Sign out of all records' button is for situations when you have multiple events on one day that someone's been signing in to.  Using this will cause {{Lamplight}} to sign the user out of any of the {{work}} records they are already attending, adding the time they signed out.
 
 
 ###### publish module

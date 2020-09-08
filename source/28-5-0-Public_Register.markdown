@@ -4,7 +4,11 @@
 
 ### Overview
 
-The public sign-in feature lets your users sign in and out of your events using a specially prepared QR code.  You can set up a publicly accessible computer (or tablet or phone) showing a special registration page, and the camera on that device is used to scan their QR code.  When they leave, they sign out again in the same way.  New clients can register through the sign-in page too.  This is all logged straight onto your {{work}} records so that you know who's attended what, and a home page tab shows you who has signed in and out that day.
+The public sign-in feature lets your users sign in and out of your events using a specially prepared QR code.  You can set up a publicly accessible computer (or tablet or phone) showing a special registration page, and the camera on that device is used to scan their QR code.  When they leave, they sign out again in the same way.  New clients can register through the sign-in page too.  This is all logged straight onto your {{work}} records so that you know who's attended what, and a [home page tab](/help/index/p/28/5.5) shows you who has signed in and out that day.
+
+#### Publishing module settings
+
+First you'll need to make sure you [have the publishing module](/help/index/p/16.20), and that the settings are correct.  Please refer to [section 28.2](/help/index/p/28.2) about the system admin settings and make sure {{work}} records can be published, and enable the addition of attendees to {{work}] records.  You will also need to enable 'create new profiles' so that new members can join from the sign-in page.
 
 #### Setting up computers to use as public registers
 
