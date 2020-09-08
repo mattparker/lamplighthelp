@@ -34,13 +34,22 @@ Operators can create as many diary feeds as needed, and each can use various fil
 
 ### Limit access to profiles for particular operators - 'My User' restrictions
 
-The next three fields, restricting database operators, relate to a 'My User' restriction. 
+The next section allows you to control access to certain profiles by certain database operators.
 
-The ‘My User’ restriction allows for a stricter level of access limitation to {{Lamplight}}. Database operators can be linked to other profiles (such as clients on their caseload) using the ‘My User’ relationship (this may have been renamed in your system, perhaps something like 'caseworker' or similar). With the ‘My User’ restriction enabled, database operators with access levels of staff, data entry or reception will only be able to see information about those profiles that they are related to as 'My User's.  In the sections below, these database operators are referred to as 'affected operators'.
+Database operators can be linked to other profiles (such as clients on their caseload) using the built-in ‘My User’ relationship (this may have been renamed in your system, perhaps something like 'caseworker' or similar). With the ‘My User’ restriction enabled, database operators with lower access levels will only be able to see information about the profiles that they are related to as 'My User's.  In the sections below, these database operators are referred to as 'affected operators'.
 
-#### Restrict operators below manager level to only view "my users" they are linked to.
+Operators at higher access levels will not be affected by these restrictions at all.
 
-   This turns on the 'My User' restriction.  As explained above, it will limit any affected operators so that they can only see the profiles of people and organisations they are linked to by a 'my user' relationship.
+#### How should access to profiles be controlled?
+
+There are four options here.  The default is no restriction - operators will be able to see all profiles.  
+
+The first option restricting access is '1) Only allow access to profiles linked via "my user" relationships'.  Affected operators will be able to see their own profile, and only other profiles if they have a current 'my user' relationship.  Either these relationships will be created by a higher-level operator, or,  if the 'newly added profiles' option below is selected, profiles that the operator created.
+
+The second option applies this restriction only to certain profile roles.  Select '2) Disallow access to profiles with one of roles selected below, unless they are a "my user"' and choose the profile roles in the 'Which types of profile should access be restricted to?' field lower down.  With this option, the "my user" restriction only applies to profiles with the chosen roles.  So an affected operator might be able to view all referring organisations regardless of any relationships, but only service users if they are part of their caseload.
+
+The third option, '3) Disallow access to all profiles with one of the roles selected below' does not look at relationships at all.  Affected operators will not be able to see profiles of the type(s) selected.  This would allow you to limit access to funder profiles by staff, for example.
+
    
 #### Restrict operators below manager level to only view {{activity}} and {{linked case}} records linked to the "my users" they are linked to.
    
@@ -75,7 +84,7 @@ Records with no attendees will not be visible with this option.
 
 #### If using "My Users" restriction above, should newly added profiles be made a "my user".
 
-   By choosing this option, when a database user creates a new profile in the system, it will automatically be linked to them as 'my user'. This is to prevent the need for another operator with a higher level of access to go in and create the relationship before they can edit information in the profile.
+   By choosing this option, when a database user creates a new profile in the system, it will automatically create a relationship with them as 'my user'. This is to prevent the need for another operator with a higher level of access to go in and create the relationship before they can edit information in the profile.
    
 
 
