@@ -56,7 +56,7 @@ To create a widget that will allow people to create {{referral}} records through
 
 Without any custom CSS, the accept {{referral}} widget will look like this:
 
-![Accept {{referral}} widget](28.4.0d.PNG)
+![Accept {{referral}} widget](28.4.0e.PNG)
 
 The referral topic select box lists your {{workarea}}s.  The {{referral}} record that's created will try and match the profile by email address, and include the text from the 'details' in the '{{referral}} reason'.
 
@@ -64,13 +64,13 @@ The referral topic select box lists your {{workarea}}s.  The {{referral}} record
 
 To create a widget that will show a list of published {{work}} records click the '{{work}} record listing' button at the top.  
 
-![Publishing - creating a {{work}} record listing widget](28.4.0e.PNG)
+![Publishing - creating a {{work}} record listing widget](28.4.0f.PNG)
 
 You can optionally add a filter for {{workarea}} here, to only show records for one or more {{workarea}}s.  If you want to show all, leave this unticked.
 
 Without any custom CSS, the {{work}} record listing widget will look like this:
 
-![{{Work}} record listing widget](28.4.0.f.PNG)
+![{{Work}} record listing widget](28.4.0.g.PNG)
 
 The 'Title of record for publishing' from the {{work}} record is the main title, with date, time and {{workarea}} displayed below.
 
