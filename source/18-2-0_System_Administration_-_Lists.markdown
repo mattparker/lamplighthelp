@@ -3,12 +3,6 @@
 > All lists can be added and edited in the same way. Double-click to edit, enter to save, drag and drop to re-order. 
 
 
-TODO
-
-Need to add info about implications of editing and deleting any list items.
-Define what lists are in LL - as seen in current menu.
-
-
 All lists can be added and edited in the same way.
 
 To edit existing items, double-click the text you wish to change: 
