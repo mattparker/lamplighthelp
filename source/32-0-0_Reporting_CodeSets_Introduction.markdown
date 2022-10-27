@@ -1,4 +1,4 @@
-# 32.0.0 The Reporting CodeSets Module - Introduction
+# 32.0.0 Reporting CodeSets Module
 
 > Reporting CodeSets allow you to "translate" your data, so that you can output it using code sets for partners for reporting purposes.  
 
