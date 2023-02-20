@@ -1,21 +1,21 @@
-# 23.1.0 {{Eval}}s Direct Module: Set Up
+# 23.1.0 Data Direct Module: Set Up
 
-> If you have already created some {{eval}} templates set up in the {{Eval}}s Module, then {{Eval}}s Direct takes minimal setup before you can begin using it
+> If you have already created some {{outcome}} templates set up within the core system {{eval}} or via the {{Eval}}s Module, then Data Direct takes minimal setup to start using it
 
 
 
-Please see [22.1.0 Setting Up {{Eval}}s](/help/index/p/22.1.0) for more information on creating {{eval}} templates. The {{Eval}}s Direct Module relies on these {{eval}}s to create campaigns to send out.
+Please see [22.1.0 Setting Up {{Eval}}s](/help/index/p/22.1.0) for more information on creating {{eval}} templates and [16.6.2 Setting Up {{outcome}}s](/help/index/p/16.6.2). The Data Direct Module relies on these to create campaigns to send out.
 
-There are only a few things in system administration for {{Eval}}s Direct that you need to be aware of.
+There are only a few things in system administration for Data Direct that you need to be aware of.
 
 ### Managing Colour Schemes
 
-System Administrators can define colour schemes for all database operators to use in {{eval}} campaigns.  This controls the visual appearance of the {{eval}} your respondents will see when they visit the survey page.
+System Administrators can define colour schemes for all database operators to use in campaigns.  This controls the visual appearance of the {{eval}}/{{outcome}} your respondents will see when they visit the page if you need to change if from the fairly neutral default scheme.
 
 - Go to 'admin -> system administration’ then scroll down to the 'Module Administration' section. 
 - Find the '{{Eval}}s Module' section, and click on 'Manage colour schemes for DataDirect campaigns'.
 
-![{{Eval}}s Direct in System Admin](23.1.0a.png)
+![Data Direct in System Admin](23.1.0f.png)
 
 #### Creating and Editing Colour Schemes
    
@@ -35,15 +35,17 @@ If any fields are left blank, they will default to black in the case of text, li
    
 #### Applying Colour Schemes
 
-When creating a new {{Eval}}s Campaign there is a 'Text and styling’ option towards the bottom of the third tab. Available colour-schemes are listed. 
+When creating a new campaign there is a 'Text and styling’ option towards the bottom of the third tab. Available colour-schemes are listed. 
 
    ![Choosing a Colour Scheme](23.1.0d.png)
 
-For more on this see [23.2.0 Setting Up an {{Eval}}s Direct Campaign](/help/index/p/23.2.0).
+For more information please see:
+- {{Outcome}}: [23.6.0 Setting Up an {{Outcome}} Direct Campaign](/help/index/p/23.6.0).
+- {{Eval}}: [23.2.0 Setting Up an {{Eval}}s Direct Campaign](/help/index/p/23.2.0).
 
 ### Custom CSS
 
-Custom CSS can be used to change the appearance of an {{eval}} campaign. CSS is a markup language that controls the appearance of HTML elements on a web page. It is only advisable to do this if competent using CSS, and Lamplight cannot offer any support with it. 
+Custom CSS can be used to change the appearance of a campaign. CSS is a markup language that controls the appearance of HTML elements on a web page. It is only advisable to do this if competent using CSS, and Lamplight cannot offer any support with it. 
 
 Custom CSS can be added at the same time as a colour scheme; just fill in the details in the box at the bottom of the page.
 
