@@ -53,7 +53,7 @@ When you're shortlisting the {{recruiter}} module only shows you applicant respo
 can't see any personal or demographic information, and there are no CVs.  And responses are presented
 to make it most easy to compare responses from the different applicants and judge them fairly.
 
-The contact and demographic information is captured, so you can in touch afterwards and run reports
+The contact and demographic information is captured, so you can get in touch afterwards and run reports
 to monitor your equalities performance.
 
 
@@ -63,22 +63,26 @@ The Lamplight {{recruiter}} module is designed for smaller employers, to help wi
 application and shortlisting process.  The process is:
 
  1. create question sets that applicants complete when applying for a role
+ 
  2. check language of text that may discourage people from applying
+ 
  3. create {{recruiter}} campaigns that allow applicants to answer capability based questions
+ 
  4. each member of the shortlisting panel when scores applications
+ 
  5. scores are shown for all applicants
+ 
  6. shortlisting decisions and reasons are made and saved
+ 
  7. applicants can be emailed directly to share the good or bad news
 
 
 ### Credits
 
 The functionality in this module has been inspired by a few folk:
-- Diverse Matters - [https://diversematters.co.uk/](https://diversematters.co.uk/) - who have helped Lamplight in our approach to 
-recruitment,
+- Diverse Matters - [https://diversematters.co.uk/](https://diversematters.co.uk/) - who have helped Lamplight in our approach to recruitment,
 - [beapplied.com](beapplied.com) - a platform that offers similar functionality for larger employers.
-- [https://twitter.com/craprecruitment](https://twitter.com/craprecruitment) - highlighting where Third Sector organisations 
-can improve their recruitment practices
+- [https://twitter.com/craprecruitment](https://twitter.com/craprecruitment) - highlighting where Third Sector organisations can improve their recruitment practices
 
 We added this module because we wanted to use it and couldn't find a product that would work
 for us.  We've used this module and approach over three recruitment rounds over the last couple

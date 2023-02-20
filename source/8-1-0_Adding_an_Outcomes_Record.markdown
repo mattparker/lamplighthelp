@@ -24,7 +24,11 @@ Choose 'Add {{outcome}}s' (for more on {{work}} record context menus see [7.2.0 
 
 ![Adding an {{Outcome}} from the {{Work}} Record Context Menu](8.1.0c.png)
 
-If you open the record from here it will automatically add the same time and date, {{workarea}}, {{user}}s and {{staff}} as are entered in the {{work}} record. You will need to remember to change these as necessary.  
+Please note, this option is only available when using the attendance table, and not the simple search option (tab referenced as 'Respondent') as mentioned in [8-1-2_Adding_{{Outcomes}}-_Attendance](/help/index/p/8.1.2).
+
+Only one {{user}} can be added to a simple respondent box. Once you've moved away from the original {{work}} record there is not a connection to the other {{user}}s.
+
+If you do open the {{outcome}} record from here it will automatically add the same time and date, {{workarea}}, {{user}}s and {{staff}} (if using the 'attendance' tab) as are entered in the {{work}} record. You will need to remember to change these as necessary.  
 
 We would advise that you only use this if there is a single {{user}} attending the {{work}} record. It is only possible to record one set of results per {{outcome}} record, and it is unusual that two {{user}}s would have exactly the same results. 
 

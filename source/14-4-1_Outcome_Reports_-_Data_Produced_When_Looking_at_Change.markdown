@@ -6,7 +6,7 @@
 
 If you select 'Difference between earliest and latest scores' in the 'How to summarise the data' section of '{{Report}} presentation', you will see a table similar to this:
 
-![{{Outcome}}s {{report}}ing - difference between scores](13.4.1a.png)
+![{{Outcome}}s {{report}}ing - difference between scores](14.4.1a.png)
 
 ### Table Columns
 
@@ -17,12 +17,12 @@ The columns in this table show:
   - Average initial score - the mean initial score across all {{people}} in the {{report}}.
   - Average final score - the mean last score recorded within the date range for all {{people}} in the {{report}}.
   - Number of people w. some data - the number of {{people}} that had their scores included in the {{report}}. They will need to have at least two scores for the {{outcome}} measure in the date range.
-  - Percentage with positive change - percentage of {{people}} included in the {{report}} whose later score has moved in a positive direction compared to the first (usually gone up).
-  - Percentage negative change - percentage of {{people}} where the later {{outcome}} was less positive than the earlier (usually gone down). 
+  - Percentage with increased scores - percentage of {{people}} included in the {{report}} whose later score has moved in a positive direction compared to the first (usually gone up).
+  - Percentage with decreased scores - percentage of {{people}} where the later {{outcome}} was less positive than the earlier (usually gone down). 
   
-There are more columns that you can add to your table, for example the number of {{people}} with positive and negative change, rather than the percentages. To see the extra columns that are available, right click the coloured header row of the table.
+There are more columns that you can add to your table, for example the number of {{people}} with increased and decreased scores, rather than the percentages. To see the extra columns that are available, right click the coloured header row of the table.
 
-![Extra Table Columns for the {{Outcome}}s {{Report}}](13.4.0c.png)
+![Extra Table Columns for the {{Outcome}}s {{Report}}](14.4.1b.png)
 
 To add a column to your table, click on it in the list. To remove it, go back to the list and untick.
 

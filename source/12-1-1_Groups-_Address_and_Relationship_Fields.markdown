@@ -29,19 +29,25 @@ Also note that:
 ### Relationships
 
 On this tab you can choose to filter by the relationships that are recorded in the profile.  You can create {{auto group}}s of, for example, all the {{people}} who have a relationship of 'key worker', 'GP' or 'trustee' (if these are relationships that you use in your system - you will probably have different options to choose from). 
+If you wish to select more than one relationship type, use the Ctrl button on your keyboard to select multiple options.
 
-![Relationships Link in {{Group}}s](11.1.1c.png)
+![Relationships Link in {{Group}}s](12.1.1a.png)
+
+The date frame that shows below the relationship list, allows you to specify when the system should use the relationship. If you leave it blank, it will include relationships that are current as at the time the {{group}} is run. You can however specify a time frame from the drop-down lists. 
+
+If you use default contacts in your system (ie. specify who the default contact is when creating a relationship in a profile) it is also possible to select this as a filter in the 'Relationships' tab, so that only default contacts are included.
 
 The option 'Include related profiles as the second profile for each {{group}} member' controls whether the related profiles should appear as the 'second' profiles when viewing and using the {{group}}.  For example, these can be used in {{comm}}s, so that you can include details of both profiles in a single merged {{comm}}.  But you may also want to exclude this possibility.  Tick the box if you do want the linked profiles to appear.
 
-You can also use relationships to another {{auto group}}. For example, you may have already created an {{auto group}} of "All Unemployed Clients". To create another {{auto group}} of the partners of these unemployed {{people}}:
-  - Choose the original 'All Unemployed Clients' {{group}} from the 'show only people that are related to members of {{group}}' drop-down.
-  - Select the relationship 'Partner' from the 'With relationship' box.
+You can also use relationships to only show profiles that are related to members of another {{auto group}}. 
+- For example (using the settings in our demo system) you may need a {{group}} of parents with children under 5. You firstly create an {{auto group}} for "Children under 5" and then come to the 'Relationships' tab to create another (a second) {{auto group}} of the parents of these children  
+  - Choose the original 'Children under 5' {{group}} from the 'show only profiles that are related to members of {{group}}' drop-down.
+  - Select the relationship 'Family' from the 'With relationship' box.
   
-![Using 'Related to Members of {{Group}}' in {{Group}}s](11.1.1d.png)
+![Using 'Related to Members of {{Group}}' in {{Group}}s](12.1.1b.png)
 
 
-If you use default contacts in your system, it is also possible to select this as a filter in the 'Relationships' tab.
+
 
 
 ###### core module

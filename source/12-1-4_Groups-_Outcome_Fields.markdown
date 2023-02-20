@@ -15,9 +15,9 @@ To use {{Outcome}}s to filter your group, you must choose an individual measure 
 #### Date of {{Outcome}}(s)
 
 You can limit the search to specific dates. (Options for date fields in the {{Outcome}} tab function the same as in the {{Work}} tab - for more on this see [12.1.3 {{Group}}s: {{Work}}, {{Referral}} and {{Grant}} Fields](/help/index/p/12.1.3). 
-For example, you can find {{people}} who had their 'Confidence in a Group' {{outcome}} scored sometime before November 2018. (As the 'Date' option is 'On or before', the date entered in this case would be 31 October 2018).
+For example, you can find {{people}} who have ansered they 'feel positive about their life' in a specific static timeframe or if this is a {{group}} you'll need to run regularly, you can set a 'dynamic' timeframe so it will alter the dates based on the present date, such as the 'current month'.
 
-![Date of {{Outcome}}(s)](11.1.4a.png)
+![Date of {{Outcome}}(s)](12.1.4a.png)
 
 #### Duration {{Outcome}} Score Maintained
 
@@ -55,12 +55,23 @@ Use the boxes here to filter for people whose last recorded {{outcome}} was an e
 You can filter by latest {{outcome}}s scored against specific {{workarea}} and {{subworkarea}}s. This means that a {{person}} whose last score is recorded against a different {{workarea}} will be excluded from the {{group}}.
 
 
-### Example
+### Example: Number 1 - Who has seen positive change
 
-A {{group}} for {{people}} whose score for the 'Networks and Relationships' {{outcome}} went up at least one point between 1st January 2017 and 31st December 2018. This score was recorded against the 'Carer Respite' {{workarea}}.
+The image below allows us to identify a {{group}} of {{people}} whose score for the 'I feel positive about my life' {{outcome}} went up at least one point between the start of Q1 2021 and the end of Q4 2022. No filter for {{workarea}} was selected, so it will be for anyone that's reposnded to the question irrespective of the {{workarea}} selected at point of data entry.
 
-![{{Group}} {{Outcome}}s Example](11.1.4b.png)
+![{{Group}} {{Outcome}}s Example](12.1.4b.png)
 
+### Example: Number 2 - Who gained employment
+
+Tip - It's helpful to know what the scores on your measures mean. This example is for a specific score, in this system 1 = yes, therefore the list is for all those who have answered yes to the 'have they gained employment' question. 
+
+![{{Group}} {{Outcome}}s Example](12.1.4c.png)
+
+### Example: Number 2 - Movement to an end result
+
+You can use the settings on the page together. For example, the image below would tell us those who experienced at least 2 points of positive change and their latest score was at least 5. Tip - refer back to the timeframe you've included above as the movement in outcome scores must have taken place within the timeframe specified.
+
+![{{Group}} {{Outcome}}s Example](12.1.4d.png)
 
 ##### Tags
 Advanced topics
