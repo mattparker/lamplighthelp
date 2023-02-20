@@ -4,7 +4,7 @@
 
 
 
-![Security Settings](16.12.6a.png)
+![Security Settings](16.12.6b.png)
 
 ### Logout Time - Length of Time in Seconds Before Automatic Logout Happens
 

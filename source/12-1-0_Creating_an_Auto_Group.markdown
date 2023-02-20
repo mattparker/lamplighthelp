@@ -26,11 +26,12 @@ The {{group}} name and a description are compulsory - you can't save your choice
 
 ### {{People}} or {{Org}}s
  
-![{{Auto Group}}s - Choosing What Types of {{People}} to Add](103b.png)
+![{{Auto Group}}s - Choosing What Types of {{People}} to Add](12.1.0c.png)
 
 - You must choose whether your {{auto group}} will include {{people}}, {{org}}s or {{family}} - you cannot have a mixture. If you need more than one of these types, you can create a {{group}} for each and them merge them (see [12.3 Creating a Merge {{Group}}](/help/index/p/12.3) for more details). 
 - Unlike most fields in {{auto group}}s, the 'who are' choice (e.g. {{user}}, {{staff}}, {{contact}} etc.) is an 'OR' search, so it will include those that meet **any** of the criteria selected, not those that meet all of them. 
-- Next is the option to select when the date profiles were added to the system.  If you select 'between' dates, a second date box will appear so that you can specify two dates. 
+- Profile name search: This allows you to search for people who have the exact same name or similar. Type in your text in the first box and use the drop-down list along from it to change if it should be 'Exact match', 'Match anywhere'or 'Starts like'. If you're wanting a list of all anonymous profiles, keep the text blank and change the drop-down to 'Is empty'.
+- Date profile created: This is the option to select when the date profiles were added to the system. This is based on data entry into Lamplight NOT when they were referred or attended a session etc.  If you select 'between' dates, a second date box will appear so that you can specify two dates. 
 - The 'Visibility' drop-down box allows you to choose whether your {{auto group}} will be made up of people who are active on your system, or those who have been archived. For more on archiving, see [16.8.2 Archiving Profiles](/help/index/p/16.8.2). You cannot mix current and archived profiles in the same {{auto group}}.
 
 For information on the other filter choices for {{group}}s, see:
