@@ -9,7 +9,7 @@ investigation that the {{safeguarding case}} has reached. New {{safeguarding cas
 {{safeguarding case}}s as they move through the investigation process.
 
 If you are not a safeguarding manager you will only see a very limited summary of each {{safeguarding case}} unless you have been
-assigned as an investigator. In this case you will see a more detailed view and be able to click in to see full details
+assigned as an {{safeguarding lead contact}}. In this case you will see a more detailed view and be able to click in to see full details
 of the {{safeguarding case}}. 
 
 To view more information about the {{safeguarding case}}, click the 'view details' button.

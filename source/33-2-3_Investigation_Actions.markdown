@@ -3,7 +3,7 @@
 > Investigations Actions are the things you do to investigate a {{safeguarding case}}. For example, adding a note of a meeting, or
 > updating the status of a {{safeguarding case}}, are actions.
 
-Once a {{safeguarding case}} has been raised, investigators and safeguarding managers can carry out various actions on the {{safeguarding case}} to
+Once a {{safeguarding case}} has been raised, {{safeguarding lead contact}}s and {{safeguarding}} managers can carry out various actions on the {{safeguarding case}} to
 move the investigation forwards. The actions available depend on the status of {{safeguarding case}}.
 
 ### Severity
@@ -58,12 +58,12 @@ have been raised about the same person, or about anyone with a relationship to t
 This table will list summary information about the concerns, but to review them more fully you will need to click on the
 name of the concern. This will open up the details available to you.
 
-Note that if you are not an investigator on the other concern, the information available to you may be quite limited.
-You may need to speak to a Safeguarding Manager or the relevant investigator in this situation.
+Note that if you are not an {{safeguarding lead contact}} on the other concern, the information available to you may be quite limited.
+You may need to speak to a Safeguarding Manager or the relevant {{safeguarding lead contact}} in this situation.
 
 ### Notes
 
-Notes are detailed records of your investigation. They can be added by the investigator or by a Safeguarding
+Notes are detailed records of your investigation. They can be added by the {{safeguarding lead contact}} or by a Safeguarding
 manager. To add a case note click the button in the main action panel.
 
 This will take you to a screen similar to adding work or other activity records. As with them, select the work area,
@@ -128,7 +128,7 @@ You may require a safeguarding manager to sign off a concern before it is closed
 manager, change the status and click save. Safeguarding managers will receive an email notification asking them to review
 and close the concern.
 
-You will now see that most actions are locked to investigators. A Safeguarding Manager will now need to review the
+You will now see that most actions are locked to {{safeguarding lead contact}}s. A Safeguarding Manager will now need to review the
 concern and sign it off.
 
 ### Sign off

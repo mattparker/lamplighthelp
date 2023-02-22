@@ -3,7 +3,13 @@
 > There are a number of settings for the {{safeguarding}} module that you can change via system admin.
 
 Changes to the settings for the {{safeguarding}} module can be made using familiar system admin interfaces.  They are
-listed below, with any notes particular to these settings.  
+listed below, with any notes particular to these settings.  You will need to be a system administrator to make these changes.
+
+### {{Safeguarding}} Managers
+
+Any operator can be a {{Safeguarding}} Manager - it is separate to the standard operator roles. To do so,
+go to admin > system administration > manage database operators and edit the operator. You will see a checkbox
+to enable them as a {{Safeguarding}} Manager. As soon as you do, they will have full access to all {{Safeguarding case}}s.
 
 ### Global Settings
 
