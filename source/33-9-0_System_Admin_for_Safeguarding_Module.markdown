@@ -11,6 +11,8 @@ Any operator can be a {{Safeguarding}} Manager - it is separate to the standard 
 go to admin > system administration > manage database operators and edit the operator. You will see a checkbox
 to enable them as a {{Safeguarding}} Manager. As soon as you do, they will have full access to all {{Safeguarding case}}s.
 
+To give someone access to DBS records only, tick the 'Give this operator access to DBS records?' box.
+
 ### Global Settings
 
 There is a {{safeguarding}} module tab in global settings. This allows you to change:
@@ -18,16 +20,22 @@ There is a {{safeguarding}} module tab in global settings. This allows you to ch
  - notification settings for new {{safeguarding case}}s
  - the settings for the {{safeguarding}} dashboard
  - what profile roles should have DBS Checks
+ - when to start notifying you when DBS checks are going to expire
 
 Edit global settings in the [usual way](/en/help/index/p/16.12.0) via admin > system administration > change global settings.
 
+### Attendance roles
+
+When raising a {{safeguarding case}} additional profiles can be added to it. You may wish to create particular attendance
+roles for these that relate specifically to {{safeguarding}}. You can do so via admin > system administration > Attendance roles.
+Select {{safeguarding}} as the record type for the roles that you create or wish to use.
 
 
 ### Module specific drop-downs and custom fields
 
 You can change the key drop-downs that appear in {{safeguarding case}}s, for Status, Severity, and Closure Reason. While
 you can change the terminology, we very strongly suggest that you do not change the meaning and intention for Status
- and Severity.  These settings are found in admin > system administration > Safeguarding module box near the bottom of the screen.
+ and Severity.  These settings are found in admin > system administration > {{Safeguarding}} module box near the bottom of the screen.
 
 Lamplight expects the Statuses that already appear in the system. If you change the meaning of the items in the Status
 list, it will not behave as you expect. If you add additional items, Lamplight won't know what Actions should apply, 

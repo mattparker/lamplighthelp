@@ -13,13 +13,16 @@ records, and change the status and other aspects of it.
 To assign a {{safeguarding lead contact}}, go to the list of all {{safeguarding case}}s and click to view details. Below the main information panel
 are a series of actions that are available to you. For a newly raised {{safeguarding case}} the actions are fairly limited.
 
+![Add {{safeguarding lead contact}}](33.2.2a.png)
+
 Select the name of the {{safeguarding lead contact}} and click ‘save’. You will see that their name is now listed In the main information
-panel. You will also see that the status of the {{safeguarding case}} has been automatically updated to ‘under investigation’.
+panel. You will also see that the status of the {{safeguarding case}} has been automatically updated to 'Internal Fact Gathering'.
 
-Now that the {{safeguarding case}} is under investigation, the available actions have changed. These are covered in the next section.
+Now that the {{safeguarding case}} has been assigned, the available actions have changed. These are covered in 
+[section 33.2.3](/en/help/p/33.2.2).
 
-If you need to assign additional {{safeguarding lead contact}}s you can do so now or at any time. Simply select their name from the list
-of names.
+If you need to assign additional {{safeguarding lead contact}}s you can do so now or at any time. Simply repeat the process, 
+selecting their name from the list of operators.
 
 It may be that on reviewing the {{safeguarding case}} you judge that no further action is required. In this case you need not assign
 a {{safeguarding lead contact}}, or you could assign yourself. We suggest that you document your reasons for the decision now, and then

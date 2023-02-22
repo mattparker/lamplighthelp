@@ -1,12 +1,12 @@
-# 33.2.3 Investigating a {{safeguarding case}} - Investigation Actions
+# 33.2.3 Proceeding with a {{safeguarding case}} - Actions
 
-> Investigations Actions are the things you do to investigate a {{safeguarding case}}. For example, adding a note of a meeting, or
+> {{Safeguarding}} Actions are the things you do to process a {{safeguarding case}}. For example, adding a note of a meeting, or
 > updating the status of a {{safeguarding case}}, are actions.
 
-Once a {{safeguarding case}} has been raised, {{safeguarding lead contact}}s and {{safeguarding}} managers can carry out various actions on the {{safeguarding case}} to
-move the investigation forwards. The actions available depend on the status of {{safeguarding case}}.
+Once a {{safeguarding case}} has been raised, {{safeguarding lead contact}}s and {{safeguarding}} managers can carry out various 
+actions on the {{safeguarding case}} to move it forwards. The actions available depend on the status of {{safeguarding case}}.
 
-### Severity
+### <i class="fas fa-exclamation-circle"> Severity
 
 The severity of a {{safeguarding case}} is an indication of the level of risk you judge the subject of the {{safeguarding case}} to be under. There
 are five levels of severity. 
@@ -21,20 +21,23 @@ Severity is displayed in the following places
  - At the top of the detail page
  - On the dashboard.
 
-Any changes to severity are logged in the {{safeguarding case}}. You may need to also add a comment to explain the change (see below).
+It is only visible to {{Safeguarding}} Managers and {{Safeguarding lead contact}}s.
 
-### Status
+Any changes to severity are logged in the {{safeguarding case}}. You may also need to add a comment to explain the change (see below).
 
-The status represents the status of the investigation. These are:
+### <i class="fas fa-route"></i> Status
+
+The status represents the status of the {{safeguarding case}}. By default these are:
 
 1. New {{safeguarding case}} raised
-2. Under internal investigation
-3. Under external investigation
-4. Waiting for external reports
-5. Ongoing issue
-6. Requires manager sign-off
-7. Signed off
-8. Closed
+2. Internal fact gathering
+3. Preparing internal reports
+4. External investigation
+5. Waiting for external reports
+6. On-going issue
+7. Requires sign-off
+8. Signed off
+9. Closed
 
 The status can be changed at any time by selecting the new status from the drop down list and clicking save. The status is displayed on the main listing page, In the detail panel, and on the dashboard.
 Changing the status also affects which actions are available.
@@ -46,27 +49,29 @@ Concerns that have 'Ongoing issue' or 'Closed' status will generally not be show
 to manage current {{safeguarding case}}s. 
 
 
-### View other {{safeguarding case}}s
+### <i class="fas fa-search-plus"></i> View other {{safeguarding case}}s
 
-Early in an investigation you may need to check whether the subject of the {{safeguarding case}} has had other {{safeguarding case}}s raised. You
+Early in the process you may need to check whether the subject of the {{safeguarding case}} has had other {{safeguarding case}}s raised. You
 may also need to know if others connected to that person have too. Knowing this will help you to establish whether the
 {{safeguarding case}} that has been raised is part of a larger pattern that you should be aware of.
 
-To view any {{safeguarding case}}s that may be relevant, click the button. This will open a pop up window showing any concerns that
+To view any {{safeguarding case}}s that may be relevant, click the 'View related {{safeguarding case}}s' button. 
+This will open a pop up window showing any {{safeguarding case}}s that
 have been raised about the same person, or about anyone with a relationship to this person.
 
-This table will list summary information about the concerns, but to review them more fully you will need to click on the
-name of the concern. This will open up the details available to you.
+This table will list summary information about the {{safeguarding case}}s, but to review them more fully you will need to click on the
+name of the {{safeguarding case}}. This will open up the details available to you.
 
-Note that if you are not an {{safeguarding lead contact}} on the other concern, the information available to you may be quite limited.
-You may need to speak to a Safeguarding Manager or the relevant {{safeguarding lead contact}} in this situation.
+Note that if you are not a {{Safeguarding}} Manager or an {{safeguarding lead contact}} on the other {{safeguarding case}}s, 
+the information available to you may be quite limited.
+You may need to speak to a {{Safeguarding}} Manager or the relevant {{safeguarding lead contact}} in this situation.
 
-### Notes
+### <i class="fas fa-file-alt"></i> Notes
 
-Notes are detailed records of your investigation. They can be added by the {{safeguarding lead contact}} or by a Safeguarding
-manager. To add a case note click the button in the main action panel.
+Notes are detailed records of your work on the {{safeguarding case}}. They can be added by the {{safeguarding lead contact}} or by a {{Safeguarding}} 
+Manager. To add a case note click the button in the main action panel.
 
-This will take you to a screen similar to adding work or other activity records. As with them, select the work area,
+This will take you to a screen similar to adding work or other {{activity}} records. As with them, select the {{workarea}},
 location if relevant, and, if others were involved, their names in the involving tab. Full text notes can then be added
 in the details tab.
 
@@ -75,12 +80,12 @@ won’t be visible directly in the main concern detail screen, and nor will they
 This may influence whether you attach the file or include the content in the text fields of the Note.
 
 When you click save you will return to the main concern detail screen, with the Note you have just created at the
-bottom of the listing, as records are shown in chronological order of when they were added.
+bottom of the listing, as records are shown in date order of when they were added.
 
 
-### Comments
+### <i class="fas fa-comment-alt"> Comments
 
-Comments can be made by any operator during the investigation of a concern.  They are simple text notes that add
+Comments can be made throughout the processing of a {{safeguarding case}}.  They are simple text notes that add
 snippets of information to the investigation.  Comments can be made on particular notes within the investigation, on or 
 the concern overall.
 
@@ -89,66 +94,76 @@ main timeline.
 
 To add a comment to an existing Note, type your text in the box that immediately follows the note details.
 
+We see Notes as the detailed records of a {{safeguarding case}}, and Comments as post-its or scribbles in the margin.
 
 
-### Shared text
+### <i class="fas fa-comment-medical"></i> Shared text
 
-It may be necessary to provide some information to the rest of your organisation about the concern that has been raised,
-without providing full details. To do this, you can add text in the box. When you do this, the date, severity, and text
-you have entered will be shown in the profile header area when viewing that profile.
+It may be necessary to provide some information to the rest of your organisation about the {{safeguarding case}} that has been raised,
+without providing full details. To do this, you can add text in the 'Add Shared Details for the team' box. 
+When you do this, the date of the incident and text you have entered will be shown in the profile header area when viewing that profile.
 
-In a multiple {{project}} system, you can choose whether the text is visible in all projects that the profile is visible in,
+In a multiple {{project}} system, you can choose whether the text is visible in all {{project}}s that the profile is visible in,
 or just the current one. Set this by ticking the checkbox below the comment text.
 
-To change the shared text for a concern, simply type the new text into the text box and save it. This will update the text. A
-record of the changes is shown in the concern timeline.
+To change the shared text for a {{safeguarding case}}, simply type the new text into the text box and save it. This will update the text. A
+record of the changes is shown in the {{safeguarding case}} timeline.
 
 
-### Print
+### <i class="fas fa-print"></i> Print
 
-A print view of the concern is available that splits the concern into sections, and provides the same controls available
-when printing profiles. A new tab will open showing all the details of the concern. You can print directly, or to pdf if
+A print view of the concern is available that splits the {{safeguarding case}} into sections, and provides the same controls available
+when printing profiles. A new tab will open showing all the details of the {{safeguarding case}}. You can print directly, or to pdf if
 needed.
 
-### Edit other information
+As well as the visual layout, the print view differs in that the "process" elements of the timeline (who did what when)
+are separated from the substance bits - Notes and Comments.
 
-Some custom fields may be editable at some stages of the investigation- it will depend on the settings for any custom
-fields you have set up. To make any changes, click the 'edit concern data' button. An edit form will open showing any 
-fields that may be changed.
+
+### <i class="fas fa-eye-slash"></i> Toggle messages
+
+As a {{safeguarding case}} proceeds the number of messages in the timeline will grow. If you need to hide them temporarily
+to view the substance of Comments and Notes, click the 'Toggle messages button'. System messages, about changes to the
+{{safeguarding case}}, are temporarily hidden. Click the button again to view them.
+
+
+### <i class="fas fa-edit"></i> Edit other information
+
+Some custom fields may be editable, depending on the settings for any custom
+fields you have set up and the current status of the {{safeguarding case}}. 
+To make any changes, click the 'edit custom fields' button. An edit form will open showing any fields that may be changed.
 
 All changes to these fields are logged within the concern timeline.
 
-The fields available for editing may vary depending on the status of the concern. Your system may be set so that you cannot
-change certain fields after a particular point in the investigation.
 
+### <i class="fas fa-pen-fancy"></i> Set to Sign off
 
-### Set to Sign off
-
-You may require a safeguarding manager to sign off a concern before it is closed. To assign it to a Safeguarding
-manager, change the status and click save. Safeguarding managers will receive an email notification asking them to review
+You may require a {{safeguarding}} Manager to sign off a concern before it is closed. To assign it to a {{Safeguarding}} 
+manager, change the status and click save. {{Safeguarding}} managers will receive an email notification asking them to review
 and close the concern.
 
-You will now see that most actions are locked to {{safeguarding lead contact}}s. A Safeguarding Manager will now need to review the
+You will now see that most actions are locked to {{safeguarding lead contact}}s. A {{Safeguarding}} Manager will now need to review the
 concern and sign it off.
 
 ### Sign off
 
-A Safeguarding Manager will see the 'Sign Off' action. To do so, add any final text the Safeguarding Manager wants to add
-and click the save button. This will add the final comment and change the status of the concern to 'Signed off'. Only
-Safeguarding Managers can sign off a concern.
+A {{Safeguarding}} Manager will see the 'Sign Off' action. To do so, add any final text the {{Safeguarding}} Manager wants to add
+and click the save button. This will add the final comment and change the status of the {{safeguarding case}} to 'Signed off'. Only 
+{{Safeguarding}}  Managers can sign off a {{safeguarding case}}.
 
 
-### Add Final Report
+### <i class="far fa-file-alt"></i> Add Final Report
 
-When a concern has reached 'Signed off' status, you may wish to add a Final Report. This is a review of the concern, any lessons
-learned, or actions required. To add a Final Report click the 'Add Final Report' button and complete the details as needed.
+When a {{safeguarding case}} has reached 'Signed off' status, you may wish to add a Final Report. This is a review of the {{safeguarding case}}, any lessons
+learned, or actions required for the organisation to improve your practice in the future. 
+To add a Final Report click the 'Add Final Report' button and complete the details as needed.
 
-These records can be viewed alongside others from other concerns. They should not include detailed information about the
-concern itself, but be focused on the process and any wider issues that the concern raised.
+These records can be viewed alongside others from other {{safeguarding case}}s. They should not include detailed information about the
+{{safeguarding case}} itself, but be focused on the process and any wider issues that the {{safeguarding case}} raised.
 
-### Closing a concern
+### Closing a {{safeguarding case}}
 
-To close a concern, simply update the status to Closed.
+To close a {{safeguarding case}}, simply update the status to Closed.
 
 
 ###### safeguarding module
