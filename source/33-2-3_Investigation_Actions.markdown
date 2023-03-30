@@ -1,12 +1,11 @@
 # 33.2.3 Proceeding with a {{safeguarding case}} - Actions
 
-> {{Safeguarding}} Actions are the things you do to process a {{safeguarding case}}. For example, adding a note of a meeting, or
-> updating the status of a {{safeguarding case}}, are actions.
+> {{Safeguarding}} Actions are the things you do to process a {{safeguarding case}}. For example, adding a note of a meeting, or updating the status of a {{safeguarding case}}, are actions.
 
 Once a {{safeguarding case}} has been raised, {{safeguarding lead contact}}s and {{safeguarding}} managers can carry out various 
 actions on the {{safeguarding case}} to move it forwards. The actions available depend on the status of {{safeguarding case}}.
 
-### <i class="fas fa-exclamation-circle"> Severity
+### <i class="fas fa-exclamation-circle"></i> Severity
 
 The severity of a {{safeguarding case}} is an indication of the level of risk you judge the subject of the {{safeguarding case}} to be under. There
 are five levels of severity. 
@@ -17,7 +16,6 @@ displayed with an !, and is colour coded – redder is more severe.
 Severity is displayed in the following places
 
  - On the main listing page
- - On the profile of the person at risk
  - At the top of the detail page
  - On the dashboard.
 
@@ -29,15 +27,17 @@ Any changes to severity are logged in the {{safeguarding case}}. You may also ne
 
 The status represents the status of the {{safeguarding case}}. By default these are:
 
-1. New {{safeguarding case}} raised
-2. Internal fact gathering
-3. Preparing internal reports
-4. External investigation
+1. New {{safeguarding case}} raised. This is the status when someone raises a new {{safeguarding case}}. You would not normally carry out any actions at this stage.
+2. Internal fact gathering. When you assign a {{safeguarding lead contact}}, you will also automatically set the status to Internal fact gathering. Your initial actions will happen at this stage.
+3. Preparing internal reports. After gathering initial facts you may need to prepare internal reports.
+4. External investigation. For when the {{safeguarding case}} is passed to an external agency. 
 5. Waiting for external reports
-6. On-going issue
-7. Requires sign-off
-8. Signed off
-9. Closed
+6. Response following external reports
+7. Escalate concern. If you are unhappy with external responses you may wish to escalate your concern.
+8. On-going issue. For {{safeguarding case}}s that are not resolved, but also not under active investigation. This may be relevant when working with people who are the cause of {{safeguarding}} concerns. 
+9. Requires sign-off. A {{Safeguarding}} Manager will be notified by email and will need to review and sign-off the {{safeguarding case}}. 
+10. Signed off. The final stages when outcomes and reviews of the process may be carried out.
+11. Closed.
 
 The status can be changed at any time by selecting the new status from the drop down list and clicking save. The status is displayed on the main listing page, In the detail panel, and on the dashboard.
 Changing the status also affects which actions are available.
@@ -83,7 +83,7 @@ When you click save you will return to the main concern detail screen, with the 
 bottom of the listing, as records are shown in date order of when they were added.
 
 
-### <i class="fas fa-comment-alt"> Comments
+### <i class="fas fa-comment-alt"> </i> Comments
 
 Comments can be made throughout the processing of a {{safeguarding case}}.  They are simple text notes that add
 snippets of information to the investigation.  Comments can be made on particular notes within the investigation, on or 
@@ -126,6 +126,12 @@ As a {{safeguarding case}} proceeds the number of messages in the timeline will 
 to view the substance of Comments and Notes, click the 'Toggle messages button'. System messages, about changes to the
 {{safeguarding case}}, are temporarily hidden. Click the button again to view them.
 
+Your system administrator can change whether these messages are initially displayed in a {{safeguarding case}}.
+
+### <i class="fas fa-link"></i> Copy URL
+
+Click this to copy the URL (web address) of the current {{safeguarding case}} to your clipboard so you can paste
+it as a reference elsewhere. (Ctrl-v is keyboard shortcut for paste).
 
 ### <i class="fas fa-edit"></i> Edit other information
 
@@ -134,6 +140,12 @@ fields you have set up and the current status of the {{safeguarding case}}.
 To make any changes, click the 'edit custom fields' button. An edit form will open showing any fields that may be changed.
 
 All changes to these fields are logged within the concern timeline.
+
+
+### <i class="far fa-envelope"></i> Notify a colleague
+
+If you need to involve a colleague in a {{safeguarding case}} you can notify them about it as an action. Lamplight will send
+them an email with your message and a link to the {{safeguarding case}}. This will also be logged within the {{safeguarding case}}.
 
 
 ### <i class="fas fa-pen-fancy"></i> Set to Sign off
@@ -145,7 +157,7 @@ and close the concern.
 You will now see that most actions are locked to {{safeguarding lead contact}}s. A {{Safeguarding}} Manager will now need to review the
 concern and sign it off.
 
-### Sign off
+### <i class="fas fa-pen-fancy"></i> Sign off
 
 A {{Safeguarding}} Manager will see the 'Sign Off' action. To do so, add any final text the {{Safeguarding}} Manager wants to add
 and click the save button. This will add the final comment and change the status of the {{safeguarding case}} to 'Signed off'. Only 
@@ -165,5 +177,15 @@ These records can be viewed alongside others from other {{safeguarding case}}s. 
 
 To close a {{safeguarding case}}, simply update the status to Closed.
 
+### <i class="fas fa-question-circle"></i> Change closure outcome of {{safeguarding case}}
+
+There are built-in facility to record the final outcome of a {{safeguarding case}} from a drop down list. Your
+system administrator will set these up if they are required.
+
+### <i class="fas fa-archive"></i> Archiving a {{safeguarding case}}
+
+If a {{safeguarding case}} has been raised in genuine error then you may wish to archive it.
+There is space to add a comment explaining why (for example two were created, or it was linked to the wrong profile).
+Generally {{safeguarding case}}s should be closed, rather than archived.
 
 ###### safeguarding module

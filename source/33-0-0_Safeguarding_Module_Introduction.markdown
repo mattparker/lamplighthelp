@@ -21,5 +21,6 @@ A dashboard view allows {{safeguarding}} managers to see an overview of the stat
 As well as managing {{safeguarding case}}s, the module also allows you to record DBS check results and prompts when
 checks are missing and when renewals become due. 
 
+The [{{safeguarding}} system admin](/help/p/33.9.0) pages will be useful if you are just getting started with the module.
 
 ###### safeguarding module

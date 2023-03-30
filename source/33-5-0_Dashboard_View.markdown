@@ -15,7 +15,7 @@ This view helps managers ensure they stay on top of {{safeguarding case}}s that 
 resolved in a timely fashion. The time limits and other parameters used in the dashboard can be set in global settings - 
 see [system admin for the {{safeguarding}} module](/en/help/p/33.9.0).
 
-Listings of {{safeguarding case}}s or profiles are clickable to jump to the relevant profile or {{safeguarding case}}.
+Listings of {{safeguarding case}}s or profiles are clickable, and take you to the relevant profile or {{safeguarding case}}.
 
 
 ###### safeguarding module

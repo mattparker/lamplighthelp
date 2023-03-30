@@ -10,19 +10,26 @@ listed below, with any notes particular to these settings.  You will need to be 
 Any operator can be a {{Safeguarding}} Manager - it is separate to the standard operator roles. To do so,
 go to admin > system administration > manage database operators and edit the operator. You will see a checkbox
 to enable them as a {{Safeguarding}} Manager. As soon as you do, they will have full access to all {{Safeguarding case}}s.
+They will also be able to access all DBS records.
 
-To give someone access to DBS records only, tick the 'Give this operator access to DBS records?' box.
+To give someone access to DBS records only, tick the 'Give this operator access to DBS records?' box only.
 
 ### Global Settings
 
 There is a {{safeguarding}} module tab in global settings. This allows you to change:
 
- - notification settings for new {{safeguarding case}}s
+ - whether to include {{workarea}} and location fields on the initial {{safeguarding case}} form
+ - whether to automatically assign the member of staff raising a {{safeguarding case}} to it as a {{safeguarding lead contact}}. 
+ - default notification settings for new {{safeguarding case}}s
+ - in multi-project systems, whether to keep {{safeguarding case}}s in separate projects or allow access across all
+ - whether to display the audit log system messages in a {{safeguarding case}} when first viewing a {{safeguarding case}}. The comments can always be viewed by clicking the 'toggle messages' button.
  - the settings for the {{safeguarding}} dashboard
- - what profile roles should have DBS Checks
+ - which profile roles should have DBS Checks
  - when to start notifying you when DBS checks are going to expire
 
 Edit global settings in the [usual way](/en/help/index/p/16.12.0) via admin > system administration > change global settings.
+
+
 
 ### Attendance roles
 

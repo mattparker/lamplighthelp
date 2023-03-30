@@ -1,7 +1,6 @@
 # 33.4.0 Operator permissions to {{safeguarding case}}s
 
-> Access to full details about a {{safeguarding case}} is only available to {{Safeguarding}} Managers or {{Safeguarding lead contact}}s. Others see
-> limited data.
+> Access to full details about a {{safeguarding case}} is only available to {{Safeguarding}} Managers or {{Safeguarding lead contact}}s. Others see limited data.
 
 {{Safeguarding}} Managers can see full information and make any changes to all {{safeguarding case}}s. We would generally recommend that a
 manager assign themselves as an {{safeguarding lead contact}} if they are going to take responsibility for and make changes to

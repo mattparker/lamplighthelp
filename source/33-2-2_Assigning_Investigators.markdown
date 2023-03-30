@@ -1,11 +1,13 @@
 # 33.2.2 Assigning {{Safeguarding lead contact}}s
 
-> {{Safeguarding}} Managers need to assign {{safeguarding lead contact}}s to a {{safeguarding case}}. They can assign any member of staff to the
-> {{safeguarding case}}, and then that person will have full access to the {{safeguarding case}}.
+> {{Safeguarding}} Managers need to assign {{safeguarding lead contact}}s to a {{safeguarding case}}. They can assign any member of staff to the {{safeguarding case}}, and then that person will have full access to the {{safeguarding case}}.
 
 When a new {{safeguarding case}} has been raised, the first thing that needs to happen is for a {{safeguarding}} manager to review the
 {{safeguarding case}}, and assign one or more {{safeguarding lead contact}}s to it. {{Safeguarding lead contact}}s may be any database operator, including the
-{{safeguarding}} manager.
+{{safeguarding}} manager. They do need a valid email address on their profile to receive notifications.
+
+Your system administrator may have set Lamplight to automatically assign the person raising the {{safeguarding case}} 
+as a {{safeguarding lead contact}}. If so you will see them listed on the concern, but may wish to review this.
 
 Once someone has been assigned they will have full access to the {{safeguarding case}}, and be able to add records to it, see all
 records, and change the status and other aspects of it.
