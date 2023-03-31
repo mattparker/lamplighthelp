@@ -46,7 +46,7 @@ In the case of {{referral}}s, there are additional roles that may be relevant an
 
 #### Adding Notes
 
-There is also the option to add any further notes concerning the attendees. Click in the notes box along from their name
+There is also the option to add any further notes {{safeguarding case}}ing the attendees. Click in the notes box along from their name
 to add further detail.
 
 #### Removing Someone from the Table
