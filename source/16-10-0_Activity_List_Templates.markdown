@@ -1,4 +1,4 @@
-# 16.10.0 <i class="fa fa-chart-line"></i> Creating {{Activity}} List Templates
+# 16.10.0 <i class="fa fa-chart-line"></i> {{Activity}} List Templates
 
 > {{Activity}} list templates can be used to view your {{work}} and other {{activity}} records. They are similar to report templates, letting you save search criteria which are then available to use whenever you are searching your records
 
