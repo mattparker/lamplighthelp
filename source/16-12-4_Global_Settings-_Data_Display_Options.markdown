@@ -18,7 +18,13 @@ Also please note that changing this does not change any data currently in your s
 You can only enable a single timezone for your system because allowing multiple timezones results in reporting 
 problems, as reports run in one timezone may differ to those run in another. 
 
-The system timezone is shown in the footer of Lamplight.
+The system timezone is shown in the footer of Lamplight. 
+  
+It is also included in [Diary Feed](/help/index/p/16.12.6) data so that if you view
+records in your own calendar, the times should be that of the local user. For example, if your Lamplight timezone
+is America/New York, a record at 9am will show in {{Lamplight}} as 9am, whoever views it and whatever timezone they are in. 
+If they are in London and view that same record in their calendar (e.g. Outlook, and Outlook knows they are in London),
+then the same record should be shown in London time - 2pm. This may depend on your calendar settings.
 
 ### Data Tables: {{Work}} and Similar Records
 
