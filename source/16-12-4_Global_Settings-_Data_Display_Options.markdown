@@ -6,6 +6,20 @@
 
 The fields in this tab are:
 
+### System timezone
+
+You should choose the timezone where most of your operators are. This setting applies across your system.
+Changing it will affect the default times on new activity records to reflect the local time. 
+
+Please note that system generated timestamps are recorded in Europe/London time. So you may create a {{work}} record
+at 9am New York time; but the system timestamp showing when it was created will show in Europe/London time.
+Also please note that changing this does not change any data currently in your system.
+
+You can only enable a single timezone for your system because allowing multiple timezones results in reporting 
+problems, as reports run in one timezone may differ to those run in another. 
+
+The system timezone is shown in the footer of Lamplight.
+
 ### Data Tables: {{Work}} and Similar Records
 
 #### Do you want data tables to display full details?
