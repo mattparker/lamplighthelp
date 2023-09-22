@@ -16,6 +16,17 @@
    
    ![Tabs on the Home Page](16.4.1b.png)
 
+   Operators who are not system administrators can also opt to force the "news" tab to always appear as the last tab. The news tab
+is used by {{Lamplight}} to let you know about system changes, training coming up, and other information about your system. When there
+is an unread news item, by default the tab will appear as the first tab on the home page. Once you've marked the item as "read", the
+tab will revert to being the last tab on the home page.
+
+If you choose to limit the news tab to being the last tab in the system, you may miss updates from {{Lamplight}}. We don't post 
+news very frequently, and we don't recommend that you do this. However we know that the home page changing unexpectedly can be a problem
+for some people, and so we've given you the option to do this.
+
+System admins do not see this option because we need to be able to update you on changes to the system.
+
 #### Template to Use on Diary Items
 
    This can change what basic information you see on your homepage diary. By default you will see the beginning and end time of each record in the diary, and information taken directly from the ‘summary’ box in the work record. You can add in more information by choosing from the template strings under the box, for example {location}. 
@@ -42,6 +53,25 @@
    Use this drop-down list to select a different colour scheme for {{Lamplight}} if you would like. There are a few set colour schemes available to you.  
 
    Your colour scheme will not change until you refresh the page.
+
+#### Date and time formatting
+
+Use these drop-downs to select your preferred date and time formats.
+
+There are a handful of places within the system where the default formats (day/month/year and hours:minutes) are used and cannot be changed for technical
+reasons.
+
+There are examples in the drop-downs for the different format options, but the letters used in the formats are:
+ - d = two digit day of the month
+ - m = two digit month of the year
+ - Y = four digit year
+ - jS = digit day of the month plus suffix (e.g. 22nd)
+ - H = two digit hour (24 hour clock)
+ - i = two digit minutes
+ - s = seconds
+ - g = hours (12 hour clock)
+ - a = am or pm
+
 
 #### Use 'Sticky Titles' That Always Appear on Screen When You Scroll Down
 
