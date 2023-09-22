@@ -54,6 +54,11 @@ The fields in the {{comm}}s tab are:
   By default cc emails are not allowed, to help avoid accidental data breaches (cc email is one of the most common ways for this to happen).  If you really do need this functionality you can enable it here.
 
 
+### Postcode checks
+
+   This controls the checks on postcodes (zip codes) when entering data. You can choose which territory formats you wish to allow in your system. 
+
+Please contact us if you require other territories not included on this list.
 
 ### Mobile Phone and SMS {{Comm}}s Settings
    
@@ -61,10 +66,13 @@ The fields in the {{comm}}s tab are:
 
    This option allows a telephone number to be specified for replies to SMS messages sent through {{Lamplight}}.
 
-#### Allow international mobile phone numbers?
+#### What format mobile numbers to allow?
 
-   By default, mobile phone numbers are expected to be UK mobile numbers, and it is not possible to save invalid numbers. Selecting this option means that mobile numbers must instead be formatted in the international style (e.g. +44 79XX XXXXXX).
-   
+   By default, mobile phone numbers are expected to be UK mobile numbers, and it is not possible to save invalid numbers.  You can allow other formats of mobile numbers from other territories if required.
+Note that if you use 24x sms messaging through {{Lamplight}}, you may be charged additional fees for sending to non-UK numbers.
+
+Please contact us if you require other territories not included on this list.
+
 #### 24x account username and password for sending SMS messages
 
    You will need these when you come to top up SMS credits so that you can continue to send from your {{Lamplight}} system. 24x is the company that sends the actual text messages. This means you can access your account directly to top up with credits and view reports. You can log in to the 24x control panel at [http://24x.com/](http://24x.com).
