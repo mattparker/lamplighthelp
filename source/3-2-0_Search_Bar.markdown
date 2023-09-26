@@ -6,19 +6,19 @@
 
 In the top right-hand corner of each screen there is a search bar. 
 
-![Search bar](3.2.0a.png)
+![Search bar](3.2a_search_bar.png) 
 
 If you start typing into it a drop-down will appear listing the {{people}} that match what you are typing. 
 
-![Search bar in progress](3.2.0b.png)
+![Search bar in progress](3.2b_search_bar_in_progress.png)
 
 See section [5.8.0 Finding {{People}}](/help/index/p/5.8.0) for more details.
 
-However, if you click the 'Go' button a different search will be carried out. {{Lamplight}} will do a full-text search of the entire system, looking at profiles, {{work}}, {{outcome}} and {{referral}} records, and {{comm}}s (if the {{comm}}s module is enabled) and present the information on a new screen. This search uses a similar approach to web searches.
+However, if you click the 'Search' button a different search will be carried out. {{Lamplight}} will do a full-text search of the entire system, looking at profiles, {{work}}, {{outcome}} and {{referral}} records, and {{comm}}s (if the {{comm}}s module is enabled) and present the information on a new screen. This search uses a similar approach to web searches.
 
 ![Search results](13a.png)
 
-Finally, if you click the 'help' button, a search will be carried out of the online help system and the help manual will open in a new tab on your browser. {{Lamplight}} will show you the best matches, and you can then click through to read the whole section. 
+Finally, if you click the 'Search Hub' button, a search will be carried out of the online help system and the help manual will open in a new tab on your browser. {{Lamplight}} will show you the best matches, and you can then click through to read the whole section. 
 
 View our training video to find out more about the search bar:
 
