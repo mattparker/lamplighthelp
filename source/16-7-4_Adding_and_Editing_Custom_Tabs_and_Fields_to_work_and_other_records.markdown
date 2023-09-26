@@ -15,9 +15,9 @@ Each type of record works on the same principle, with the example below being fo
 
 ### Tabs, Fields and Options in {{Work}} Records
 
-- Go to 'Manage Custom Fields and Drop-down Lists -> {{Work}} Records Custom Tabs and Fields -> Manage custom tabs and fields on {{work}} records'.
+- Go to 'Manage Custom Fields and Drop-down Lists -> {{Work}} Records Custom Tabs and Fields -> Manage custom tabs and fields in {{work}} records'.
 
-- If you already have tabs set up in your system, you will see a list showing them all. You can click on any one of these to see the fields that are held in that tab.
+- If you already have tabs set up in your system, you will see a table showing them all. You can click on yhe three dots to see the fields that are held in that tab.
 
 - If you find that there is too much information on the screen and that you would like to see a simpler view, click on the 'compact view' button the middle of the page above the list. Click on it again to revert to the standard view. 
 
@@ -31,9 +31,7 @@ The process for this is exactly the same as if you were adding new tabs, fields 
 
 #### Adding Fields to a Standard System Tab
 
-There are some standard tabs in all {{activity}} records. In a work record, these are 'Where and Where', 'Attendance', (although they could be called something slightly different in your system). You can't edit of delete the fields which already exist in these tabs (in limited circumstances it may be possible for Lamplight to do this for you), but you can add additional fields to them by 'creating' them in System Admin.  Create a tab with the correct name as below, (it doesn't matter what your version of the tab is called - you will need to use these original names and capitalisation is essential), then you can add fields to it.  
-
-![System Admin - adding fields to system tabs](1221a.png)
+There are some standard tabs in all {{activity}} records. In a work record, these are 'When and Where', 'Attendance', and 'Details', (although they could be called something slightly different in your system). You can't edit of delete the fields which already exist in these tabs (in limited circumstances it may be possible for Lamplight to do this for you), but you can add additional fields to them by 'creating' them in System Admin.  Create a tab with the correct name as below, (it doesn't matter what your version of the tab is called - you will need to use these original names and capitalisation is essential), then you can add fields to it.  
 
 #### {{Work}} records
 
@@ -64,12 +62,12 @@ There are some standard tabs in all {{activity}} records. In a work record, thes
 
 You can re-order tabs, fields and options in the list, which will in turn change the order they are shown in the rest of Lamplight. To reorder tabs: 
 
-- Find the one you would like to change, click on it, then use the up and down arrows to the right of it to change its position in the list. 
+- Find the one you would like to change, then use the up and down arrows to the right of the screen to change its position in the list. 
 - Alternatively you can reorder all of your tabs in alphabetical order by clicking on the 'sort' button above the list. Pressing this button once will arrange the tabs in alphabetical order, while pressing again will sort them in reverse order.
 
 The same principal applies to sorting fields (which can be moved up and down within their tab), and options (which can be reordered within the field):
 
-- Click on the field or option that you  want to move, then use the arrow buttons to the right of the one you want to move. 
+- Just use the arrow buttons to the right of the page on the field you want to move. 
 - If you want to arrange all fields in a tab (or all options in a field) in alphabetical order, use the 'sort' button at the top of the list.
 
 To find the 'sort' button which will order the fields within a tab, click on the tab name and the sort button will be displayed immediately below it. 
