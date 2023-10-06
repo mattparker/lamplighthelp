@@ -6,6 +6,11 @@
 
 The {{outcome}}s {{report}} summarises the changes experienced over time by your {{user}}s, and recorded in the {{outcome}}s tab. When a {{report}} is run Lamplight amalgamates the responses for each {{outcome}} measure. You can use filters to narrow your {{report}} down, for example choosing one specific measure, who is being reported on, or the dates you are interested in. For more on this, see [14.1.1 {{Report}} Filters](/help/index/p/14.1.1).
 
+You can also select whether to 'Only include data where change is above "meaningful change" threshold?'. If a 
+threshold has been set in system admin for the measure, then ticking this box will only include change if it is 
+greater than the threshold. This includes negative change greater than the threshold too. Please note this is a 
+just a statistical tool: clearly any change is meaningful to the people experiencing it.
+
 ### {{Report}} Presentation
 
 #### How to Summarise the Data
