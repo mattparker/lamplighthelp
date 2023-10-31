@@ -26,6 +26,10 @@ These options relate to how you view your activities records in {{Lamplight}}, a
    
    <iframe src="https://player.vimeo.com/video/279243646" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+### Use autosave on activity records?
+
+   This option will ensure that once a {{workarea}} has been selected within the record, it will auto save every few mintues. A confirmation box will be visible in the bottom right hand corner of your screen once auto save has begun.
+
 ### Show {{Staff}} Initials Attending {{Work}} and Other Records? How Many Letters of First Name/Surname to Use?
 
    Choosing any of the options from this dropdown will add a column to the end of a {{work}} view table called '{{Staff}}' which displays the initials of any {{staff}} member who is recorded as attending. The options allow you to increase or decrease the number of letters displayed for their first name and surname. So for example, if the member of {{staff}} is Brian Trevor, if you choose 1/1, the initials shown in the table column will be BT. If you choose 3/3, it will show BriTre.
