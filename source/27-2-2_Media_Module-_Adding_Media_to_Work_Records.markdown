@@ -8,7 +8,7 @@
 
 If you have the Media Module:
 
-- You can either start a new record or edit an existing one. For more on adding {{work}} records, see [7.1.0 Adding a {{Work}} Record](/help/index/p/7.1.0). For more on editing them see [7.2.1 Edit a {{Work}} Record](/help/index/p/7.2.1).
+- You can either start a new record or edit an existing one. For more on adding {{work}} records for example, see [7.1.0 Adding a {{Work}} Record](/help/index/p/7.1.0). For more on editing them see [7.2.1 Edit a {{Work}} Record](/help/index/p/7.2.1).
 - Go to the tab on that record called 'Media'.
 
 You will see a page where you can click to add a file from your computer:
@@ -25,11 +25,12 @@ You will see a page where you can click to add a file from your computer:
 
 You can also add media to records when viewing them.
 
-- Find the record that you would like to add media to in the {{activity}} table.  This can be in the {{person}} or {{org}}'s profile, or in {{activity}}->view->{{work}}.
+- Find the record that you would like to add media to in the {{activity}} table.  This can be in the {{person}} or {{org}}'s profile, or in {{activity}}->view->[record type].
 - Scroll across the row to find the column called 'Files' and click on it. (If you can't see it initially, right-click on the header row of the table to see available columns and tick 'files'. This will add it to your table.)
 - This will bring up a box giving details of the files already attached to the record, and the option to attach more. 
 - Click on the 'Browse' button to find the file that you want, then 'save'.
 
+![Uploading a File to the {{Work}} Record Table](27.2.2b.png)
 
 ### Adding Media when Viewing Full Details of an {{Activity}} Record
 
@@ -39,6 +40,7 @@ When [viewing full details of an {{activity}} record](/help/index/p/7.2.2), you 
 - Here you can choose to add files from the internet, select files from your computer, or drag and drop them into the grey box. 
 - Complete the details as elsewhere for the file.
 
+![Uploading a File to the {{Work}} Record View](27.2.2c.png)
 
 ###### media module
 
