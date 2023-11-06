@@ -181,7 +181,18 @@ To delete any tab, field or option:
  
  - If you have deleted in error, just click the dustbin icon again and the row will return to the normal colour.
  
- - Remember to click 'save all changes' at the top or bottom of the page before moving on, or the item will remain active. 
+ - Remember to click 'save all changes' at the top or bottom of the page before moving on, or the item will remain active.
+
+### Adding fields to the existing 'Contact details' tab
+
+The 'Contact details' tab visible in all profiles is a standard Lamplight tab. It contains the address block, contact permissions and profile types and is pre-created in all systems.
+
+It is possible to add fields to this existing tab. New fields added would appear between the address block and the contact permissions section. Please note, it is not possible to position them anywhere else on the tab.
+
+![Contact details tab](16.7.2m.png)
+
+To add new fields to this existing tab, follow the steps above in the section 'To Add a New Tab', however, ensure you use the tab name 'Contact details' (please note it's case sensitive).
+When the tab is saved, Lamplight will recognise the existing tab and combine the fields into it. It will not create a duplicate tab. Continue to add the fields required as described above.
 
 We also [have a video](/help/index/p/52.4.3) which shows you how to add, edit and order custom tabs and fields in your system.
 
