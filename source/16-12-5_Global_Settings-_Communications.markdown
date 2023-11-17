@@ -75,7 +75,9 @@ Please contact us if you require other territories not included on this list.
 
 #### 24x account username and password for sending SMS messages
 
-   You will need these when you come to top up SMS credits so that you can continue to send from your {{Lamplight}} system. 24x is the company that sends the actual text messages. This means you can access your account directly to top up with credits and view reports. You can log in to the 24x control panel at [http://24x.com/](http://24x.com).
+   You will need these when you come to top up SMS credits so that you can continue to send from your {{Lamplight}} 
+   system. 24x is the company that sends the actual text messages. This means you can access your account directly 
+   to top up with credits and view reports. You can log in to the 24x control panel at [https://24x.com/](https://24x.com).
    
 #### Current credits available
 

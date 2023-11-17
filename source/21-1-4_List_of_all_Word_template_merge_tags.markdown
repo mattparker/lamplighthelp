@@ -65,26 +65,26 @@ You can use the tags below to add information from the profile of the operator c
 
 | Field from profile | Tag |
 | :--- | :--- |
-| Title | ${me|Title} |
-| First name | ${me|First name} |
-| First name initial | ${me|First name initial} |
-| Middle name | ${me|Middle name} |
-| Middle name initial | ${me|Middle name initial} |
-| Surname | ${me|Surname} |
-| Surname initial | ${me|Surname initial} |
-| Suffix | ${me|Suffix} |
-| Organisation name | ${me|Organisation name} |
-| Organisation name if available | ${me|Organisation name if available} |
-| Address line 1 | ${me|Address line 1} |
-| Address line 2 | ${me|Address line 2} |
-| Address line 3 | ${me|Address line 3} |
-| Address line 4 | ${me|Address line 4} |
-| Address line 5 | ${me|Address line 5} |
-| Postcode | ${me|Postcode} |
-| Phone | ${me|Phone} |
-| Mobile | ${me|Mobile} |
-| Email | ${me|Email} |
-| Web | ${me|Web} |
+| Title | ${me\|Title} |
+| First name | ${me\|First name} |
+| First name initial | ${me\|First name initial} |
+| Middle name | ${me\|Middle name} |
+| Middle name initial | ${me\|Middle name initial} |
+| Surname | ${me\|Surname} |
+| Surname initial | ${me\|Surname initial} |
+| Suffix | ${me\|Suffix} |
+| Organisation name | ${me\|Organisation name} |
+| Organisation name if available | ${me\|Organisation name if available} |
+| Address line 1 | ${me\|Address line 1} |
+| Address line 2 | ${me\|Address line 2} |
+| Address line 3 | ${me\|Address line 3} |
+| Address line 4 | ${me\|Address line 4} |
+| Address line 5 | ${me\|Address line 5} |
+| Postcode | ${me\|Postcode} |
+| Phone | ${me\|Phone} |
+| Mobile | ${me\|Mobile} |
+| Email | ${me\|Email} |
+| Web | ${me\|Web} |
 
 
 
