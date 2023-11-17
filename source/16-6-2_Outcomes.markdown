@@ -12,7 +12,7 @@ clients to understand what each score means. For example, if you have a scale of
 descriptor for each score, such as "1 = very unhappy" and "5 = very happy".
 
 If you are using an established {{outcome}} framework (e.g. Core, WEBWMS, Outcome Stars) these can be imported 
-directly into your system without having to enter all the details, and in many cases sub-totals and totals, and 
+directly into your system without having to enter all the details. In many cases sub-totals and totals, and 
 descriptions for individual scores, will also be set up for you.  Please contact Lamplight through the Hub if you'd 
 like to do this before entering them manually into your system.
 
@@ -115,7 +115,7 @@ One option is to create a set of different measures, one for each type of issue,
 comments box. However this can feel prescriptive and may not be appropriate for your situation. It can also lead to 
 a long list that becomes hard to navigate.
 
-The "scores with user specified issue" measure type allows you to record the score and the issue in one place. The 
+The measure type "scores with user specified issue" allows you to record the score and the issue in one place. The 
 first time you enter data for a particular {{user}} you will be prompted to enter the issue. The next time you enter
 data for that {{user}} you will see the previously entered issue and can just update the score.
 
@@ -135,7 +135,7 @@ see [16.4 Personal settings](/help/index/p/16.4) for help with this.
 ### Data entry types for different measures
 
 Information on how to add and update descriptors is given in the sections below. This explains how your choices of 
-the measure will affect the data entry options once descriptors are set up.
+the measure will affect the data entry options once the descriptors are set up.
 
 - For Score measures with no descriptors set, the data entry will be a numerical text field - type in a number to save
   the value.
