@@ -6,6 +6,14 @@
 
 There are a number of drop-down lists which exist in {{Lamplight}}. These can all be added to and edited in the same way. (We also have specific guidance on [{{workarea}}s](/help/index/p/16.6.1), [{{outcome}}s](/help/index/p/16.6.2) and [relationships](/help/index/p/16.6.3).) 
 
+Additional drop down lists available to system administrators are:
+- name titles and suffixes,
+- wards and boroughs (can also be completed as free text or via post code search),
+- locations, attendance types and roles,
+- grants,
+- tasks,
+- tags.
+
 ### Important Things to Consider When Making Changes to Existing List Items
 When you make changes to a drop-down list, it can have an effect on your existing data.  It’s very important to consider this before you start.
 - If you delete an item from a list, this will remove the item from the existing list and it will no longer be possible to see if it was selected. For example, if you delete the 'parent/child' relationship, this will no longer be visible in the profile of anyone who was previously recorded as a 'parent' or 'child'.
