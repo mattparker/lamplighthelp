@@ -31,6 +31,13 @@ There is also a section on how to manage your system if you're an administrator,
 
 If you would like a paper copy of this manual, just choose 'download' from the help menu.
 
+### Accessibility
+There are a number of changes you can make to support your use of Lamplight:
+
+- at the bottom of your Lamplight screen you can alter the text size and font (from the drop-down list)
+- colour use. You can change the colour of Lamplight via 'admin > system administration > Customise Lamplight > Change personal settings'. If the colour schemes available don't match your requirement, speak to your in-house system administrator who can create new, bespoke colour schemes which you can then apply to your personal setting.
+- speech recognition. Lamplight can be enabled so that you can dictate text to Lamplight and text boxes will be filled in. Please speak to your in-house system administrator who may need to enable this on your system as a global setting to allow your microphone to be used.
+
 If you have any suggestions about how the documentation could be improved do please let us know, by email to <a href="mailto:hello@lamplightdb.co.uk">hello@lamplightdb.co.uk</a>.
 
 
