@@ -11,9 +11,7 @@ To add a new {{group}} data view:
 
 ![Adding a {{group}} data view](111a.png)
 
-There are several tabs. Some of the ones you see (for example Evaluations and Communications) will depend on the modules
-that you have on your system. Apart from the 'View name' tab, you only need to edit the ones which contain information
-that you want to include in your data view.
+There are several tabs. Some of the ones you see (for example Evaluations and Communications) will depend on the modules that you have on your system. Apart from the 'View name' tab, you only need to edit the ones which contain information that you want to include in your data view.
 
 **View name:** This is the only tab that you must complete - both the name and description are required fields. When you view the table of data views in the future the name is what you will see, so provide a name that reflects what you're creating and would be clear for others to understand.
 
@@ -23,7 +21,7 @@ that you want to include in your data view.
 
 **Relationships:** You can show information in your data view about named individuals/{{org}}s that members of the {{group}} are linked to. Click to select the relationship type you wish to use, and whether you want to see the 'name
   only' of the linked profile, or 'name and contact details'. If you select 'name and contact details for download' you will get the same information as 'name and contact details' but each field is separated by a pipe symbol - | - and
-  empty fields are included. This means that if you download the data and do 'text to columns' you'll be able to get the data nicely. However it doesn't look so nice on screen if you just want to see the information in {{Lamplight}}.
+  empty fields are included. This means that if you download the data and do 'text to columns' you'll be able to get the data nicely. However it doesn't look so nice on screen if you just want to see the information in {{Lamplight}}. If you wish to include more than one relationship type, please use the Ctrl button on your keyboard as you select with your mouse. If you select one in error, keep the Ctrl button held down and select again.
 
 **{{Work}}, {{Referral}}, {{Grant}} and {{Outcome}}s tabs:** 
 - The 'General summary figures' section at the top of this page lets you produce an overview and/or default date ranges, for example 'total time spent'. Unless mentioned in the option, these aren't dictated by a timeframe and aren't restricted to a {{workarea}}, helpful if you need a general view of records or time spent.
