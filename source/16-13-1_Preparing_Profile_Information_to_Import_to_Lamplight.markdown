@@ -79,7 +79,7 @@ When preparing your data for upload, bear in mind the following tips:
 - For multi-select fields, separate values with semi-colons (;) but no spaces (e.g. yes;no;not applicable). Values in
   drop-down type fields must match the options in the system exactly. If the options are ‘male’ and ‘female’ but the
   .csv contains ‘m’ and ‘f’, the data will not be imported.
-- Checkboxes can be defined as ‘Yes’, or left blank for no.
+- Checkboxes should be defined as 0 for No and 1 for Yes.
 - For multi-select radio buttons and checkboxes, simply enter the values.
 - Dates should be entered in yyyy-mm-dd format. Excel stores dates as numbers (and displays them as dates), but in the
   .csv file they must be text strings. You can use the Excel function TEXT for this: =TEXT(A2, "yyyy-mm-dd") will format
