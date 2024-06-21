@@ -4,9 +4,9 @@
 
 #### Getting Started with SMS in {{Lamplight}}
 
-If you have the {{Comm}}s Module and would like to start SMS direct from {{Lamplight}}, let us know and we will switch this feature on for you.
+If you have the {{Comm}}s Module and would like to start SMS direct from {{Lamplight}}, your system administrator will need to update the settings.
 
-Once you've added SMS to your system, you'll need to add the settings. For more on this see 'Mobile Phone and SMS Communications Settings' in [16.12.5 Global Settings: Communications](/help/index/p/16.12.5). You'll also see a link to 24x here, which you can follow to but credits for your account. Once you're at their login page, you will see a link to create a new account.
+For more on this see 'Mobile Phone and SMS Communications Settings' in [16.12.5 Global Settings: Communications](/help/index/p/16.12.5). You'll also see a link to 24x here, which you can follow to but credits for your account. Once you're at their login page, you will see a link to create a new account.
 
 #### Sending SMS Messages
 
