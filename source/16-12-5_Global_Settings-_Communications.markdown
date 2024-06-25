@@ -1,6 +1,6 @@
 # 16.12.5 <i class="fas fa-tools"></i> Global Settings: {{Comm}}s
 
-> In the section the System Administrator can specify the reply address for SMS (if you have it) and email, allow {{Lamplight}} to store international mobile phone numbers in the contact details tab, and decide some default communications settings. If you have the {{comm}}s module, you can also set up a link to Mailchimp here
+> In the section the System Administrator can specify the reply address for SMS (if you have it) and email, allow {{Lamplight}} to store international mobile phone numbers in the contact details tab, enable postcode checking and decide some default communications settings. If you have the {{comm}}s module, you can also set up a link to Mailchimp here
 
 
 
@@ -41,33 +41,49 @@ The fields in the {{comm}}s tab are:
  
 ### Email {{Comm}}s Settings
  
+#### Which email server do you want to use?
+
+Here you decide if emails sent using {{Lamplight}} are to come from a central email address, or through individual staff email accounts.  If you have the Email Module, you need to select, 'Send through Lamplight Servers'.
+
+#### How many recipients per email?
+If you are sending emails to a large number of recipients, these emails can be sent in batches to make the process faster. Many email providers place a limit on the number per batch, so you should enter the amount as recommended by your email provider. If you do not apply a limit, it is likely the emails will fail to send. Set the maximum number of recipients here. If you set it to 0 then emails will not be batched at all.
+
 #### Default reply-to email address
 
-   Unless an email address is specified here, replies to emails sent using {{Lamplight}} will be sent to the email address of the person sending the communication, i.e. the address they use to log into {{Lamplight}}. An email address entered in this box will be used instead, and this will apply to all users. If you want all replies to be addressed to a central email inbox, specify it here.
-   
+   If this field is left blank, replies to emails sent using {{Lamplight}} will be received in the email address of the person sending the communication, i.e. the address they use to log into {{Lamplight}}.  If your usual process is for all replies to be addressed to a central email inbox, you need to specify it here.
+      
 #### Staff member to receive unsubscribe notifications
 
-   When emails are sent through {{Lamplight}} an unsubscribe link is appended to all messages. If this is clicked, the staff member specified will receive a task notifying them that the profile has asked to be removed from the mailing list.
+   When emails are sent through {{Lamplight}} an unsubscribe link is appended to all messages. If this is clicked, the staff member specified will receive a {{message}} notifying them that the profile has asked to be removed from the mailing list.
    
 #### Allow cc emails to be sent from {{Lamplight}}?
 
-  By default cc emails are not allowed, to help avoid accidental data breaches (cc email is one of the most common ways for this to happen).  If you really do need this functionality you can enable it here.
+  By default, cc emails are not allowed to help avoid accidental data breaches (cc email is one of the most common ways for this to happen).  If you really do need this functionality you can enable it here.
 
+### Postcode checks
 
+#### Do you want to check postcodes?
+Tick this option if you want the postcodes you enter to adhere to a specific format.
+
+#### Which postcode formats do you wish to allow?
+The options you select here will depend on the countries you enter profile addresses for.  If you need an alternative format that is not listed, please let us know.
 
 ### Mobile Phone and SMS {{Comm}}s Settings
    
 #### Default reply-to mobile number (for SMS)
 
-   This option allows a telephone number to be specified for replies to SMS messages sent through {{Lamplight}}.
+   This option allows a telephone number to be specified for replies from SMS messages sent through {{Lamplight}}.  This is a required field.  If you do not wish to receive replies from text messages you send, please enter 'No reply' in the field.
 
-#### Allow international mobile phone numbers?
+#### What format mobile numbers to allow?
 
-   By default, mobile phone numbers are expected to be UK mobile numbers, and it is not possible to save invalid numbers. Selecting this option means that mobile numbers must instead be formatted in the international style (e.g. +44 79XX XXXXXX).
+Different country's use different formatting for their mobile phone numbers, and it is not possible to save invalid numbers in	{{lamplight}}.  Please select the formats relevant to your organisation.  
+
+#### Enable SMS sending?
+Tick this box if you want to use {{lamplight}} to send text messages.  For more information see:  https://lamplight.online/en/help/index/v/2/p/21.4/q/sms
    
 #### 24x account username and password for sending SMS messages
 
-   You will need these when you come to top up SMS credits so that you can continue to send from your {{Lamplight}} system. 24x is the company that sends the actual text messages. This means you can access your account directly to top up with credits and view reports. You can log in to the 24x control panel at [http://24x.com/](http://24x.com).
+   Once you have created an account with 24x, add your username and password here to connect your account to {{lamplight}}.  You will also need this information when you come to top up SMS credits, so you can continue to send messages from your {{Lamplight}} system. 24x is the company that sends the actual text messages. This means you access your account directly to top up with credits and view reports. You can log in to the 24x control panel at [http://24x.com/](http://24x.com).
    
 #### Current credits available
 
