@@ -51,7 +51,21 @@ The options for this tab are:
    
    ![Global Settings for Closed {{Linked Case}} Button](16.12.3f.png)
    
+#### Only allow {{Linked case}}s to be created within the tab on a profile?  
+
+   You can create {{Linked case}}s from within the ‘{{Linked case}} view’ tab on a profile or via an {{activity}} record that is not yet linked to a {{Linked case}}. 
+
+   Ticking ‘Only allow {{Linked case}}s to be created within the tab on a profile?’ in system admin disallows the option of creating a {{Linked case}} via an {{activity}} record. This means that every {{Linked case}} opened will be linked to a profile in the system, as every {{Linked case}} will have to be opened via a profile’s ‘{{Linked case}} view’ tab, and so prevents having {{Linked case}}s in the system that are not linked to a profile.
+
+   #### Include {{Linked case}}s that were created in other profiles?
+
+   This field gives three different options for which profiles {{Linked case}}s appear in or if they appear in the profile ‘{{Linked case}} view’ tab at all. 
    
+   There are three options to choose from. 
    
+1.	‘Both: show a {{Linked case}} if it was opened in the profile, or this profile attended an {{activity}} connected to the {{Linked case}}’ – the {{Linked case}} will appear in the profile it was opened in AND any profile that is listed in the attendance table of any {{activity}} record linked to the {{Linked case}}. 
+2.	‘Only show {{Linked case}} in a profile if they were opened in that profile’ – the {{Linked case}} will only appear in the profile it was opened in. 
+3.	‘Only include {{Linked case}}s via listings on {{activity}} records’ - {{Linked case}}s will not appear in any profile but are only listed in the '{{activity}} > view > {{Linked case}}s listing.
+
    
 ###### core module
