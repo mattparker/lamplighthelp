@@ -1,0 +1,39 @@
+# 3.2.2 Home page Tab – Other Widgets
+
+Below the diary widget on the left of the screen in the Home page tab are other options for information you can add to the home screen
+1. The ‘My {{user}}s’ option adds {{user}}s allocated to you with the &#039;My user&#039; or primary {{staff}}/{{user}} relationship
+![Sys Admin 3.2.2 Home page Tab – Other Widgets - step 1](Sys_Admin_3.2.2_Home_page_Tab_–_Other_Widgets_im_1.png)
+1a In ‘More settings…’ for the &#039;My {{user}}&#039; widget, you can add a {{Group}} dataview to customise the columns you see in the {{user}} table
+![Sys Admin 3.2.2 Home page Tab – Other Widgets - step 2](Sys_Admin_3.2.2_Home_page_Tab_–_Other_Widgets_im_2.png)
+
+ℹ️ You can read more about dataviews and their various uses in –
+
+2. The ‘Recently viewed profiles’ widget {{group}}s of the last ten profiles viewed
+3. The ‘My {{Message}}s’ widget shows a table of {{message}}s assigned to you
+4. The ‘{{Safeguarding}} and {{safeguarding dbscheck}}s’ widget {{group}}s new {{safeguarding}} {{linked case}}s and DBS checks expiring soon
+5. The ‘Impact tools’ widget gives quick links to add {{outcome}} and {{eval}} data for profiles
+It looks like this on the home page (the {{outcome}}s, {{eval}}s and profile details you see will be specific to your system):
+![Sys Admin 3.2.2 Home page Tab – Other Widgets - step 3](Sys_Admin_3.2.2_Home_page_Tab_–_Other_Widgets_im_3.png)
+When on the home page, you can select the profile and type of record you want to add from here
+6. The ‘Daily register’ gives a {{group}} of profiles attending {{activity}} records for today. It looks like this on the home page:
+![Sys Admin 3.2.2 Home page Tab – Other Widgets - step 4](Sys_Admin_3.2.2_Home_page_Tab_–_Other_Widgets_im_4.png)
+7. The ‘News from Lamplight‘ widget gives a place where you can view system updates, training and other updates from Lamplight
+
+8. The ‘Report template’ widget displays the results of a {{report}} on your home page
+Once you have added the {{report}}, and chosen &#039;More settings...&#039;, you&#039;ll have the option to choose any of the {{report}} templates currently set-up in your system.
+We recommend you do not have this widget open by default. Choosing a {{report}} template will load that {{report}} afresh each time you load the home page, and more complex {{report}}s processing large amounts of data will take longer to load. This is likely to have an impact on your home page loading speed.
+
+![Sys Admin 3.2.2 Home page Tab – Other Widgets - step 5](Sys_Admin_3.2.2_Home_page_Tab_–_Other_Widgets_im_5.png)
+This is what it looks like on the home page:
+![Sys Admin 3.2.2 Home page Tab – Other Widgets - step 6](Sys_Admin_3.2.2_Home_page_Tab_–_Other_Widgets_im_6.png)
+
+9. Choose the ‘{{Group}} and View’ widget to display a {{group}} and dataview on your Home page
+This widget uses a {{group}} and dataview template (a {{group}} and dataview set-up to always run together).
+As with {{report}}s, we recommend you do not have this widget open by default as a large or more complex {{group}} and data view will take longer to load when you visit the Home page.
+9a. Select which template to use in the &#039;More settings&#039; section
+![Sys Admin 3.2.2 Home page Tab – Other Widgets - step 7](Sys_Admin_3.2.2_Home_page_Tab_–_Other_Widgets_im_7.png)
+This is what it will look like on the home page:
+![Sys Admin 3.2.2 Home page Tab – Other Widgets - step 8](Sys_Admin_3.2.2_Home_page_Tab_–_Other_Widgets_im_8.png)
+
+
+###### core module
