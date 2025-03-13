@@ -1,5 +1,6 @@
-# 1. Click on {{Group}}s in the main menu at the top of the screen
+# 33 Data Views - Different Ways To Use them
 
+1. Click on {{Group}}s in the main menu at the top of the screen
 
 ![33 {{Group}} Data Views - Different Ways To Use them - step 1](33_List_Data_Views_-_Different_Ways_To_Use_them_im_1.png)
 
