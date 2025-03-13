@@ -1,4 +1,4 @@
-# 32 Creating and Editing List Data Views
+# 32 Creating and Editing Data Views
 
 
 1. Click on {{Group}}s on the top menu bar
