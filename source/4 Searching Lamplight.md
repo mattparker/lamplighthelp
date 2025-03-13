@@ -1,4 +1,6 @@
-# This section explains the different ways you can navigate around Lamplight, and some of the controls you will see on screen
+# 4 Searching Lamplight
+
+This section explains the different ways you can navigate around Lamplight, and some of the controls you will see on screen
 
 1. Navigating using the Main menu
 
