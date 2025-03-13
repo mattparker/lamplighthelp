@@ -1,4 +1,4 @@
-# 
+# 37 Reporting from Templates
 
 [# If you run the same {{report}} on a regular basis, your system administrators can set up a template for it. You will then be able to choose it from a {{group}} and run the {{report}} automatically.](https://new.lamplight.online/en/report/index/title/1)
 link to Creating {{report}} templates
