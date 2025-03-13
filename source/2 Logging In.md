@@ -1,7 +1,8 @@
 # 2. Logging In
 
 
-The address to log in is: https://lamplight.online
+1. The address to log in is: https://lamplight.online
+
 2. Type your email address for Lamplight in the ‘Your email address’ box
 
 ![2 Logging In - step 1](2_Logging_In_im_1.png)
