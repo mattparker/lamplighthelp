@@ -1,4 +1,6 @@
-# [# Viewing All {{Group}}s](https://new.lamplight.online/en/index/home/)
+# 31 Viewing Lists
+
+Viewing All {{Group}}s
 
 1. To view all {{group}}s currently set up click on {{Group}}s on the main menu
 
