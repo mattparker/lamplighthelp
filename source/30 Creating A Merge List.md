@@ -1,0 +1,49 @@
+# 1. Click on &#039;{{Group}}s&#039; from the main menu
+
+
+![30 Creating A Merge {{Group}} - step 1](30_Creating_A_Merge_List_im_1.png)
+
+2. Click on &#039;add&#039;
+
+![30 Creating A Merge {{Group}} - step 2](30_Creating_A_Merge_List_im_2.png)
+
+3. Click on &#039;add merge {{group}}&#039;
+
+![30 Creating A Merge {{Group}} - step 3](30_Creating_A_Merge_List_im_3.png)
+
+4. Name your {{group}} and write a {{group}} description as they are both a requirement
+
+![30 Creating A Merge {{Group}} - step 4](30_Creating_A_Merge_List_im_4.png)
+
+5. If it is important that you are the only {{person}} who can add and remove {{people}} from the {{group}}, tick the &#039;lock this {{group}} for editing&#039; box.
+
+![30 Creating A Merge {{Group}} - step 5](30_Creating_A_Merge_List_im_5.png)
+
+6. How to combine the {{group}}s give you three options, choose one
+
+![30 Creating A Merge {{Group}} - step 6](30_Creating_A_Merge_List_im_6.png)
+
+7. Click on &#039;Next&#039;
+
+![30 Creating A Merge {{Group}} - step 7](30_Creating_A_Merge_List_im_7.png)
+
+8. Find the {{group}}s you are looking for by typing in the search field
+
+![30 Creating A Merge {{Group}} - step 8](30_Creating_A_Merge_List_im_8.png)
+
+9. Once you have added the {{group}}s you want to merge, click on &#039;save &amp; view record&#039; button on the top right of the page
+
+![30 Creating A Merge {{Group}} - step 9](30_Creating_A_Merge_List_im_9.png)
+
+10. Or click on the &#039;save&#039; button at the bottom of the page
+
+![30 Creating A Merge {{Group}} - step 10](30_Creating_A_Merge_List_im_10.png)
+
+11. A window will appear displaying the newly merged {{group}}s
+
+![30 Creating A Merge {{Group}} - step 11](30_Creating_A_Merge_List_im_11.png)
+
+Github: [https://github.com/mattparker/lamplighthelp/blob/main/source/12-3-0_Creating_a_Merge_Group.markdown](https://github.com/mattparker/lamplighthelp/blob/main/source/12-3-0_Creating_a_Merge_Group.markdown)
+
+
+###### core module
