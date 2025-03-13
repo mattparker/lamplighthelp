@@ -1,18 +1,18 @@
-# 
+# 13 Outcomes - Viewing An individual's Records
 
-Click on {{Outcome}}s tab within a Profile
+1. Click on {{Outcome}}s tab within a Profile
 
 ![13 {{Outcome}}s - Viewing An individual's Records - step 1](13_Outcomes_-_Viewing_An_individual's_Records_im_1.png)
 
-The Radar Chart
+2. The Radar Chart
 
 ![13 {{Outcome}}s - Viewing An individual's Records - step 2](13_Outcomes_-_Viewing_An_individual's_Records_im_2.png)
 
-A Use the buttons on the left to select the {{outcome}} measure you want to view
+a. Use the buttons on the left to select the {{outcome}} measure you want to view
 
 ![13 {{Outcome}}s - Viewing An individual's Records - step 3](13_Outcomes_-_Viewing_An_individual's_Records_im_3.png)
 
-B You can select the dates of the {{outcome}} scores you want to view using the check boxes on the right of the page
+b. You can select the dates of the {{outcome}} scores you want to view using the check boxes on the right of the page
 
 ![13 {{Outcome}}s - Viewing An individual's Records - step 4](13_Outcomes_-_Viewing_An_individual's_Records_im_4.png)
 
@@ -20,15 +20,15 @@ B You can select the dates of the {{outcome}} scores you want to view using the 
 
 ![13 {{Outcome}}s - Viewing An individual's Records - step 5](13_Outcomes_-_Viewing_An_individual's_Records_im_5.png)
 
-A Sort the table by clicking on the arrows next to column headers
+a. Sort the table by clicking on the arrows next to column headers
 
 ![13 {{Outcome}}s - Viewing An individual's Records - step 6](13_Outcomes_-_Viewing_An_individual's_Records_im_6.png)
 
-B Right click on the table header row to see a {{group}} of columns you can see in the table. Hold control and click to choose the ones you want. You can also use the left and right buttons next to each column to change the order
+b. Right click on the table header row to see a {{group}} of columns you can see in the table. Hold control and click to choose the ones you want. You can also use the left and right buttons next to each column to change the order
 
 ![13 {{Outcome}}s - Viewing An individual's Records - step 7](13_Outcomes_-_Viewing_An_individual's_Records_im_7.png)
 
-C Click on the Context Menu button (box with three lines) to the left of any row to bring up a menu with options for that record
+c. Click on the Context Menu button (box with three lines) to the left of any row to bring up a menu with options for that record
 
 ![13 {{Outcome}}s - Viewing An individual's Records - step 8](13_Outcomes_-_Viewing_An_individual's_Records_im_8.png)
 
