@@ -1,4 +1,4 @@
-# 
+# 16 Grant Records - Viewing individual Records
 
 1. In a profile click on the {{Grant}}s tab
 
