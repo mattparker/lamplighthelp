@@ -1,4 +1,6 @@
-# {{Work}} records shows the {{work}} you&#039;ve done with a specific {{person}} or {{org}}
+# 9 Work Records - Viewing and Deleting in the Profile
+
+{{Work}} records shows the {{work}} you&#039;ve done with a specific {{person}} or {{org}}
 
 1. Click on the {{Work}} records tab within a profile
 
