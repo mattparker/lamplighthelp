@@ -1,0 +1,42 @@
+# 
+
+1. Click on &#039;{{Group}}s&#039; from the main menu
+
+![29 Creating A Manual {{Group}} - step 1](29 Creating_A_Manual_List_im_1.png)
+
+2. Click on &#039;add&#039;
+
+![29 Creating A Manual {{Group}} - step 2](29 Creating_A_Manual_List_im_2.png)
+
+3. Click on &#039;add manual {{group}}&#039;
+
+![29 Creating A Manual {{Group}} - step 3](29 Creating_A_Manual_List_im_3.png)
+
+4. Name your {{group}} and write a {{group}} description as they are both a requirement
+
+![29 Creating A Manual {{Group}} - step 4](29 Creating_A_Manual_List_im_4.png)
+
+5. Click on &#039;Next&#039; button on the bottom right of the page
+
+![29 Creating A Manual {{Group}} - step 5](29 Creating_A_Manual_List_im_5.png)
+
+6. Type the first few letters of the profiles you want to add
+
+![29 Creating A Manual {{Group}} - step 6](29 Creating_A_Manual_List_im_6.png)
+
+7. Once you are happy with your {{group}}, click on &#039;save &amp; view record&#039; button on the top right of the page
+
+![29 Creating A Manual {{Group}} - step 7](29 Creating_A_Manual_List_im_7.png)
+
+8. Or click on the &#039;save&#039; button at the bottom of the page
+
+![29 Creating A Manual {{Group}} - step 8](29 Creating_A_Manual_List_im_8.png)
+
+9. A window will appear displaying the newly created {{group}}
+
+![29 Creating A Manual {{Group}} - step 9](29 Creating_A_Manual_List_im_9.png)
+
+Github: [https://github.com/mattparker/lamplighthelp/blob/main/source/12-2-0_Creating_a_Manual_Group.markdown](https://github.com/mattparker/lamplighthelp/blob/main/source/12-2-0_Creating_a_Manual_Group.markdown)
+
+
+###### core module
