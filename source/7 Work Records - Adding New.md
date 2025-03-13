@@ -1,4 +1,4 @@
-# New
+# 7 Work Records - Adding New
 
 Initial info to add on {{work}} records from original page
 There are a number places you can go to add {{work}} records to Lamplight – from the Activities button at the top of the home page, from the diary, and from a profile.
