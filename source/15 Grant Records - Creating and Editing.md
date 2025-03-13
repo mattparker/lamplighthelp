@@ -1,4 +1,6 @@
-# {{Grant}} records in Lamplight allow you to record money/items coming in to your {{org}} or being going to a {{user}}.
+# 15 Grant Records - Creating and Editing
+
+{{Grant}} records in Lamplight allow you to record money/items coming in to your {{org}} or being going to a {{user}}.
 
 
 You can keep records of money or items coming in to your {{org}} or being allocated to your {{user}}s by using {{grant}} records. If you can’t see them in your system, it is possible for a System Administrator to turn them on in global settings
