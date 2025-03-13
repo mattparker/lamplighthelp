@@ -1,5 +1,6 @@
-# 1. To view all profiles, click Profile on the main menu
+# 26 Profiles - Viewing in Tables
 
+1. To view all profiles, click Profile on the main menu
 
 ![26 Profiles - Viewing in Tables - step 1](26_Profiles_-_Viewing_in_Tables_im_1.png)
 
