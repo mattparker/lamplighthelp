@@ -23,6 +23,10 @@ Using {{linked case}}s you can:
 - Depending on how they are set up on your system, you may be able to select different types of {{linked case}}, or record information such as why the {{linked case}} has closed.
 
 For more on how to use them, please see:
+- [14.2 Opening A New {{Linked Case}}](/help/index/p/14.2).
+- [14.3 Linking Records To A {{Linked Case}}](/help/index/p/14.3).
+- [14.4 Creating A New Record in A {{Linked Case}} Tab](/help/index/p/14.4).
+- [14.7 Editing, Deleting and Closing A {{Linked Case}}](/help/index/p/14.7).
 
 link to following pages
 
