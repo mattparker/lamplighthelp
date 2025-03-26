@@ -1,6 +1,6 @@
 # 9 Work Records - Viewing and Deleting in the Profile
 
-> {{Work}} records shows the {{work}} you&#039;ve done with a specific {{person}} or {{org}}
+**{{Work}} records shows the {{work}} you&#039;ve done with a specific {{person}} or {{org}}**
 
 To find the record you want to edit, click on the {{Work}} records tab within a profile
 
@@ -8,7 +8,6 @@ To find the record you want to edit, click on the {{Work}} records tab within a 
 
 On the following pages you will see how to view {{work}} records, search for {{work}} records and delete/archive {{work}} records
 
-New page – no github link
 
 
 ###### core module
