@@ -5,7 +5,8 @@
 {{Lamplight}} holds details of the {{work}} you do with your {{user}}s. These are called {{work}} records in {{Lamplight}}. Each time you provide a service, you will probably enter it as a {{work}} record. Initial info to add on {{work}} records from original page
 
 There are a number places you can go to add {{work}} records to Lamplight 
-– from the Activitytab on the main menu
+
+- from the Activity tab on the main menu
 - from the diary on the Home tab
 - from a profile
 
