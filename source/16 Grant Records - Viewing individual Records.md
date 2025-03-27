@@ -17,7 +17,7 @@
 
 ![16 {{Grant}} Records - Viewing individual Records - step 4](16_Grant_Records_-_Viewing_individual_Records_im_4.png)
 
-It works in the same way as the search bar in {{work}} records - you can find out more about it in [7.3 Viewing All {{Work}} Records](/help/index/p/7.3.0).
+It works in the same way as the search bar in {{work}} records - you can find out more about it in [25.5 Viewing All {{Grant}} Records](/help/index/p/25.5).
 
 ### Viewing and Editing Individual Records
 1. Click on context menu on the left hand side of the row for the record
@@ -25,13 +25,15 @@ It works in the same way as the search bar in {{work}} records - you can find ou
 ![16 {{Grant}} Records - Viewing individual Records - step 5](16_Grant_Records_-_Viewing_individual_Records_im_5.png)
 
 2. You will see all the actions you can choose
-View {{activity}}: You can open the record to view everything recorded in one page
+- View {{activity}}: You can open the record to view everything recorded in one page
 If you click on ‘with a data view’ the attendance table will show additional columns from the data view
-Edit {{activity}}: If you need to change any details in this record, opening it to edit will allow you to do this. The record will be shown in the same format as if you were entering a new one
-Duplicate {{activity}}: This copies the record, so that if you are adding one that is similar you can then go to edit the copied version. You need to remember to change the details and delete any information that is not needed in the new version
-New {{comm}} to profiles on {{activity}}: This allows you to create a {{comm}} (E.g. Letter, Label, Email) to everyone included in the attendance table
-Link to {{linked case}}: Allows you to link the record to a {{linked case}}
-Archive {{activity}}: Managers and System Administrators can archive {{grant}} records from the system
+- Edit {{activity}}: If you need to change any details in this record, opening it to edit will allow you to do this. The record will be shown in the same format as if you were entering a new one
+- Duplicate {{activity}}: This copies the record, so that if you are adding one that is similar you can then go to edit the copied version. You need to remember to change the details and delete any information that is not needed in the new version
+- New {{comm}} to profiles on {{activity}}: This allows you to create a {{comm}} (E.g. Letter, Label, Email) to everyone included in the attendance table
+- Link to {{linked case}}: Allows you to link the record to a {{linked case}}
+- Archive {{activity}}: Managers and System Administrators can archive {{grant}} records from the system
+
+- If you use {{linked case}}s in your system, you will also see various {{linked case}} options on this menu. For more on {{linked case}}s, see [14 {{Linked Case}}s - Opening, Closing and Linking Records](/help/index/p/14). 
 
 ![16 {{Grant}} Records - Viewing individual Records - step 6](16_Grant_Records_-_Viewing_individual_Records_im_6.png)
 
