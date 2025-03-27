@@ -1,5 +1,7 @@
-# 1. Click on Activities in the main menu bar
+# 24 Viewing Work, Referral and Other Activity Record Tables
 
+
+1. Click on Activity in the main menu bar
 
 ![24 Viewing {{Work}}, {{Referral}} and Other {{Activity}} Record Tables - step 1](24_Viewing_Work,_Referral_and_Other_Activity_Record_Tables_im_1.png)
 
@@ -15,7 +17,6 @@
 
 ![24 Viewing {{Work}}, {{Referral}} and Other {{Activity}} Record Tables - step 4](24_Viewing_Work,_Referral_and_Other_Activity_Record_Tables_im_4.png)
 
-(New page – no GH reference)
 
 
 ###### core module
