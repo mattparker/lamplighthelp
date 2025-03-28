@@ -6,7 +6,7 @@ This section explains the different ways you can navigate around Lamplight, and 
 
 ![4 Searching Lamplight - step 1](4_Searching_Lamplight_im_1.png)
 
-2. Using the Magnifying glass to search for a profile
+2. Using the [magnifying glass to search for a profile (section 4.1)](help/index/p/4.1).
 
 ![4 Searching Lamplight - step 2](4_Searching_Lamplight_im_2.png)
 
@@ -14,17 +14,14 @@ This section explains the different ways you can navigate around Lamplight, and 
 
 ![4 Searching Lamplight - step 3](4_Searching_Lamplight_im_3.png)
 
-4. Looking for information in tables
+4. Looking for [information in tables (section 25)](help/index/p/25)
 
 ![4 Searching Lamplight - step 4](4_Searching_Lamplight_im_4.png)
 
-5. Using filters above tables
+5. Using filters above tables - see section [25 Activity Records Viewing, Filtering and Downloading in Tables](help/index/p/25)
 
 ![4 Searching Lamplight - step 5](4_Searching_Lamplight_im_5.png)
 
-Links need adding to relevant new help pages
-
-[https://github.com/mattparker/lamplighthelp/blob/main/source/3-0-0_Navigation_and_controls.markdown](https://github.com/mattparker/lamplighthelp/blob/main/source/3-0-0_Navigation_and_controls.markdown)
 
 
 ###### core module

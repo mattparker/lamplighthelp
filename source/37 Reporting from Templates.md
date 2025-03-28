@@ -1,7 +1,9 @@
 # 37 Reporting from Templates
 
-[# If you run the same {{report}} on a regular basis, your system administrators can set up a template for it. You will then be able to choose it from a {{group}} and run the {{report}} automatically.](https://new.lamplight.online/en/report/index/title/1)
-link to Creating {{report}} templates
+If you run the same {{report}} on a regular basis, your system administrators can set up a template for it. You will then be able to choose it from a {{group}} and run the {{report}} automatically.
+
+[Learn how to create report templates here.](/help/index/p/16.9)
+
 1. To see the templates set up in your system, click on {{Report}}s on the main menu bar
 
 ![37 {{Report}}ing from Templates - step 1](37_Reporting_from_Templates_im_1.png)
@@ -16,7 +18,7 @@ link to Creating {{report}} templates
 
 ![37 {{Report}}ing from Templates - step 4](37_Reporting_from_Templates_im_4.png)
 
-4. If you need to change any of the saved filters, you can do this as you would when creating a new {{report}}. This will not change the filters for the template itself.
+4. You can use a {{report}} template as a spring board for different but similar date, simply by changing the {{report}} filters and presentation once you've run the report. Doing this doesn't change the template in any way, it just changes the data you are looking at in that moment.
 
 ![37 {{Report}}ing from Templates - step 5](37_Reporting_from_Templates_im_5.png)
 

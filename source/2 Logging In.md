@@ -1,7 +1,8 @@
 # 2. Logging In
 
+**You will need to be set up as a database operator to log in to {{Lamplight}}. Your System Administrator can add new operators to the system**
 
-1. The address to log in is: https://lamplight.online
+1. The address to log in is: [https://lamplight.online](https://lamplight.online)
 
 2. Type your email address for Lamplight in the ‘Your email address’ box
 
@@ -19,9 +20,7 @@
 
 ![2 Logging In - step 4](2_Logging_In_im_4.png)
 
-Links to – Troubleshooting login
-
-[https://github.com/mattparker/lamplighthelp/blob/main/source/2-0-0_Getting_Started.markdown](https://github.com/mattparker/lamplighthelp/blob/main/source/2-0-0_Getting_Started.markdown)
+Please see here for [2.1 Troubleshooting Login](/help/index/p/2.1)).
 
 
 ###### core module
