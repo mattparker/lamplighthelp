@@ -1,5 +1,6 @@
-# 1. Click on &#039;new {{linked case}} {{report}} using your own criteria&#039; in the {{Linked case}} {{report}} box
 
+
+1. Click on &#039;new {{linked case}} {{report}} using your own criteria&#039; in the {{Linked case}} {{report}} box
 
 ![35.6 {{Linked case}} {{Report}}s - step 1](35.6_Case_Reports_im_1.png)
 
