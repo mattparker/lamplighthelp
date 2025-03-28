@@ -34,6 +34,10 @@ You can also change the order of the columns using the ‘Left’ and ‘Right b
 ![26 Profiles - Viewing in Tables - step 8](26_Profiles_-_Viewing_in_Tables_im_8.png)
 
 9. To the left you will see the profiles table context menu- three horizontal lines in a box
+ - View the {{person}} or {{org}}'s [profile](/help/index/p/5),
+  - Make them 'my {{user}}'. For more on this relationship type see [3.4 My {{User}}s](/help/index/p/3.4).
+  - Archive the profile. 
+  - Communicate (if you have the {{comm}}s module. This will open a {{comm}} record so that you can send an email or draft a letter, for example.
 
 ![26 Profiles - Viewing in Tables - step 9](26_Profiles_-_Viewing_in_Tables_im_9.png)
 
@@ -45,13 +49,6 @@ You can also change the order of the columns using the ‘Left’ and ‘Right b
 
 ![26 Profiles - Viewing in Tables - step 11](26_Profiles_-_Viewing_in_Tables_im_11.png)
 
-Links:
-[profile](https://lamplight.online/en/help/index/p/5.1.0),
-[4.2.0 My Users](https://lamplight.online/en/help/index/p/4.2.0).
-[108.2 Archiving Profiles](/help/index/p/108.2).
-[10.0.0 Core {{Comm}}s](https://lamplight.online/en/help/index/p/10.0.0).
-
-[https://github.com/mattparker/lamplighthelp/blob/main/source/5-9-0_Viewing_a_{{Group}}_of_{{People}}.markdown](https://github.com/mattparker/lamplighthelp/blob/main/source/5-9-0_Viewing_a_List_of_People.markdown)
 
 
 ###### core module
