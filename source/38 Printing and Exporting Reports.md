@@ -9,6 +9,4 @@ You can choose to download your data into a spreadsheet compatible with Excel or
 
 For more information on these options, see [3.5.4 Downloading and Printing Tables](/help/index/p/3.5.4).
 
-link to downloading and printing table
-
 ###### core module
