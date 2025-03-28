@@ -37,7 +37,7 @@ For example, you may create a {{group}} of everyone attending any {{work}} sessi
 
 7. Attendance Type
 
-The 'Attendance type' option allows you to filter your {{report}} so that it only includes data on those who attended, excluding those who did not attend or cancelled, for example. This will depend on the way your organisation has chosen to use the ['Attendance type' column in your {{work}}, {{referral}} and other records](/help/index/p/7.1.2).
+The 'Attendance type' option allows you to filter your {{report}} so that it only includes data on those who attended, excluding those who did not attend or cancelled, for example. This will depend on the way your organisation has chosen to use the 'Attendance type' column in your {{work}}, {{referral}} and other records. [See more here](/help/index/p/7.1.2).
 
 ![36 {{Report}} Filters - step 7](36_Report_Filters_im_7.png)
 
