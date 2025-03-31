@@ -22,9 +22,9 @@ Once you have {{group}} data views in your system, you can use them in different
 
 The following pages take you through the different ways you can use data views within Lamplight.
 
-- [13.2.1 View {{Group}} Members Using {{Group}} Data Views](/help/index/p/13.2.1).
-- [13.2.2 Using {{Group}} Data Views to Add Information to Attendance Tables](/help/index/p/13.2.2).
-- [13.2.3 Using a Data View to Create Headers](/help/index/p/13.2.3).
-- [13.2.4 Using {{Group}} Data Views to Create a Summary Page](/help/index/p/13.2.4).
+- [33.1 View {{Group}} Members Using Data Views](/help/index/p/33.1).
+- [33.2 Using Data Views To Add information To Attendance Tables](/help/index/p/33.2).
+- [33.3 Using Data Views To Create Headers](/help/index/p/33.3).
+- [33.4 Using A Data View To Create A Summary Page](/help/index/p/33.4).
 
 ###### core module
