@@ -11,7 +11,7 @@ Viewing All {{Group}}s
 - Name.
 - Description: this will be text that you added to clarify what it is for when creating the {{group}}.
 - Criteria: {{Lamplight}} generates this from the filters that you've applied if you created an auto {{group}}. If you are not seeing the names you expect when you run a {{group}}, this column is a good place to check to see that your filters are as you expect.
-- {{Group}} size: the number shown here will be for the last time that you used the {{group}}, so for {{auto group}}s this figure may have changed. If you need to be sure how many members a - {{group}} currently has, use the menu button on the left and select 'View members' for the up-to-date list [12.5 Viewing {{Group}} Members](/help/index/p/12.5).
+- {{Group}} size: the number shown here will be for the last time that you used the {{group}}, so for {{auto group}}s this figure may have changed. If you need to be sure how many members a - {{group}} currently has, use the menu button on the left and select 'View members' for the up-to-date list [31.1 Viewing {{Group}} Members in Popup](/help/index/p/31.1).
 - Type: this will show if your {{group}} is a {{manual group}}, {{auto group}} or {{merge group}}.
 - If you want to see all the columns that you can have in your table, right-clicking on the coloured header row at the top, or clicking the context menu to the left of the header row will bring up a menu of the available options. You can tick and untick to add and remove columns.
 - This menu also has the option of an 'ID' column - this is not usually shown by default. Each {{group}} has its own unique ID number, allocated by the system in the order that {{group}}s are created. If this column is visible in your table, left-clicking the top of it will sort your {{group}}s in order from the one created first down to the most recently added. Clicking again will show them in the reverse order.
@@ -41,18 +41,17 @@ This menu also has the option of an &#039;ID&#039; column - this is not usually 
 ![31 Viewing {{Group}}s - step 7](31_Viewing_Lists_im_7.png)
 
 8. Options on the menu
-View members: click on this to see all the profiles of the {{group}} link
-Use the black arrow to the right to see all the data views in your system and choose one with which to view the {{group}}. For more on this, [13.2.1 View {{Group}} Members Using {{Group}} Data Views](/help/index/p/13.2.1)
-Tag item &#039;select tags&#039;: This allows you to organise your {{group}}s into categories. Tags can be set up in System Administration
-Edit {{group}}: choose this to open the {{group}} editing dialogue and change details of the filters in your {{group}}. For more on this, see [12.6 Editing {{Group}}s](/help/index/p/12.6).
-
-Duplicate {{group}}: you can make an exact copy of the {{group}}. This is useful if you have a {{group}} which is very similar to another, as you can duplicate the original and then edit the details for the second one
-Covert {{group}} to a manual {{group}}: you can convert auto and merge {{group}}s to manual {{group}}s, this means the profiles on the {{group}} will remain the same unless manually added or removed
-{{Comm}} with {{group}}: Allows you to create letters, word documents and labels to the {{group}} of profiles
-Create email to {{group}}: Allows you to send an email (if set up in Lamplight) to the {{group}} of profiles
-View MailChimp status: Allows you to see status of the {{group}} in MailChimp (if the {{Comm}}s module is added and the integration has been set up in Lamplight)
-Print {{group}} member profiles: choosing this option brings up a new window where you can see all the profile details for each member of the {{group}}. You can select which of these details you want to print. For more on printing profile details, see link This will take some time for a large {{group}}
-Delete {{group}}: If you know that you are not going to need this {{group}} again then you can delete it here. Once you have done this you can't undelete it. This does not remove any records or profile information from the system, and it is possible to set up a new {{group}} with the same filters if you delete one in error
+- View members: click on this to see all the profiles of the {{group}} link
+Use the black arrow to the right to see all the data views in your system and choose one with which to view the {{group}}. For more on this, [33.1 View {{Group}} Members Using {{Group}} Data Views](/help/index/p/33.1)
+- Tag item &#039;select tags&#039;: This allows you to organise your {{group}}s into categories. Tags can be set up in System Administration
+- Edit {{group}}: choose this to open the {{group}} editing dialogue and change details of the filters in your {{group}}. For more on this, see [30 Editing {{Group}}s](/help/index/p/30).
+- Duplicate {{group}}: you can make an exact copy of the {{group}}. This is useful if you have a {{group}} which is very similar to another, as you can duplicate the original and then edit the details for the second one
+- Covert {{group}} to a manual {{group}}: you can convert auto and merge {{group}}s to manual {{group}}s, this means the profiles on the {{group}} will remain the same unless manually added or removed
+- {{Comm}} with {{group}}: Allows you to create letters, word documents and labels to the {{group}} of profiles
+- Create email to {{group}}: Allows you to send an email (if set up in Lamplight) to the {{group}} of profiles
+- View MailChimp status: Allows you to see status of the {{group}} in MailChimp (if the {{Comm}}s module is added and the integration has been set up in Lamplight)
+- Print {{group}} member profiles: choosing this option brings up a new window where you can see all the profile details for each member of the {{group}}. You can select which of these details you want to print. For more on printing profile details, see link This will take some time for a large {{group}}
+- Delete {{group}}: If you know that you are not going to need this {{group}} again then you can delete it here. Once you have done this you can't undelete it. This does not remove any records or profile information from the system, and it is possible to set up a new {{group}} with the same filters if you delete one in error
 
 ![31 Viewing {{Group}}s - step 8](31_Viewing_Lists_im_8.png)
 
