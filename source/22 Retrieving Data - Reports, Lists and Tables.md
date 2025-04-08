@@ -1,5 +1,6 @@
-# There are 3 main ways to retrieving and view data in Lamplight, {{Report}}s, {{Group}}s and Tables. They are all pulling the same data and showing it in different ways.
+# 22 Retrieving Data - Reports, Lists and Tables
 
+**There are 3 main ways to retrieving and view data in Lamplight, {{Report}}s, {{Group}}s and Tables. They are all pulling the same data and showing it in different ways.**
 
 1. {{Report}}s
 {{Report}}s will give you statistical information, they answer the question &#039;How many .......&#039;
