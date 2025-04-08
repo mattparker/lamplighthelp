@@ -1,6 +1,6 @@
 # 8 {{Work}} Records - Creating from the Diary
 
-# Creating a New Record
+**Creating a New Record**
 {{Work}} records can be created in the diary
 1. Click, hold and drag the mouse over the day and time the piece of {{work}} is occurring
 
@@ -19,8 +19,8 @@ The 4 way arrow when hoovering over the main part of the record - this will allo
 
 ![8 {{Work}} Records - Creating  from the Diary - step 3](8_Work_Records_-_Creating__from_the_Diary_im_3.png)
 
-# Editing a {{Work}} Record in the Diary
-6. Left click on a {{work}} record in the diary and the context menu will appear
+**Editing a {{Work}} Record in the Diary**
+1. Left click on a {{work}} record in the diary and the context menu will appear
 copy from github xxxxxxxxxx
 
 ![8 {{Work}} Records - Creating  from the Diary - step 4](8_Work_Records_-_Creating__from_the_Diary_im_4.png)
