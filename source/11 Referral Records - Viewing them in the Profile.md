@@ -1,4 +1,6 @@
-# [# You can find details of all the {{referral}}s a particular {{person}} or {{org}} has been involved in by clicking the &#039;{{Referral}}s tab in their profile](https://lamplight.online/en/view/details/what/body/id/52)
+# 11 Referral Records - Viewing them in the Profile
+
+**You can find details of all the {{referral}}s a particular {{person}} or {{org}} has been involved in by clicking the &#039;{{Referral}}s tab in their profile.**
 
 1. Find a profile and click on the {{Referral}}s tab
 The &#039;{{Referral}}s&#039; tab in any profile displays a table of all the {{referral}}s where that {{person}} or {{org}} is included in the Attendance table or on the &#039;Involving&#039; tab.
