@@ -1,4 +1,4 @@
-# 20.2 the Communications Module: Using SMS in Lamplight
+# 20.2 The Communications Module: Using SMS in Lamplight
 
 **If you have the Communications Module and want to use SMS direct from Lamplight, please let us know and we will switch this feature on for you. Once added, you will need to add the settings**
 
@@ -18,7 +18,7 @@
 4. When you get to the 'Type' list, select SMS text message 
 
 This will also show you how many text credits are left on the account
-
+   
 ![Using SMS in Lamplight](20.2_Comms_sms_step4b.png)
 
 5. Enter Reply-to information
