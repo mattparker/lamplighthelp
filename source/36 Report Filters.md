@@ -1,10 +1,15 @@
-# 
+# 36 Report Filters
 
-1. To start a new {{report}} Click on {{Report}}s, you will see all the {{activity}} {{report}}s that are available within your system. Choose the section/type of report you want, and select the options to start a new report 'using your own criteria'.
+**All {{report}}s let you filter by date, {{workarea}} and {{group}}. Other filters are available depending on the {{report}}**
+
+**To start a new {{report}}**
+1. Click on {{Report}}s on the main menu
+
+You will see all the {{activity}} {{report}}s that are available within your system. Choose the section/type of report you want, and select the options to start a new report 'using your own criteria'.
 
 ![36 {{Report}} Filters - step 1](36_Report_Filters_im_1.png)
 
-2. When you start a new {{report}} first you will see the date range, which you can edit for your requirements. The &#039;after this date&#039; and &#039;before or on this date&#039; fields will include records dated between these two dates, including the dates selected.
+2. When you start a new {{report}} first you will see the date range, which you can edit for your requirements. The 'after this date' and 'before or on this date' fields will include records dated between these two dates, including the dates selected.
 
 ![36 {{Report}} Filters - step 2](36_Report_Filters_im_2.png)
 
@@ -61,8 +66,5 @@ For example, if you have a {{user}} who attended in April 2025, but did not come
 
 ![36 {{Report}} Filters - step 10](36_Report_Filters_im_10.png)
 
-[https://github.com/mattparker/lamplighthelp/blob/main/source/14-1-1_{{Report}}_Filters.markdown](https://github.com/mattparker/lamplighthelp/blob/main/source/14-1-1_Report_Filters.markdown)
-
-Intro and description of each step needs to be copied
 
 ###### core module
