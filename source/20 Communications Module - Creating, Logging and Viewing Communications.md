@@ -61,6 +61,7 @@ You also have the option to test the {{comm}} or save it but not send it
 ![20 {{Comm}}s Module - Creating, Logging and Viewing {{Comm}}s - step 11](20_Communications_Module_-_Creating,_Logging_and_Viewing_Communications_im_11.png)
 
 **Logging a {{Comm}}**
+
 Sometimes creating a document or email is not necessary but you may need to record that a {{comm}} has happened e.g. receiving an email, phone call etc.
 
 1. Click on the {{Activity}} tab on the main menu
