@@ -1,7 +1,18 @@
-# 
+# 20 Communications Module - Creating, Logging and Viewing Communications
 
-# Creating a {{Comm}}
-1. Click on the {{Activity}} tab
+**All Lamplight systems come with some {{comm}}s capability. The {{Comm}}s Module adds more functions and a tab in every profile that keeps a log of the {{comm}}s.**
+
+In addition to core {{comm}}s capability, the Communications Module lets you:
+
+- Log all created in {{Lamplight}} in the profiles of the recipients.
+- Send mail-merged and non-mail-merged letters, emails, and mailing labels from any {{group}}, {{{work}} record](/help/index/p/20.1) or profile.
+- Use templates to set up standard, mail-merged {{comm}}s.
+- Buy SMS credits to [send text messages directly from Lamplight](/help/index/p/20.2).
+- Use {{Lamplight}} {{group}}s to create Mailchimp mailing lists.
+
+
+**Creating a {{Comm}}**
+1. Click on the {{Activity}} tab on the main menu
 
 ![20 {{Comm}}s Module - Creating, Logging and Viewing {{Comm}}s - step 1](20_Communications_Module_-_Creating,_Logging_and_Viewing_Communications_im_1.png)
 
@@ -49,9 +60,10 @@ You also have the option to test the {{comm}} or save it but not send it
 
 ![20 {{Comm}}s Module - Creating, Logging and Viewing {{Comm}}s - step 11](20_Communications_Module_-_Creating,_Logging_and_Viewing_Communications_im_11.png)
 
-# Logging a {{Comm}}
+**Logging a {{Comm}}**
 Sometimes creating a document or email is not necessary but you may need to record that a {{comm}} has happened e.g. receiving an email, phone call etc.
-1. Click on the {{Activity}} tab
+
+1. Click on the {{Activity}} tab on the main menu
 
 ![20 {{Comm}}s Module - Creating, Logging and Viewing {{Comm}}s - step 12](20_Communications_Module_-_Creating,_Logging_and_Viewing_Communications_im_12.png)
 
@@ -95,8 +107,8 @@ Add the content of the {{comm}} e.g. what was emailed/discussed
 
 ![20 {{Comm}}s Module - Creating, Logging and Viewing {{Comm}}s - step 22](20_Communications_Module_-_Creating,_Logging_and_Viewing_Communications_im_22.png)
 
-# Viewing {{Comm}}s
-1. Click on the {{Activity}} tab
+**Viewing {{Comm}}s**
+1. Click on the {{Activity}} tab on the main menu
 
 ![20 {{Comm}}s Module - Creating, Logging and Viewing {{Comm}}s - step 23](20_Communications_Module_-_Creating,_Logging_and_Viewing_Communications_im_23.png)
 
@@ -124,7 +136,12 @@ Add the content of the {{comm}} e.g. what was emailed/discussed
 
 ![20 {{Comm}}s Module - Creating, Logging and Viewing {{Comm}}s - step 30](20_Communications_Module_-_Creating,_Logging_and_Viewing_Communications_im_30.png)
 
-[https://github.com/mattparker/lamplighthelp/blob/main/source/21-3-0_The_Comms_Module-_Creating_and_Logging_Comms.markdown](https://github.com/mattparker/lamplighthelp/blob/main/source/21-3-0_The_Comms_Module-_Creating_and_Logging_Comms.markdown)
+
+For more background information about {{comm}}s in {{Lamplight}}, you may find these pages useful:
+- [17 {{Comm}}s- Creating and Editing](/help/index/p/17).
+- Global {{comm}} settings—default reply-to address, automatically adding signatures to the bottom of emails: [114.5 Global Settings: {{Comm}}s](/help/index/p/114.5).
+
+
 
 
 ###### core module
