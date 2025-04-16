@@ -18,8 +18,8 @@
 
 This section covers
 
-- [102.1 Operator Permission Levels](/help/index/p/102.1).
-- [102.2 Adding a New Database Operator and Editing Operator Settings](/help/index/p/102.2).
+- [102.1 Adding a New Database Operator and Editing Operator Settings](/help/index/p/102.1).
+- [102.2 Operator Permission Levels](/help/index/p/102.2).
 - [102.3 Resetting a Database Operator's Password](/help/index/p/102.3).
 - [102.5 Deleting a Database Operator](/help/index/p/102.5).
 
