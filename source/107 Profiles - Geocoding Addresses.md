@@ -1,8 +1,10 @@
 # 107 Profiles - Geocoding Addresses
 
 
-[# You can use the geocode option to add geographic information to the addresses in your system](https://new.lamplight.online/en/admin/geocode/source/os)
+You can use the geocode option to add geographic information to the addresses in your system.
+
 If you do not have geographic information attached to the contact details in your system you can geocode the addresses to provide ward, borough and longitude and latitude data. Lamplight will use the {{postcode}} on addresses and match it to Ordnance Survey data. This is not always as accurate as post office data but is free for users. {{Postcode}}s which are not geocoded will be {{group}}ed.
+
 1. Click on your initials in the top right corner
 
 ![107 Profiles - Geocoding Addresses - step 1](107_Profiles_-_Geocoding_Addresses_im_1.png)
