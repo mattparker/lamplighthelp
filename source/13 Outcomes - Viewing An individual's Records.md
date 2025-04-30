@@ -17,13 +17,13 @@ For example, the picture above shows the results in November (brown, inner line)
 
 ![13 {{Outcome}}s - Viewing An individual's Records - step 2](13_Outcomes_-_Viewing_An_individual's_Records_im_2.png)
 
-        a. Use the buttons on the left to select the {{outcome}} measure you want to view
+a. Use the buttons on the left to select the {{outcome}} measure you want to view
 
-        ![13 {{Outcome}}s - Viewing An individual's Records - step 3](13_Outcomes_-_Viewing_An_individual's_Records_im_3.png)
+![13 {{Outcome}}s - Viewing An individual's Records - step 3](13_Outcomes_-_Viewing_An_individual's_Records_im_3.png)
 
-        b. You can select the dates of the {{outcome}} scores you want to view using the check boxes on the right of the page
+b. You can select the dates of the {{outcome}} scores you want to view using the check boxes on the right of the page
 
-        ![13 {{Outcome}}s - Viewing An individual's Records - step 4](13_Outcomes_-_Viewing_An_individual's_Records_im_4.png)
+![13 {{Outcome}}s - Viewing An individual's Records - step 4](13_Outcomes_-_Viewing_An_individual's_Records_im_4.png)
 
 3. The Table
 The table view at the bottom is for viewing the {{outcome}}s data that has been entered. It shows a record for each time that an {{outcome}}s measure has been scored. 
