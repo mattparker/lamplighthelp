@@ -12,6 +12,7 @@ In addition to core {{comm}}s capability, the Communications Module lets you:
 
 
 **Creating a {{Comm}}**
+
 1. Click on the {{Activity}} tab on the main menu
 
 ![20 {{Comm}}s Module - Creating, Logging and Viewing {{Comm}}s - step 1](20_Communications_Module_-_Creating,_Logging_and_Viewing_Communications_im_1.png)
@@ -109,6 +110,7 @@ Add the content of the {{comm}} e.g. what was emailed/discussed
 ![20 {{Comm}}s Module - Creating, Logging and Viewing {{Comm}}s - step 22](20_Communications_Module_-_Creating,_Logging_and_Viewing_Communications_im_22.png)
 
 **Viewing {{Comm}}s**
+
 1. Click on the {{Activity}} tab on the main menu
 
 ![20 {{Comm}}s Module - Creating, Logging and Viewing {{Comm}}s - step 23](20_Communications_Module_-_Creating,_Logging_and_Viewing_Communications_im_23.png)
