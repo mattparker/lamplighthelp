@@ -1,4 +1,4 @@
-# 29 Creating Other {{Group}}s
+# 29 Creating Other {{Group}}s
 
 The pervious section explained how to create auto {{group}}s, there are 2 other types of {{group}}s you can create in Lamplight. 
 - Manual {{group}}s 
