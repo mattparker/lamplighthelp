@@ -3,8 +3,7 @@
 The Data Direct Module allows you to send your users a web (URL) link for them to click to complete your questionnaires/forms online, directly. You can use the questionnaires/forms that you have already set up as evals or {{outcome}}s for others to complete outside of Lamplight. An online, external form. When they complete the form, their responses are automatically saved to Lamplight.
 
 The Data Direct Module {{work}}s with the Evals Module, allowing you to create web (URL) links to your existing surveys/evals, as well as the core system {{outcome}}s.
- - Step 1 - to ensure you’ve got the form templates in the system, or you can [128.1 {{Eval}}s Module: Setting Up Evaluations](/help/index/p/128.1) or [111 {{
- - Outcome}} - Adding and Editing and Deleting Categories, Measures and Descriptors](/help/index/p/11) within system administration.
+ - Step 1 - to ensure you’ve got the form templates in the system, or you can [128.1 {{Eval}}s Module: Setting Up Evaluations](/help/index/p/128.1) or [111 {{Outcome}} - Adding and Editing and Deleting Categories, Measures and Descriptors](/help/index/p/11) within system administration.
 - Step 2 - to create a &#039;{{campaign}}&#039;, to specify the details of the online form
 - Step 3 – generate the URL ready to send/give to users
 
