@@ -34,24 +34,24 @@ The 'Summary' column shows the measure and score for each record.
 
 You can customise your table in the following ways:
 
-        a. View more or fewer records on one page by choosing an option from the 'Show' drop-down above the table. Alternatively, you can click on the page numbers (also above the table) to move through the records.
+a. View more or fewer records on one page by choosing an option from the 'Show' drop-down above the table. Alternatively, you can click on the page numbers (also above the table) to move through the records.
 
-        b. Sort the table by clicking on the arrows next to column headers
+b. Sort the table by clicking on the arrows next to column headers
 
-        ![13 {{Outcome}}s - Viewing An individual's Records - step 6](13_Outcomes_-_Viewing_An_individual's_Records_im_6.png)
+![13 {{Outcome}}s - Viewing An individual's Records - step 6](13_Outcomes_-_Viewing_An_individual's_Records_im_6.png)
 
-        c. Right click on the table header row to see a {{group}} of columns you can see in the table. Hold control and click to choose the ones you want. You can also use the left and right buttons next to each column to change the order
+c. Right click on the table header row to see a {{group}} of columns you can see in the table. Hold control and click to choose the ones you want. You can also use the left and right buttons next to each column to change the order
 
-        ![13 {{Outcome}}s - Viewing An individual's Records - step 7](13_Outcomes_-_Viewing_An_individual's_Records_im_7.png)
+![13 {{Outcome}}s - Viewing An individual's Records - step 7](13_Outcomes_-_Viewing_An_individual's_Records_im_7.png)
 
-        d. Click on the Context Menu button (box with three lines) to the left of any row to bring up a menu with options for that record
+d. Click on the Context Menu button (box with three lines) to the left of any row to bring up a menu with options for that record
 
-        ![13 {{Outcome}}s - Viewing An individual's Records - step 8](13_Outcomes_-_Viewing_An_individual's_Records_im_8.png)
+![13 {{Outcome}}s - Viewing An individual's Records - step 8](13_Outcomes_-_Viewing_An_individual's_Records_im_8.png)
 
-          - View activity: This opens the {{outcome}} record on one page so that you can view the details.
-          - Edit activity: This will open the data entry window where you can edit the details of the {{outcome}}. 
-          - Add outcome score: The opens a new {{outcome}} record for the outcome measure you have selected.
-          - Archive activity: Use this option to remove the {{outcome}} from the table. It will still be possible to find it in the {{outcome}}s table, but it will not show in reports or data views.
+- View activity: This opens the {{outcome}} record on one page so that you can view the details.
+- Edit activity: This will open the data entry window where you can edit the details of the {{outcome}}. 
+- Add outcome score: The opens a new {{outcome}} record for the outcome measure you have selected.
+- Archive activity: Use this option to remove the {{outcome}} from the table. It will still be possible to find it in the {{outcome}}s table, but it will not show in reports or data views.
 
 If you use {{linked case}}s in your system, there more options (See section [9.0.0 {{Linked case}}s](/help/index/p/9.0.0) for more on {{linked case}}s):
 
