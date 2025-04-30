@@ -5,6 +5,7 @@
 {{Lamplight}} database operators with a System or Project Administrator level of access have permission to make many changes in Lamplight. If you do not have this level of access, you will see a more limited range of options in system administration. 
 
 To view system admin:
+
 1. Click on your initials in the top right corner
 ![101 System Admin Controls - step 1](101_System_Admin_Controls_im_1.png)
 
