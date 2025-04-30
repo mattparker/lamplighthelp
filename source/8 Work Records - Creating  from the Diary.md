@@ -30,7 +30,7 @@ The 4 way arrow when hoovering over the main part of the record - this will allo
 - View activity: This will open the record so that you can see all the information recorded in it on one page.
 - Edit activity: If you click this option you will be able to open the record up to edit it. If this is one of a series of recurring records, hover your mouse over the word 'Edit', and you will also see the option to edit 'all recurring records in the series'.
 - Duplicate record: This will create a duplicate of the {{work}} record, which will appear in the diary on the same day and time. You can then click on the new record to edit it. 
-- New communication to profiles on activity: You can able to create a communication record (e.g. Letter/Email/Label) to all the profiles in the attendnace table of the activity.
+- New communication to profiles on activity (you will only see this if you have the {{Comm}}s Module):Choosing this option opens a new {{comm}}s record (See section [17 {{Comm}}s - Creating and Editing](/help/index/p/17) for more on {{comm}}s) and enters the names of the {{people}} that attended the piece of {{work}} in the 'Recipients' table.
 - Add {{outcome}}s: This will open an {{outcome}} record for everyone included in the attendance table.
 - Archive Activity: Managers and System Administrators can permanently delete records from the system.
 
