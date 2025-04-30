@@ -20,7 +20,7 @@
 
 ![2 Logging In - step 4](2_Logging_In_im_4.png)
 
-Please see here for [2.1 Troubleshooting Login](/help/index/p/2.1)).
+Please see here for [2.1 Troubleshooting Login](/help/index/p/2.1).
 
 
 ###### core module
