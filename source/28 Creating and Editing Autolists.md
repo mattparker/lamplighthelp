@@ -1,4 +1,4 @@
-# 28 Creating and Editing Autolists
+# 28 Creating and Editing Auto {{group}}s
 
 
 {{Group}}s in Lamplight are collections of profiles or {{org}}s. You can create different types of {{group}}: auto {{group}}s, manual {{group}}s  (see [29.1 Creating A Manual {{Group}}](/help/index/p/29.1) for more details) or merge {{group}}s  (see [29.2 Creating A Merge {{Group}}](/help/index/p/29.2) for more details). You can use information from profiles or {{activity}} records to filter your {{group}} members.
