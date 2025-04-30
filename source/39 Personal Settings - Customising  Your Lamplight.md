@@ -1,4 +1,4 @@
-# 39 {{Person}}al Settings - Customising  Your Lamplight
+# 39 Personal Settings - Customising  Your Lamplight
 
 **Each database operator has the ability to customise aspects of {{Lamplight}} to fit their workflow. The changes they make will not affect anyone else**
 
