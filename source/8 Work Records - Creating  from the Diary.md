@@ -31,8 +31,8 @@ The 4 way arrow when hoovering over the main part of the record - this will allo
 - Edit activity: If you click this option you will be able to open the record up to edit it. If this is one of a series of recurring records, hover your mouse over the word 'Edit', and you will also see the option to edit 'all recurring records in the series'.
 - Duplicate record: This will create a duplicate of the {{work}} record, which will appear in the diary on the same day and time. You can then click on the new record to edit it. 
 - New communication to profiles on activity (you will only see this if you have the {{Comm}}s Module):Choosing this option opens a new {{comm}}s record (See section [17 {{Comm}}s - Creating and Editing](/help/index/p/17) for more on {{comm}}s) and enters the names of the {{people}} that attended the piece of {{work}} in the 'Recipients' table.
-- Add {{outcome}}s: This will open an {{outcome}} record for everyone included in the attendance table.
-- Archive Activity: Managers and System Administrators can permanently delete records from the system.
+- Add {{outcome}}s: This will open an {{outcome}} record for everyone included in the attendance table. The date, time, workarea information and profile who attended the piece of work will be added automatically to the draft outcomes record.
+- Archive Activity: The action is only open to database operators with a Manager or System Administrators level of access. It archives the {{work}} record so that it is not immediately visible in tables.
 
 
 ![8 {{Work}} Records - Creating  from the Diary - step 4](8_Work_Records_-_Creating__from_the_Diary_im_4.png)
