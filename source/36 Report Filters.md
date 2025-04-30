@@ -3,6 +3,7 @@
 **All {{report}}s let you filter by date, {{workarea}} and {{group}}. Other filters are available depending on the {{report}}**
 
 **To start a new {{report}}**
+
 1. Click on {{Report}}s on the main menu
 
 You will see all the {{activity}} {{report}}s that are available within your system. Choose the section/type of report you want, and select the options to start a new report 'using your own criteria'.
