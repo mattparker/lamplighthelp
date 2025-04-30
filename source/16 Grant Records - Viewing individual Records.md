@@ -4,7 +4,8 @@
 
 ![16 {{Grant}} Records - Viewing individual Records - step 1](16_Grant_Records_-_Viewing_individual_Records_im_1.png)
 
-### The Search Bar
+**The Search Bar**
+
 1. Change the date range then click on refresh your table on the blue bar
 
 ![16 {{Grant}} Records - Viewing individual Records - step 2](16_Grant_Records_-_Viewing_individual_Records_im_2.png)
@@ -19,7 +20,8 @@
 
 It works in the same way as the search bar in {{work}} records - you can find out more about it in [25.5 Viewing All {{Grant}} Records](/help/index/p/25.5).
 
-### Viewing and Editing Individual Records
+**Viewing and Editing Individual Records**
+
 1. Click on context menu on the left hand side of the row for the record
 
 ![16 {{Grant}} Records - Viewing individual Records - step 5](16_Grant_Records_-_Viewing_individual_Records_im_5.png)
@@ -48,7 +50,8 @@ Depending on your browser, your table may im{{media}}tely open in a spreadsheet,
 ![16 {{Grant}} Records - Viewing individual Records - step 8](16_Grant_Records_-_Viewing_individual_Records_im_8.png)
 
 5. Clicking the &#039;Print&#039; button at the bottom of the table will open it in a new tab in a print-friendly format.
-10. Split print allows you to create multiple print-friendly tables split by whatever item you choose, for example {{work}} area. Each one will open in a separate tab.
+
+6. Split print allows you to create multiple print-friendly tables split by whatever item you choose, for example {{work}} area. Each one will open in a separate tab.
 
 ![16 {{Grant}} Records - Viewing individual Records - step 9](16_Grant_Records_-_Viewing_individual_Records_im_9.png)
 
