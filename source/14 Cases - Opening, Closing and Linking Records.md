@@ -1,4 +1,4 @@
-# 14 {{Linked case}}s - Opening, Closing and Linking Records
+# 14 {{Linked case}}s - Opening, Closing and Linking Records
 
 {{Linked case}}s are a way of linking different kinds of {{activity}} record ({{work}}, {{outcome}}, {{comm}}s etc.) together in one place. They allow you to track the amount of time something takes from start to finish
 
