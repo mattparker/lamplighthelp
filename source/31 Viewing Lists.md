@@ -1,4 +1,4 @@
-# 31 Viewing Lists
+# 31 Viewing {{Group}}s
 
 Viewing All {{Group}}s
 
