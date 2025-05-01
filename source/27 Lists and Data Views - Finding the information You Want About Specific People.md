@@ -15,22 +15,22 @@ Data views do not filter the profiles in your {{group}}s: they simply add detail
 
 1. Click on {{Group}}s from the main Menu to access all current {{group}}s and data views in your system
 
-![27 {{Group}}s and Data Views - Finding the information You Want About Specific {{People}} - step 1](27_Lists_and_Data_Views_-_Finding_the_information_You_Want_About_Specific_People_im_1.png)
+![27 {{Group}}s and Data Views - Finding the information You Want About Specific {{People}} - step 1](27_Lists_and_Data_Views_-_Finding_the_information_You_Want_About_Specific_Profile_im_1.png)
 
 2. There are three types of {{group}}: {{manual group}}s, {{auto group}}s, and {{merge group}}s.
 - {{Manual group}}s are created by selecting the individual profiles or {{org}}s that you want to include. Similar to a written {{group}} of names, the {{group}} won&#039;t change unless someone manually updates (adds or removes profiles) the {{group}}.
 - {{Auto group}}s are like saved searches: you enter the criteria (e.g. &#039;{{postcode}} starts with N1&#039;) and {{Lamplight}} searches for everyone that meets those criteria. Each time you use the {{group}}, {{Lamplight}} will automatically check again. For example, if someone moves out of the area and you update their {{postcode}}, that {{person}} will not appear in the {{group}} when it is next run.
 - {{Merge group}}s are created by joining existing {{group}}s together. Lamplight will combine all the members of each {{group}} and combine them into one.
 
-![27 {{Group}}s and Data Views - Finding the information You Want About Specific {{People}} - step 2](27_Lists_and_Data_Views_-_Finding_the_information_You_Want_About_Specific_People_im_2.png)
+![27 {{Group}}s and Data Views - Finding the information You Want About Specific {{People}} - step 2](27_Lists_and_Data_Views_-_Finding_the_information_You_Want_About_Specific_Profile_im_2.png)
 
 3. A {{Group}} Without a Data View
 
-![27 {{Group}}s and Data Views - Finding the information You Want About Specific {{People}} - step 3](27_Lists_and_Data_Views_-_Finding_the_information_You_Want_About_Specific_People_im_3.png)
+![27 {{Group}}s and Data Views - Finding the information You Want About Specific {{People}} - step 3](27_Lists_and_Data_Views_-_Finding_the_information_You_Want_About_Specific_Profile_im_3.png)
 
 4. The Same {{Group}} with a Data View
 
-![27 {{Group}}s and Data Views - Finding the information You Want About Specific {{People}} - step 4](27_Lists_and_Data_Views_-_Finding_the_information_You_Want_About_Specific_People_im_4.png)
+![27 {{Group}}s and Data Views - Finding the information You Want About Specific {{People}} - step 4](27_Lists_and_Data_Views_-_Finding_the_information_You_Want_About_Specific_Profile_im_4.png)
 
 ### Using {{Group}}s
 You can use {{group}}s in different ways:
