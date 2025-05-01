@@ -1,4 +1,4 @@
-# 48 The Publishing Module
+# 48 The Publishing Module System Administration
 
 The Publishing Module adds the ability to connect a website or application to Lamplight using your Lamplight API. 
 You can use Lamplight's built-in features to do this, or create your own. You can publish data out from Lamplight,
@@ -16,7 +16,11 @@ If you use the Publishing Module you can link information entered in Lamplight t
 
 You choose what records and information to publish, so you are in full control of your data.
 
-Your system administrator will need to setup the module before it can be used: [section 134](/help/index/p/134) explains how to do this.
+### Setup
+
+Lamplight is very cautious with your data. You will need to opt-in to all features explicitly after enabling the module; 
+by default everything is 'off' and no data will be allowed in or out. 
+
 
 ### Widgets
 
