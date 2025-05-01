@@ -1,0 +1,17 @@
+# 108 Profiles - Merging, Archiving, Deleting and Restricted Processing
+
+**System Administrators can merge duplicate profiles as well as archiving and deleting records that are no longer actively needed.**
+
+There may be profiles on your system that you no longer need. You have four options for what you can do with these:
+
+- Megring of a profile allows for duplicates of a {{person}} or {{org}} ro be merged together so all the records are in one place  (see [108.1 Merging Profiles](/help/index/p/108.1)).
+- Archiving of a profile allows for a {{person}} or {{org}} that has been involved in work to still be counted in reports. You can also run groups to show archived individuals and {{org}}s. They will not come up in the main search bar or search boxes in records, so they are not active on the system.  (see [108.2 Archiving Profiles](/help/index/p/108.2)).
+- Restricted processing is a particular right for data subjects under the GDPR. Where a data subject requests that the processing of their data be restricted, you can add restricted processing to their profile so that their profile can't be edited and they will not be included in any reporting.
+- Deleting a profile: If it is a profile that you would like to permanently remove from your system, with the option to get rid of demographic data and {{activity}} records too, then you can delete them (see [108.3 Deleting a Profile](/help/index/p/108.3)).  If you permanently delete a profile this cannot be undone and the information you delete is gone. Permanently deleting a profile can only be done by a System or Project Administrator in system admin
+
+Both archiving and restricted processing can be done from within a profile. 
+
+![Archiving and Restricted Processing in the Profile](108_profiles_merg_del_arch_rest_im_1.png.png).
+
+
+###### core module
