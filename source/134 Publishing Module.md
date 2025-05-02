@@ -1,4 +1,4 @@
-# 48 The Publishing Module System Administration
+# 134 The Publishing Module System Administration
 
 The Publishing Module adds the ability to connect a website or application to Lamplight using your Lamplight API. 
 You can use Lamplight's built-in features to do this, or create your own. You can publish data out from Lamplight,
@@ -19,14 +19,18 @@ You choose what records and information to publish, so you are in full control o
 ### Setup
 
 Lamplight is very cautious with your data. You will need to opt-in to all features explicitly after enabling the module; 
-by default everything is 'off' and no data will be allowed in or out. 
+by default everything is 'off' and no data will be allowed in or out. That means that you'll need to switch some things
+on before you can use the module.  
 
 
 ### Widgets
 
-You can create widgets within Lamplight that allow you to embed profile information, {{work}} record listings 
-or {{referral}} forms on your website. To do this you'll need to copy and paste a single line of html code from {{Lamplight}} 
-into your own website.  This is a very quick and easy way to start using the publishing module and doesn't require 
+The quickest and easiest way to get started with the publishing module is to use the "widgets" feature.  Each widget is
+a part of a web page for you which you can embed in your main website. You set what you want it to do in Lamplight to 
+create the widget, and then add a small snippet of html code to your own website. Or you can
+even use them as standalone pages - for example providing referral partners a link they can use to make referrals to you.
+
+This is a very quick and easy way to start using the publishing module and doesn't require 
 specialist knowledge. [Section 134.3](/help/index/p/134.3) explains how to create widgets within Lamplight, and how to use them on your website.
 
 Widgets are a great place to start: this Customer webinar video gives an introduction to the module and shows
