@@ -71,7 +71,7 @@ Assuming that you have the correct permissions and setup, the types of data that
 | Adding profiles to {{group}}s or {{waiting list}}s | No | No | Yes |
 
 
-We’ve set up a whole website, [https://mattparker.github.io/lamplight-phpclient/](https://mattparker.github.io/lamplight-phpclient/), 
+We’ve set up a whole website, <a href="https://mattparker.github.io/lamplight-phpclient/" target="_blank">https://mattparker.github.io/lamplight-phpclient/</a> 
 which gives some working examples and documentation to show how the API works.  It’s aimed at developers and other 
 technical types to show how to get the data out of Lamplight and on to your website.  It goes into full detail about 
 what can and what cannot be done with the module.
