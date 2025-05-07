@@ -35,7 +35,8 @@ This menu also has the option of an &#039;ID&#039; column - this is not usually 
 
 ![31 Viewing {{Group}}s - step 6](31_Viewing_Lists_im_6.png)
 
-# {{Group}} Context Menu
+### {{Group}} Context Menu
+
 7. In the left-hand column of the table you may see a menu button next to each {{group}}. Clicking on this will bring up the context menu. If you can&#039;t see this column, right-clicking on any row of the table will give you the same menu.
 
 ![31 Viewing {{Group}}s - step 7](31_Viewing_Lists_im_7.png)
