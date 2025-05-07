@@ -1,4 +1,4 @@
-# 31 Viewing {{Group}}s
+# 31.0 Viewing {{Group}}s
 
 Viewing All {{Group}}s
 
