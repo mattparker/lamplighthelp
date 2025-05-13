@@ -1,0 +1,62 @@
+# 20.2 The Communications Module: Using SMS in Lamplight
+
+**If you have the Communications Module and want to use SMS direct from Lamplight, please let us know and we will switch this feature on for you. Once added, you will need to add the settings**
+
+**Sending an SMS from Lamplight**
+
+1. Click on Activity in the main menu
+![Using SMS in Lamplight](20.2_Comms_sms_step1.png)
+
+2. In the Communications section, click on Create communication
+
+![Using SMS in Lamplight](20.2_Comms_sms_step2.png)
+
+3. On the Communications Type tab, fill in the time and work area as usual
+
+![Using SMS in Lamplight](20.2_Comms_sms_step3.png)
+
+4. When you get to the 'Type' list, select SMS text message 
+
+This will also show you how many text credits are left on the account
+   
+![Using SMS in Lamplight](20.2_Comms_sms_step4b.png)
+
+5. Enter Reply-to information
+
+This can be either the a phone number or an email address which replies will be forwarded to. If you enter an email, you will be debited a text credit for each 160-character reply. 
+
+If you want to send a text with no reply option, keep the default 'No reply'
+
+![Using SMS in Lamplight](20.2_Comms_sms_step5.png)
+
+6. Chose when to send the SMS message
+
+Sending 'now' will mean it goes as soon as you press 'create/send'. Sending 'at the time and date specified above' will mean the message will send at the 'time from' that was entered at the top of the page 
+
+![Using SMS in Lamplight](20.2_Comms_sms_step6.png)
+
+7. Click on Next to navigate through the tabs 
+
+Complete the other tabs as usual
+
+![Using SMS in Lamplight](20.2_Comms_sms_step7.png)
+
+8. Recipients 
+
+The message will only send to those who have a mobile number recorded in their profile and who allow contact by mobile phone 
+
+![Using SMS in Lamplight](20.2_Comms_sms_step8.png)
+
+9. Message content
+
+Add your message details. A character count will use under the text box. Your Global Settings may be set to cut off the message at 160 characters, so bare this in mind
+
+![Using SMS in Lamplight](20.2_Comms_sms_step9.png)
+
+10. When you're happy with your message, click create / send
+
+![Using SMS in Lamplight](20.2_Comms_sms_step10.png)
+
+
+
+You will also have the option to test send or save the message but don't send it
