@@ -1,0 +1,44 @@
+# 108.1 Merging Duplicate Profiles
+
+**Every {{person}} or {{org}} should only have one profile in {{Lamplight}}. If you find you have duplicates these can be merged by a System (or {{Project}} Administrator**
+
+To Merge Profiles:
+
+1. Click on your initials in the top right hand corner then click on System Admin
+
+![System Admin](108.1_im_1.png)
+
+2. Click on 'Find and merge duplicate profiles' in the Data Managaement Section
+
+![Find and merger duplicate profiles link](108.1_im_2.png)
+
+3. On this page you can choose what criteria you use to find duplicates, whether it's all or part of a profile name or address. Choose how you wish to search for duplicates
+
+![Search for Duplicates By](108.1_im_3.png)
+
+4. Once the system has searched for profiles, all possible duplicates using the criteria you selected are listed in the destination profile drop down. Select the profile you wish to keep (Desination profile - always on the left hand side) and the profile you wish to merge (Source profile - which will be archived once merged) The data that you see on the left-hand side of the screen once when you are merging sections is the data that will ultimately be kept in the profile for that person.
+
+![Duplicate Profiles](108.1_im_4.png)
+
+5.  Once you've selected the profiles to merge, you will see sections for different types of information. At the bottom of each of these you will be asked what information you want to keep.  
+
+![Information to Keep](108.1_im_5.png)
+
+    - Discard source data. {{Lamplight}} will not merge the data, simply discard anything that appears in the right-hand column.
+    - Overwrite destination with source data. {{Lamplight}} will populate the left-hand column with information from the right, so any information saved in the left-hand column will be lost. This includes where a field has been filled in in the left-hand column but not on the right. It will become an empty field.
+    - Copy source to destination; on conflict keep newest. Information from the right-hand column will be used to populate the left-hand column. Where there is already information in the column on the left, {{Lamplight}} will use whichever data was entered most recently.
+    - Only copy source data where the destination is empty. {{Lamplight}} will use data from the right-hand column to populate the left-hand one, but only where there is no data already entered.
+    - Combine data from the two profiles. It is only possible to choose this option for sections where you can add to information rather than replacing it, for example relationships or {{activity}} records. This will create one list from the entries of both left-hand and right-hand columns.
+
+6. When you have made your selection click on the 'Merge this section now' button.
+
+![Duplicate Profiles - merge sections](108.1_im_5.png)
+
+7. Once each section has been merged at the bottom click on 'Archive the source profile'.
+
+![Archive Source Profiles](108.1_im_6.png)
+
+
+
+
+###### core module
