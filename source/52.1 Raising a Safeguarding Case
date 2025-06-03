@@ -49,7 +49,7 @@ The table has the following columns:
 • ID - this is the profile ID of the profile added to the table, for more information on ID's in {{Lamplight}} see [114.1 Global Settings: Profiles and Organisations] (/help/index/p/114.1) in the 'Showing Relationships in the Main Menu' section
 • Name - this is the name of the profile added to the table
 • ID - this is the profile ID of the linked profile, NEED TO FIND LINK EXPLAINING LINKED PROFILES
-• Linked profile name - this is the name of the linked profile
+• Linked profile name - this is the name of the default contact for this profile, for more information on this see [114.1 Global Settings: Profiles and Organisations] (/help/index/p/114.1). This column might not appear in your table as your system admin can turn this functionality off. 
 • Attendance role - different attendance roles can be assigned to those involved in the {{safeguarding case}}, for more information on this see [138 Safeguarding Module Setup] (/help/index/p/138)
 • Involvement notes - this allows you to add notes about the profile's involvement in the {{safeguarding case}}. This can be done by clicking on the box and adding text.
 ![52.1 Raising a {{Safeguarding Case}} - step 12](52.1_Raising_a_Safeguarding_Case_im_12v2.png)
