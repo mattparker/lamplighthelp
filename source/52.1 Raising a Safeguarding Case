@@ -2,8 +2,7 @@
 
 > Any system operator may raise a {{safeguarding case}}. Go to the main menu > {{Activity}} > {{Safeguarding}} box > raise a {{safeguarding case}}
 
-Any operator may raise a {{safeguarding case}} about someone. When they do {{safeguarding}} managers will be notified by email and will take
-forward the {{safeguarding case}}. 
+Any operator may raise a {{safeguarding case}} about someone. When they do {{safeguarding}} managers will be notified by email and will take forward the {{safeguarding case}}. 
 
 **To raise a {{safeguarding case}}:**
 
@@ -40,8 +39,7 @@ correct person
 3. Enter full details of your {{safeguarding case}} into the {{safeguarding case}} details box. This can also include images which can be pasted into the box
 ![52.1 Raising a {{Safeguarding Case}} - step 10](52.1_Raising_a_Safeguarding_Case_im_10.png)
 
-4. If other people or organisations are involved in any way you add them using the 'Any others involved' box. If you start typing their name a drop down list will be shown. Select the
-correct name. Once selected their name will appear in the table below. You can add as many people or organisations as required.
+4. If other people or organisations are involved in any way add them using the 'Any others involved' box. If you start typing their name a drop down list will be shown. Select the correct name. Once selected their name will appear in the table below. You can add as many people or organisations as required.
 ![52.1 Raising a {{Safeguarding Case}} - step 11](52.1_Raising_a_Safeguarding_Case_im_11.png)
 
 The table has the following columns:
@@ -49,33 +47,29 @@ The table has the following columns:
 • ID - this is the profile ID of the profile added to the table, for more information on ID's in {{Lamplight}} see [114.1 Global Settings: Profiles and Organisations] (/help/index/p/114.1) in the 'Showing Relationships in the Main Menu' section
 • Name - this is the name of the profile added to the table
 • ID - this is the profile ID of the linked profile, NEED TO FIND LINK EXPLAINING LINKED PROFILES
-• Linked profile name - this is the name of the default contact for this profile, for more information on this see [114.1 Global Settings: Profiles and Organisations] (/help/index/p/114.1). This column might not appear in your table as your system admin can turn this functionality off. 
+• Linked profile name - this is the name of the linked profile, for more information on linked profiles in {{Lamplight}} see [114.1 Global Settings: Profiles and Organisations] (/help/index/p/114.1). This column might not appear in your table as your system admin can turn this functionality off
 • Attendance role - different attendance roles can be assigned to those involved in the {{safeguarding case}}, for more information on this see [138 Safeguarding Module Setup] (/help/index/p/138)
 • Involvement notes - this allows you to add notes about the profile's involvement in the {{safeguarding case}}. This can be done by clicking on the box and adding text.
 ![52.1 Raising a {{Safeguarding Case}} - step 12](52.1_Raising_a_Safeguarding_Case_im_12v2.png)
 
-You can see that in the above image of the table some of the columns do not contain any information. This might also happen in your table as it is dependent on the information in your system. If you do not want empty columns visible in the table they can be hidden, for more information on this see [24.4 Resizing and Selecting Columns] (/help/index/p/24.4) in the 'Selecting Columns to View' section. 
+You can see that in the above image of the table some of the columns do not contain any information. This might also happen in your table as it is dependent on the information in your system. If you do not want empty columns visible in the table they can be hidden, for more information on how to do this see [24.4 Resizing and Selecting Columns] (/help/index/p/24.4) in the 'Selecting Columns to View' section. 
 
 5. Add any further notes if necessary in the 'Others involved in the Safeguarding case - further details' box
 ![52.1 Raising a {{Safeguarding Case}} - step 13](52.1_Raising_a_Safeguarding_Case_im_13.png)
 
-6. Select who should be notified of your concern using the dropdown 'Who to notify of new concern'. The default for your organisation will appear first
-but you can select a particular individual if appropriate
+6. Select who should be notified of your concern using the dropdown 'Who to notify of new concern'. The default for your organisation will appear first but you can select a particular individual if appropriate
 ![52.1 Raising a {{Safeguarding Case}} - step 14](52.1_Raising_a_Safeguarding_Case_im_14.png)
 
 7. Complete any additional fields. Your system administrator can add fields specific to your organisation and they should be completed as required. This may include {{workarea}} and {{location}} fields as in {{activity}} records
 
-8. Check over the information you have entered. Once the information has been saved it cannot be edited, although you and others can add to it.
+8. Check over the information you have entered. Once the information has been saved it cannot be edited, although you and others can add comments to it
 
-9. Click 'Save' when you are ready at the bottom of the {{safeguarding case}}. 
+9. Click 'Save' when you are ready to. This button is at the bottom of the {{safeguarding case}}
 ![52.1 Raising a {{Safeguarding Case}} - step 15](52.1_Raising_a_Safeguarding_Case_im_15.png)
 
-When you save your {{safeguarding case}} the {{safeguarding}} managers in your organisation will automatically receive an email notifying them of the
-{{safeguarding case}}.
+When you save your {{safeguarding case}} the {{safeguarding}} managers in your organisation will automatically receive an email notifying them of the {{safeguarding case}}.
 
-Depending on your organisation settings, once you have saved the {{safeguarding case}} you may either see very limited information - really 
-just dates - or you may see full information and a series of Actions that are available. If you do see these actions it means
-that you have automatically be assigned as a {{safeguarding lead contact}}. The actions are described in [52.2.3 Proceeding with a Safeguarding Case - Actions](/help/p/52.2.3).
+Depending on your organisation settings, once you have saved the {{safeguarding case}} you may either see very limited information - really just dates - or you may see full information and a series of Actions that are available. If you do see these actions it means that you have automatically be assigned as a {{safeguarding lead contact}}. The actions are described in [52.2.3 Proceeding with a Safeguarding Case - Actions](/help/p/52.2.3).
 
 
 ###### safeguarding module
