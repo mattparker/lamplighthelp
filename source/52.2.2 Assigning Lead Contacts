@@ -1,0 +1,55 @@
+# 52.2.2 Assigning Lead Contacts
+
+> {{Safeguarding}} Managers need to assign {{safeguarding lead contact}}s to a {{safeguarding case}}. They can assign any member of staff to the {{safeguarding case}} and then that person will have full access to the {{safeguarding case}}.
+
+When a new {{safeguarding case}} has been raised the first thing that needs to happen is for a {{safeguarding}} manager to review the
+{{safeguarding case}} and assign one or more {{safeguarding lead contact}}s to it. {{Safeguarding lead contact}}s may be any database operator, including the
+{{safeguarding}} manager. They do need a valid email address on their profile to receive notifications.
+
+Your system administrator may have set Lamplight to automatically assign the person raising the {{safeguarding case}} 
+as a {{safeguarding lead contact}}. If so you will see them listed on the concern, but may wish to review this.
+
+Once someone has been assigned they will have full access to the {{safeguarding case}}, and be able to add records to it, see all
+records, and change the status and other aspects of it.
+
+To assign a {{safeguarding lead contact}}:
+
+1. Go to the list of all {{safeguarding case}}s (for more information on how to do this see [52.2.1 Viewing All {{Safeguarding Case}}s](/help/index/p/52.2.1)) 
+![52.2.2 Assigning Lead Contacts - step 1](52.2.1_Viewing_All_Safeguarding_Cases_im_4.png)
+
+2. Find the {{safeguarding case}} you want to assign a {{safeguarding lead contact}} to and click 'View details'
+![52.2.2 Assigning Lead Contacts - step 2](52.2.2_Assigning_Lead_Contacts_im_1.png)
+
+3. Scroll down to the 'Actions' section of the {{safeguarding case}} and select the name of the {{safeguarding lead contact}} from the 'Assign Lead contact' dropdown list 
+![52.2.2 Assigning Lead Contacts - step 3](52.2.2_Assigning_Lead_Contacts_im_2.png)
+
+4. Click ‘assign’
+![52.2.2 Assigning Lead Contacts - step 4](52.2.2_Assigning_Lead_Contacts_im_3.png)
+
+5. You will see that their name is now listed in the main information panel of the {{safeguarding case}}
+![52.2.2 Assigning Lead Contacts - step 5](52.2.2_Assigning_Lead_Contacts_im_4.png)
+
+6. You will also see that the status of the {{safeguarding case}} has been automatically updated to 'Internal fact gathering'
+![52.2.2 Assigning Lead Contacts - step 6](52.2.2_Assigning_Lead_Contacts_im_5.png)
+
+Now that the {{safeguarding lead contact}} has been assigned the available actions have changed. These are covered in 
+[52.2.3 Proceeding with a Safeguarding Case - Actions](/help/index/p/52.2.3).
+
+If you need to assign additional {{safeguarding lead contact}}s you can do so now or at any time by simply repeating the process. 
+
+It is also possible to remove {{safeguarding lead contact}}s. To do this:
+
+1. Open the {{safeguarding case}} you want to remove the {{safeguarding lead contact}} from (as in steps 1 and 2 for assigning a {{safeguarding lead contact}})
+
+2. Scroll down to the 'Actions' section of the {{safeguarding case}} and select the name of the {{safeguarding lead contact}} you want to remove from the 'Remove Lead contact' dropdown list 
+![52.2.2 Removing Lead Contacts - step 1](52.2.2_Assigning_Lead_Contacts_im_6.png)
+
+3. Click 'remove'
+![52.2.2 Removing Lead Contacts - step 2](52.2.2_Assigning_Lead_Contacts_im_7.png)
+
+It may be that on reviewing the {{safeguarding case}} you judge that no further action is required. In this case you need not assign
+a {{safeguarding lead contact}}, or you could assign yourself. In this case we suggest that you document your reasons for your decision and
+update the status of the {{safeguarding case}} to closed. For information on how to update the status see [52.2.3 Proceeding with a Safeguarding Case - Actions](/help/index/p/52.2.3).
+
+
+###### safeguarding module
