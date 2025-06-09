@@ -148,24 +148,48 @@ Note that if you are not a {{Safeguarding}} Manager or a {{safeguarding lead con
 the information available to you may be quite limited. You may need to speak to a {{Safeguarding}} Manager or the relevant 
 {{safeguarding lead contact}} in this situation.
 
-******UP TO HERE*******
 
 ### <i class="fas fa-file-alt"></i> Notes
 
+
 Notes are detailed records of your work on the {{safeguarding case}}. They can be added by the {{safeguarding lead contact}} or by a {{Safeguarding}} 
-Manager. To add a case note click the button in the main action panel.
+Manager. To add a {{safeguarding}} note:
 
-This will take you to a screen similar to adding work or other {{activity}} records. As with them, select the {{workarea}},
-location if relevant, and, if others were involved, their names in the involving tab. Full text notes can then be added
-in the details tab.
+1. Scroll down to the 'Add {{safeguarding}} note' box
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 22](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_22.png)
 
-If you have the media module on your system you can add files to case notes. If you do so, the contents of the files
-won’t be visible directly in the main concern detail screen, and nor will they be when you print the concern details.
-This may influence whether you attach the file or include the content in the text fields of the Note.
+2. Click the 'Add Note' button
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 23](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_23.png)
 
-When you click save you will return to the main concern detail screen, with the Note you have just created at the
-bottom of the listing, as records are shown in date order of when they were added.
+3. This will take you to a screen similar to adding work or other {{activity}} records. As with work or other {{activity}} records
+you will notice there are multiple pages to complete. These are:
+  
+    • 'When and where' - you will need to select the relevant date/time for the 'Date information collected' and 
+    'Date information recorded' fields (please note that if you do not change these they will default to the current date/time), the {{workarea}} and, if relevant, the location
+    ![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 24](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_24.png)
 
+    • 'Attendance' - you will need to add people or organisations that are relevant to this note using the search bar, for instance if it is a record of a meeting
+    ![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 25](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_25.png)
+
+    • 'Details' - you will need to add full text notes 
+    ![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 26](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_26.png)
+
+    • 'Media' - if you have the {{media module}} you can also upload any files that are relevant by clicking the 'Choose file' button. Please 
+    note if you do add files to the {{safeguarding}} note the contents of the files won’t be visible directly in the {{safeguarding}} case detail screen and nor will they 
+    be when you print the {{safeguarding}} case details. This may influence whether you attach the file or include the content in the text fields of the {{safeguarding}} note
+    ![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 27](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_27.png)
+
+4. Once all of the relevant information has been entered click the 'Save & view record' button in the right-hand top corner or the 'Save' button at the bottom of the note
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 28](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_28.png)
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 29](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_29.png)
+
+5. If you are unable to save and have a button that says 'Can't save yet' you will need to select a {{workarea}} before you can save
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 30](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_30.png)
+
+6. Once saved you will return to the main {{safeguarding case}} detail screen 
+
+7. If you scroll down the {{safeguarding case}} to the 'Case Notes and Actions' section you will see the {{safeguarding}} note you have just created 
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 31](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_31.png)
 
 ### <i class="fas fa-comment-alt"> </i> Comments
 
