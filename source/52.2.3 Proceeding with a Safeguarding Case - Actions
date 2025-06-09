@@ -191,41 +191,86 @@ you will notice there are multiple pages to complete. These are:
 7. If you scroll down the {{safeguarding case}} to the 'Case Notes and Actions' section you will see the {{safeguarding}} note you have just created 
 ![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 31](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_31.png)
 
+
 ### <i class="fas fa-comment-alt"> </i> Comments
 
-Comments can be made throughout the processing of a {{safeguarding case}}.  They are simple text notes that add
-snippets of information to the investigation.  Comments can be made on particular notes within the investigation, on or 
-the concern overall.
 
-To add a comment to the concern, type your text in the main action panel and click save. You will see the comment in the
-main timeline.
+Comments can be made throughout the processing of a {{safeguarding case}}. They are simple text notes that add
+snippets of information to the investigation. Comments can be made on the {{safeguarding case}} overall or on 
+particular {{safeguarding}} notes within the {{safeguarding case}}.
 
-To add a comment to an existing Note, type your text in the box that immediately follows the note details.
+To add a comment to the {{safeguarding case}}:
 
-We see Notes as the detailed records of a {{safeguarding case}}, and Comments as post-its or scribbles in the margin.
+1. Scroll down to the 'Add Comment' box
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 32](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_32.png)
+
+2. Type your text in the box
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 33](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_33.png)
+
+3. Click 'save'
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 34](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_34.png)
+
+4. This comment will now be visible in the 'Case Notes and Actions' section
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 35](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_35.png)
 
 
-### <i class="fas fa-comment-medical"></i> Shared text
+To add a comment to an existing {{safeguarding}} note:
 
-It may be necessary to provide some information to the rest of your organisation about the {{safeguarding case}} that has been raised,
-without providing full details. To do this, you can add text in the 'Add Shared Details for the team' box. 
-When you do this, the date of the incident and text you have entered will be shown in the profile header area when viewing that profile.
+1. Scroll down to the 'Case Notes and Actions' section of the {{safeguarding case}}
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 36](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_37.png)
 
-In a multiple {{project}} system, you can choose whether the text is visible in all {{project}}s that the profile is visible in,
-or just the current one. Set this by ticking the checkbox below the comment text.
+2. Type your text in the box that immediately follows the {{safeguarding}} note details under the heading 'Add Comment'
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 37](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_38.png)
 
-To change the shared text for a {{safeguarding case}}, simply type the new text into the text box and save it. This will update the text. A
-record of the changes is shown in the {{safeguarding case}} timeline.
+3. Click 'save'
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 38](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_39.png)
+
+4. This comment will now be visible in the 'Case Notes and Actions' section underneath the details of the {{safeguarding}} note the comment was added to
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 39](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_40.png)
+
+We see {{safeguarding}} notes as the detailed records of a {{safeguarding case}} and comments as post-its or scribbles in the margin.
+
+
+### <i class="fas fa-comment-medical"></i> Shared Details
+
+It may be necessary to provide some information to the rest of your organisation about the {{safeguarding case}} that has been raised
+without providing full details. To do this:
+
+1. Scroll down to the 'Add Shared Details for the team' box
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 40](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_41.png)
+
+2. Type your text in the box 
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 41](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_42.png)
+
+3. Click 'save'
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 42](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_43.png)
+
+4. The text you have entered along with the date of the {{safeguarding case}} will now be shown in the profile header area when viewing that profile
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 43](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_44.png)
+
+In a multiple {{project}} system you can choose whether the text is visible in all {{project}}s that the profile is visible in
+or just the current one. Set this by ticking the checkbox below the shared details text box.
+
+To change the shared text for a {{safeguarding case}} simply type the new text into the text box and save it. This will update the text. A
+record of the changes is shown in the {{safeguarding case}} timeline in the 'Case Notes and Actions' section. 
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 44](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_45.png)
+
+If the shared text is not visible in the 'Case Notes and Actions' section you will need to click the 'Toggle message display' button in the 'Utlities' box to make it visible.
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 45](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_46.png)
+
+
+********* UP TO HERE *********
 
 
 ### <i class="fas fa-print"></i> Print
 
+
 A print view of the concern is available that splits the {{safeguarding case}} into sections, and provides the same controls available
-when printing profiles. A new tab will open showing all the details of the {{safeguarding case}}. You can print directly, or to pdf if
+when printing profiles. A new tab will open showing all the details of the {{safeguarding case}}. You can print directly or to pdf if
 needed.
 
 As well as the visual layout, the print view differs in that the "process" elements of the timeline (who did what when)
-are separated from the substance bits - Notes and Comments.
+are separated from the substance bits, for example {{safeguarding}} notes and comments.
 
 
 ### <i class="fas fa-eye-slash"></i> Toggle messages
