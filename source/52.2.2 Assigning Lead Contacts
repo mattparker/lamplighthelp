@@ -9,8 +9,8 @@ When a new {{safeguarding case}} has been raised the first thing that needs to h
 Your system administrator may have set Lamplight to automatically assign the person raising the {{safeguarding case}} 
 as a {{safeguarding lead contact}}. If so you will see them listed on the concern, but may wish to review this.
 
-Once someone has been assigned they will have full access to the {{safeguarding case}}, and be able to add records to it, see all
-records, and change the status and other aspects of it.
+Once someone has been assigned they will have full access to the {{safeguarding case}}, be able to add records to it, see all
+records and change the status and other aspects of it.
 
 To assign a {{safeguarding lead contact}}:
 
@@ -20,7 +20,7 @@ To assign a {{safeguarding lead contact}}:
 2. Find the {{safeguarding case}} you want to assign a {{safeguarding lead contact}} to and click 'View details'
 ![52.2.2 Assigning Lead Contacts - step 2](52.2.2_Assigning_Lead_Contacts_im_1.png)
 
-3. Scroll down to the 'Actions' section of the {{safeguarding case}} and select the name of the {{safeguarding lead contact}} from the 'Assign Lead contact' dropdown list 
+3. Scroll down to the 'Actions' section of the {{safeguarding case}} and select the name of the {{safeguarding lead contact}} from the 'Assign Lead contact' drop down list 
 ![52.2.2 Assigning Lead Contacts - step 3](52.2.2_Assigning_Lead_Contacts_im_2.png)
 
 4. Click ‘assign’
@@ -41,7 +41,7 @@ It is also possible to remove {{safeguarding lead contact}}s. To do this:
 
 1. Open the {{safeguarding case}} you want to remove the {{safeguarding lead contact}} from (as in steps 1 and 2 for assigning a {{safeguarding lead contact}})
 
-2. Scroll down to the 'Actions' section of the {{safeguarding case}} and select the name of the {{safeguarding lead contact}} you want to remove from the 'Remove Lead contact' dropdown list 
+2. Scroll down to the 'Actions' section of the {{safeguarding case}} and select the name of the {{safeguarding lead contact}} you want to remove from the 'Remove Lead contact' drop down list 
 ![52.2.2 Removing Lead Contacts - step 1](52.2.2_Assigning_Lead_Contacts_im_6.png)
 
 3. Click 'remove'
