@@ -259,15 +259,25 @@ If the shared text is not visible in the 'Case Notes and Actions' section you wi
 ![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 45](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_46.png)
 
 
-********* UP TO HERE *********
-
-
 ### <i class="fas fa-print"></i> Print
 
 
-A print view of the concern is available that splits the {{safeguarding case}} into sections, and provides the same controls available
-when printing profiles. A new tab will open showing all the details of the {{safeguarding case}}. You can print directly or to pdf if
-needed.
+A print view of the concern is available that splits the {{safeguarding case}} into sections and provides the same controls available
+when printing profiles. To do this:
+
+1. Scroll down to the 'Utilities' box
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 46](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_47.png)
+
+2. Click the 'Print' button
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 47](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_48.png)
+
+3. This will open a new tab showing all the details of the {{safeguarding case}}
+
+4. You can use the tick boxes in the 'Print menu' in the top right-hand corner of the screen to decide which sections of the {{safeguarding case}}
+you would like to view/print
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 48](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_49.png)
+
+4. You can print directly or to pdf if needed
 
 As well as the visual layout, the print view differs in that the "process" elements of the timeline (who did what when)
 are separated from the substance bits, for example {{safeguarding}} notes and comments.
@@ -275,67 +285,197 @@ are separated from the substance bits, for example {{safeguarding}} notes and co
 
 ### <i class="fas fa-eye-slash"></i> Toggle messages
 
+
 As a {{safeguarding case}} proceeds the number of messages in the timeline will grow. If you need to hide them temporarily
-to view the substance of Comments and Notes, click the 'Toggle messages button'. System messages, about changes to the
-{{safeguarding case}}, are temporarily hidden. Click the button again to view them.
+to view the substance of comments and notes you can do this in the following way:
+
+1. Scroll down to the 'Utilities' box
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 49](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_50.png)
+
+2. Click the 'Toggle message display' button
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 50](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_51.png)
+
+3. This will hide system messages about changes to the {{safeguarding case}} in the 'Case Notes and Actions' section, such as changes to the severity or status 
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 51](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_52.png)
+
+4. Click the button again to view them
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 52](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_53.png)
 
 Your system administrator can change whether these messages are initially displayed in a {{safeguarding case}}.
 
+
 ### <i class="fas fa-link"></i> Copy URL
 
-Click this to copy the URL (web address) of the current {{safeguarding case}} to your clipboard so you can paste
-it as a reference elsewhere. (Ctrl-v is keyboard shortcut for paste).
+You can also copy the URL (web address) of the {{safeguarding case}} to your clipboard so you can paste
+it as a reference elsewhere. To do this:
+
+1. 1. Scroll down to the 'Utilities' box
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 53](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_50.png)
+
+2. Click the 'Copy URL' button
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 54](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_54.png)
+
+3. The URL of the {{safeguarding case}} is now copied to the clipboard and can be pasted using ctrl-v on your keyboard
+
 
 ### <i class="fas fa-edit"></i> Edit other information
 
-Some custom fields may be editable, depending on the settings for any custom
-fields you have set up and the current status of the {{safeguarding case}}. 
-To make any changes, click the 'edit custom fields' button. An edit form will open showing any fields that may be changed.
 
-All changes to these fields are logged within the concern timeline.
+Some custom fields may be editable. This depends on the settings and custom fields your system admin has set up and the current status 
+of the {{safeguarding case}}. To edit these custom fields:
+
+1. Scroll down to the 'Edit {{safeguarding case}} additional data'
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 55](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_55.png)
+
+2. Click the 'Edit custom fields' button
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 56](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_56.png)
+
+3. This will open a new page with the fields you can edit
+
+4. Once you have edited the relevant fields, click the 'save' button
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 57](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_57.png)
+
+5. All changes to these fields are logged in the 'Case Notes and Actions' section of the {{safeguarding case}} 
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 58](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_58.png)
 
 
 ### <i class="far fa-envelope"></i> Notify a colleague
 
-If you need to involve a colleague in a {{safeguarding case}} you can notify them about it as an action. Lamplight will send
-them an email with your message and a link to the {{safeguarding case}}. This will also be logged within the {{safeguarding case}}.
+If you need to involve a colleague in a {{safeguarding case}} you can notify them about it as an action in the 
+{{safeguarding case}}. To do this:
+
+1. Scroll down to the 'Notify a colleague' box
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 59](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_59.png)
+
+2. Select the colleague you would like to notify from the drop down list
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 60](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_60.png)
+
+3. Write your message in the text box
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 61](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_61.png)
+
+4. Click the 'email' button
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 62](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_62.png)
+
+5. {{Lamplight}} will send the selected colleague an email with your message and a link to the {{safeguarding case}}
+
+6. It will also be logged within the {{safeguarding case}} in the 'Case Notes and Actions' section
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 63](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_63.png)
 
 
 ### <i class="fas fa-pen-fancy"></i> Set to Sign off
 
-You may require a {{safeguarding}} Manager to sign off a concern before it is closed. To assign it to a {{Safeguarding}} 
-manager, change the status and click save. {{Safeguarding}} managers will receive an email notification asking them to review
-and close the concern.
 
-You will now see that most actions are locked to {{safeguarding lead contact}}s. A {{Safeguarding}} Manager will now need to review the
-concern and sign it off.
+You may require a {{Safeguarding}} Manager to sign off a {{safeguarding case}} before it is closed. To do this:
+
+1. Change the {{safeguarding}} status to 'Requires Sign-Off' (following the steps for changing the status as outlined above)
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 64](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_64.png)
+
+2. Click 'change status' 
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 65](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_65.png)
+
+3. {{Safeguarding}} Managers will receive an email notification asking them to review and close the {{safeguarding case}}
+
+4. You will now see that most actions are locked to {{safeguarding lead contact}}s
+
+5. A {{Safeguarding}} Manager will now need to review the {{safeguarding case}} and sign it off (following the steps below)
+
 
 ### <i class="fas fa-pen-fancy"></i> Sign off
 
-A {{Safeguarding}} Manager will see the 'Sign Off' action. To do so, add any final text the {{Safeguarding}} Manager wants to add
-and click the save button. This will add the final comment and change the status of the {{safeguarding case}} to 'Signed off'. Only 
-{{Safeguarding}}  Managers can sign off a {{safeguarding case}}.
+
+A {{Safeguarding}} Manager will now need to sign the {{safeguarding case}} off. To do this the {{Safeguarding}} Manager will need to:
+
+1. Scroll down to the 'Final comment on sign off' box
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 66](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_66.png)
+
+2. Add any final text to the text box
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 67](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_67.png)
+
+3. Click the 'save' button
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 68](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_68.png)
+
+4. This will add the final comment and change the status of the {{safeguarding case}} to 'Signed off'
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 69](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_69.png)
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 70](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_70.png)
+
+Note only {{Safeguarding}} Managers can sign off a {{safeguarding case}}.
 
 
 ### <i class="far fa-file-alt"></i> Add Final Report
 
-When a {{safeguarding case}} has reached 'Signed off' status, you may wish to add a Final Report. This is a review of the {{safeguarding case}}, any lessons
-learned, or actions required for the organisation to improve your practice in the future. 
-To add a Final Report click the 'Add Final Report' button and complete the details as needed.
 
-These records can be viewed alongside others from other {{safeguarding case}}s. They should not include detailed information about the
-{{safeguarding case}} itself, but be focused on the process and any wider issues that the {{safeguarding case}} raised.
+When a {{safeguarding case}} has reached 'Signed off' status you may wish to add a Final Report. This is a review of 
+the {{safeguarding case}}, any lessons learned, or actions required for the organisation to improve its practice in the future. 
+To add a Final Report:
 
-### Closing a {{safeguarding case}}
+1. Scroll down to the 'Add {{safeguarding}} final report' box
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 71](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_71.png)
 
-To close a {{safeguarding case}}, simply update the status to Closed.
+2. Click the 'Add Final Report' button
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 72](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_72.png)
+
+3. This will open a screen similar to that of the {{safeguarding}} note, complete the details as needed
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 73](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_73.png)
+
+4. Once all of the relevant information has been entered click the 'Save & view record' button in the right-hand top corner or the 'Save' button at the bottom of the report
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 74](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_74.png)
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 75](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_75.png)
+
+5. This report can be viewed in the 'Case Notes and Actions' section of the {{safeguarding case}}
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 76](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_76.png)
+
+These reports can also be viewed alongside other reports from other {{safeguarding case}}s. They should not include detailed information about the
+{{safeguarding case}} itself but be focused on the process and any wider issues that the {{safeguarding case}} raised. To view all
+final reports of {{safeguarding case}}s:
+
+1. Click on {{Activity}} on the main menu
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 77](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_77.png)
+
+2. In the {{Safeguarding}} box click '{{safeguarding}} final reports'
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 78](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_78.png)
+
+3. This will take you to a page with a table of all of the {{safeguarding}} final report and their details
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 79](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_79.png)
+
+4. If you click on the date of the {{safeguarding}} final report it will open the {{safeguarding}} final report so you can view the full details of it
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 80](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_80.png)
+
 
 ### <i class="fas fa-question-circle"></i> Change closure outcome of {{safeguarding case}}
 
-There are built-in facility to record the final outcome of a {{safeguarding case}} from a drop down list. Your
-system administrator will set these up if they are required.
+There is built-in functionality to record the final outcome of a {{safeguarding case}} from a drop down list. Your
+system administrator will add the options for the final outcome drop down list if they are required. You must select this
+before closing the {{safeguarding case}}. To do this:
+
+1. Scroll down to the 'Change closure outcome of {{safeguarding case}}' box
+
+2. Select the relevant closure outcome from the drop down list
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 81](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_84.png)
+
+3. Click the 'change closure outcome' button
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 82](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_85.png)
+
+
+### Closing a {{safeguarding case}}
+
+
+To close a {{safeguarding case}}:
+
+1. Scroll down to the 'Change Status of {{Safeguarding case}}' box
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 83](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_81.png)
+
+2. Select 'Closed' from the drop down list
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 84](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_82.png)
+
+3. Click 'change status'
+![52.2.3 Proceeding with a {{Safeguarding Case}} - Actions - step 85](52.2.3_Proceeding_with_a_Safeguarding_Case_-_Actions_im_83.png)
+
+
+***** UP TO HERE ******
+
 
 ### <i class="fas fa-archive"></i> Archiving a {{safeguarding case}}
+
 
 If a {{safeguarding case}} has been raised in genuine error then you may wish to archive it.
 There is space to add a comment explaining why (for example two were created, or it was linked to the wrong profile).
