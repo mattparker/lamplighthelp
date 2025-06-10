@@ -1,0 +1,26 @@
+# 52.4 Operator Permissions to {{Safeguarding Cases}}
+
+> Access to full details about a {{safeguarding case}} is only available to {{Safeguarding}} Managers or {{Safeguarding lead contact}}s. Others see limited data.
+
+{{Safeguarding}} Managers can see full information and make any changes to all {{safeguarding case}}s. We would generally recommend that a
+manager assign themselves as a {{safeguarding lead contact}} if they are going to take responsibility for and make changes to
+a {{safeguarding case}}.
+
+{{Safeguarding lead contact}}s are assigned to particular {{safeguarding case}}s. A {{safeguarding lead contact}} may be 
+any database operator. A {{Safeguarding lead contact}} of a {{safeguarding case}} can see full information and make almost
+any changes to that {{safeguarding case}}. For more information on how to assign {{safeguarding lead contact}}s see
+[52.2.3 Proceeding with a {{Safeguarding Case}} - Actions](/help/index/p/52.2.3).
+
+Other staff can see a very limited summary of all {{safeguarding case}}s and are not able to make any changes or add any 
+information to {{safeguarding case}}s. They will be able to see:
+
+1. The dates 
+
+2. The status
+
+3. Any shared details added to the {{safeguarding case}} by a {{Safeguarding lead contact}} (for more information on this see
+[52.2.3 Proceeding with a {{Safeguarding Case}} - Actions](/help/index/p/52.2.3).
+![52.4 Operator Permissions to {{Safeguarding Case}}s - step 1](52.4_Operator_Permissions_to_Safeguarding_Cases_im_1.png)
+
+
+###### safeguarding module
