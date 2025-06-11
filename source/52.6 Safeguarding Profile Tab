@@ -1,0 +1,25 @@
+# 52.6 {{Safeguarding}} Profile Tab
+
+> The {{safeguarding}} profile tab is in an individual's profile and is where you can view the {{safeguarding case}}s raised for them.
+
+To view the {{safeguarding}} profile tab:
+
+1. Go to the profile you would like to view (for more information on how to find a profile see [4.1 Using the Search Function](/help/index/p/4.1))
+
+2. Click on the '{{Safeguarding case}}' tab
+
+3. If you do not have the '{{Safeguarding case}}' tab your system admins may need to set it up to be visible in system admin (for
+more information on how to do this see [103 Creating and Editing Operator templates](/help/index/p/103))
+
+**** UP TO HERE ****
+
+4. The tab shows a brief summary of each {{safeguarding case}} in table format. Click on the date of the 
+{{safeguarding case}} to view the full detail screen.
+
+The amount of information you can see in this view is limited, and depends on whether you are a {{Safeguarding}} Manager,
+{{safeguarding lead contact}}, or regular operator.
+
+If information has been shared about a concern, all staff will be able to see that information at the top of the profile.
+It appears just below the name.
+
+###### safeguarding module
