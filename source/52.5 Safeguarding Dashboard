@@ -1,0 +1,38 @@
+# 52.5 {{Safeguarding}} Dashboard
+
+> The dashboard view is only available to {{Safeguarding}} Managers and gives an overview of current {{safeguarding case}}s. 
+
+To view the dashboard:
+
+1. Go to {{activity}} 
+![52.5 {{Safeguarding}} Dashboard - step 1](52.5_Safeguarding_Dashboard_im_1.png)
+
+2. Scroll down to the {{Safeguarding}} box
+![52.5 {{Safeguarding}} Dashboard - step 2](52.5_Safeguarding_Dashboard_im_2.png)
+
+3. Click on 'dashboard'  
+![52.5 {{Safeguarding}} Dashboard - step 3](52.5_Safeguarding_Dashboard_im_3.png)
+
+The dashboard view shows:
+
+1. The number of {{safeguarding case}}s opened recently
+![52.5 {{Safeguarding}} Dashboard - step 4](52.5_Safeguarding_Dashboard_im_4.png)
+
+2. The status and severity of current {{safeguarding case}}s
+![52.5 {{Safeguarding}} Dashboard - step 5](52.5_Safeguarding_Dashboard_im_5.png)
+
+3. Listings of {{safeguarding case}}s that have been under investigation for too long 
+![52.5 {{Safeguarding}} Dashboard - step 6](52.5_Safeguarding_Dashboard_im_6.png)
+
+4. Staff without current DBS checks
+![52.5 {{Safeguarding}} Dashboard - step 7](52.5_Safeguarding_Dashboard_im_7.png)
+
+This view helps managers ensure they stay on top of {{safeguarding case}}s that have been raised and that they are 
+resolved in a timely fashion. The time limits and other parameters used in the dashboard can be set in global settings, for more
+information on this see [138 {{Safeguarding}} Module Setup](/en/help/p/138).
+
+Listings of {{safeguarding case}}s or profiles are clickable and take you to the relevant profile or {{safeguarding case}}.
+![52.5 {{Safeguarding}} Dashboard - step 8](52.5_Safeguarding_Dashboard_im_8.png)
+
+
+###### safeguarding module
