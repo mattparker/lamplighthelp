@@ -5,21 +5,26 @@
 To view the {{safeguarding}} profile tab:
 
 1. Go to the profile you would like to view (for more information on how to find a profile see [4.1 Using the Search Function](/help/index/p/4.1))
+![52.6 {{Safeguarding}} Profile Tab - step 1](52.6_Safeguarding_Profile_Tab_im_1.png)
 
 2. Click on the '{{Safeguarding case}}' tab
+![52.6 {{Safeguarding}} Profile Tab - step 2](52.6_Safeguarding_Profile_Tab_im_2.png)
 
 3. If you do not have the '{{Safeguarding case}}' tab your system admins may need to set it up to be visible in system admin (for
 more information on how to do this see [103 Creating and Editing Operator templates](/help/index/p/103))
 
-**** UP TO HERE ****
+4. The tab shows a brief summary of each {{safeguarding case}} in table format
+![52.6 {{Safeguarding}} Profile Tab - step 3](52.6_Safeguarding_Profile_Tab_im_3.png)
 
-4. The tab shows a brief summary of each {{safeguarding case}} in table format. Click on the date of the 
-{{safeguarding case}} to view the full detail screen.
+5. Click on the text in the 'Summary of concern' column of the {{safeguarding case}} to view the full detail screen
+![52.6 {{Safeguarding}} Profile Tab - step 4](52.6_Safeguarding_Profile_Tab_im_4.png)
 
-The amount of information you can see in this view is limited, and depends on whether you are a {{Safeguarding}} Manager,
-{{safeguarding lead contact}}, or regular operator.
+6. The amount of information you can see in this view is limited, and depends on whether you are a {{Safeguarding}} Manager,
+{{safeguarding lead contact}}, or regular operator
 
-If information has been shared about a concern, all staff will be able to see that information at the top of the profile.
-It appears just below the name.
+If details have been shared about a {{safeguarding case}} using the 'Add Shared Details for the team' section in the 
+{{safeguarding case}} all staff will be able to see that information at the top of the profile, just below the name.
+![52.6 {{Safeguarding}} Profile Tab - step 5](52.6_Safeguarding_Profile_Tab_im_5.png)
+
 
 ###### safeguarding module
