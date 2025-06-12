@@ -1,36 +1,68 @@
-# 52.7 {{Safeguarding Case}} Reports
+# 52.7 {{Safeguarding Case}} {{Report}}s
 
-> {{Safeguarding}} Managers can view and create reports of all {{safeguarding case}}s broken down in various ways.
+> {{Safeguarding}} Managers can view and create {{report}}s of all {{safeguarding case}}s broken down in various ways.
 
-To view and create {{safeguarding}} reports:
+To view and create {{safeguarding}} {{report}}s:
 
-1. Go to 'Reports'
-![52.7 {{Safeguarding Case}} Reports - step 1](52.7_Safeguarding_Case_Reports_im_1.png)
+1. Go to '{{Report}}s'
+![52.7 {{Safeguarding Case}} {{Report}}s - step 1](52.7_Safeguarding_Case_Reports_im_1.png)
 
-2. Click on '{{safeguarding}} report' or scroll down to the '{{Safeguarding}} report' section manually 
-![52.7 {{Safeguarding Case}} Reports - step 2](52.7_Safeguarding_Case_Reports_im_2.png)
+2. Click on '{{safeguarding}} {{report}}' or scroll down to the '{{Safeguarding}} {{report}}' section manually 
+![52.7 {{Safeguarding Case}} {{Report}}s - step 2](52.7_Safeguarding_Case_Reports_im_2.png)
 
-3. Like other reports you have the the option to,
+3. Like other {{report}}s you have the the option to,
 
-    - create a new report using your own critera
-    ![52.7 {{Safeguarding Case}} Reports - step 3](52.7_Safeguarding_Case_Reports_im_3.png)
+    - create a new {{report}} using your own critera
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 3](52.7_Safeguarding_Case_Reports_im_3.png)
 
-    - view an existing report template
-    ![52.7 {{Safeguarding Case}} Reports - step 4](52.7_Safeguarding_Case_Reports_im_4.png)
+    - view an existing {{report}} template
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 4](52.7_Safeguarding_Case_Reports_im_4.png)
 
-    - create a new report template (if you are a system admin)
-    ![52.7 {{Safeguarding Case}} Reports - step 5](52.7_Safeguarding_Case_Reports_im_5.png)
+    - create a new {{report}} template (if you are a system admin)
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 5](52.7_Safeguarding_Case_Reports_im_5.png)
 
-For more information on these three options see [35.1 {{Work}} {{Reports}} Overview](/help/index/p/35.1).
-For more information on how to create report templates see [37 Reporting from Templates](/help/index/p/37).
+For more information on these three options see [35.1 {{Work}} {{Report}}s Overview](/help/index/p/35.1).
+For more information on how to create {{report}} templates see [37 Reporting from Templates](/help/index/p/37).
 
-4. Select the option 'New {{safeguarding}} report using your own criteria'
-![52.7 {{Safeguarding Case}} Reports - step 6](52.7_Safeguarding_Case_Reports_im_6.png)
+4. Select the option 'New {{safeguarding}} {{report}} using your own criteria'
+![52.7 {{Safeguarding Case}} {{Report}}s - step 6](52.7_Safeguarding_Case_Reports_im_6.png)
 
-***** UP TO HERE - go through each tab/option *****
+5. Select the timeframe you would like to report on using the two date fields, you will be able to decide how these date fields
+are handled a little later in the '{{Report}} presention' section (by default the {{report}} will look at the last month to date)
 
+6. Next click on '{{Report}} filters' and select the filters you would like included in your {{report}} 
 
-The report is very like the {{linked case}} report. By default when you run the report you will see each {{safeguarding case}},
+7. Most of the filters are the same as for other reports (see [14.1.1 {{Report}} Filters](/help/index/p/14.1.1))
+
+8. However, there are specific filters for {{safeguarding case}} fields allowing you to filter your {{report}} further. These are:
+
+    - 'Show open or closed {{safeguarding cases}}'
+    - 'Status of {{Safeguarding case}}'
+    - 'Severity rating of {{Safeguarding case}}'
+    - 'Closure outcome of {{safeguarding case}}'
+
+9. There is also an 'Additional fields' section which includes any custom {{safeguarding case}} fields that have been set up in your system
+by your system admins, you may not have any of these
+
+Note, if you do not choose anything from these fields then your {{report}} will return all information. It is only when you pick an 
+option that {{Lamplight}} filters the information it returns.
+
+10. Click on '{{Report}} presentation' to choose how to display your data
+
+11. You will see options under ‘How should dates be handled?’ giving you a choice of how the dates you 
+have chosen at the top are used by the {{report}}:
+
+    - Include {{safeguarding case}}s that were open during the period: will include all {{safeguarding case}}s that were open at any point during the date range
+    - Include only {{safeguarding case}}s that were opened during the period: will include any {{safeguarding case}}s that were opened (created) during the date range
+    - Include only {{safeguarding case}}s that were closed during the period: will include any {{safeguarding case}}s that were closed during the date range
+    - Include only {{safeguarding case}}s that were opened and closed during the period: : will include any {{safeguarding case}}s that were both opened and closed during the date range
+
+12. You will also see a field called 'How should rows be grouped'. The options in this drop-down come from your {{safeguarding case}} 
+fields as well as profile information. If you choose one of these {{Lamplight}} will display the information in additional table rows
+
+****** UP TO HERE ******
+
+The {{report}} is very like the {{linked case}} {{report}}. By default when you run the {{report}} you will see each {{safeguarding case}}
 with various summary data about it.  This can be changed in the report presentation tab to show {{safeguarding case}}s grouped
 by status, severity, or other attributes.
 
