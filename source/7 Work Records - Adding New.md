@@ -6,14 +6,14 @@
 
 There are a number places you can go to add {{work}} records to Lamplight 
 
-- from the Activity tab on the main menu
+- from the Activity/Activities tab on the main menu
 - from the diary on the Home tab
 - from a profile
 
  
-**To add a {{Work}} Record from the Activity button:**
+**To add a {{Work}} Record from the Activities button:**
 
-1. Click on Activity in the main menu bar
+1. Click on Activities in the main menu bar
 
 ![7 {{Work}} Records - Adding New - step 1](7_Work_Records_-_Adding_New_im_1.png)
 
