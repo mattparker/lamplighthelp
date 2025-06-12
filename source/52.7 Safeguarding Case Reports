@@ -60,12 +60,37 @@ have chosen at the top are used by the {{report}}:
 12. You will also see a field called 'How should rows be grouped'. The options in this drop-down come from your {{safeguarding case}} 
 fields as well as profile information. If you choose one of these {{Lamplight}} will display the information in additional table rows
 
-****** UP TO HERE ******
+13. To view the {{report}} click the 'run {{report}}' button
 
-The {{report}} is very like the {{linked case}} {{report}}. By default when you run the {{report}} you will see each {{safeguarding case}}
-with various summary data about it.  This can be changed in the report presentation tab to show {{safeguarding case}}s grouped
-by status, severity, or other attributes.
+14. The {{report}} results will display in a table
 
-See [14.6.0 {{Linked case}} report](/help/index/p/14.6.0) for full help about the {{linked case}} report.
+15. If you run your {{report}} grouped by {{safeguarding case}} (this is the default) then each new row will be a 
+{{safeguarding case}} and you will have the following columns in your table:
+
+    - {{Safeguarding case}} ID
+    - {{Safeguarding case}} name
+    - Date {{safeguarding case}} opened
+    - {{Safeguarding case}} open, whether it is currently open
+    - Date {{safeguarding case}} closed
+    - Length of {{safeguarding case}} (weekdays)
+    - Length of {{safeguarding case}} (days)
+    - Summary time, the total time spent on the {{safeguarding case}} in hours (this is the duration of any notes added together)
+    - Number of {{safeguarding case}} notes in period
+
+16. If you run your {{report}} grouped by one of the other {{safeguarding case}} or profile fields in the drop down list, such as 
+severity or gender, you will have the following columns in your table:
+
+    - Number of {{safeguarding case}} notes in period
+    - The field you have chosen to group by, for instance severity or gender
+    - Number of {{safeguarding case}}s open during the period
+    - Number of {{safeguarding case}}s opened during the period
+    - Number of {{safeguarding case}}s still open now
+    - Number of {{safeguarding case}}s that are closed now
+    - Number of {{safeguarding case}}s closed during the period
+    - Total days the {{safeguarding case}}s were open for
+    - Total time spent on records in the {{safeguarding case}}s (all dates), in hours
+    - Total days {{safeguarding case}}s have been dormant
+
+***JUST NEED TO ADD SCREENSHOTS AND READ OVER AND ALSO AMEND BIT ABOUT DATES ONCE BEEN CHANGED TO MATCH CASES***
 
 ###### safeguarding module
