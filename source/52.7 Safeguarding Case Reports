@@ -32,7 +32,7 @@ are handled a little later in the '{{Report}} presention' section (by default th
 
 6. Next click on '{{Report}} filters' and select the filters you would like included in your {{report}} 
 
-7. Most of the filters are the same as for other reports (see [14.1.1 {{Report}} Filters](/help/index/p/14.1.1))
+7. Most of the filters are the same as for other {{report}}s (see [14.1.1 {{Report}} Filters](/help/index/p/14.1.1))
 
 8. However, there are specific filters for {{safeguarding case}} fields allowing you to filter your {{report}} further. These are:
 
@@ -70,11 +70,11 @@ fields as well as profile information. If you choose one of these {{Lamplight}} 
     - {{Safeguarding case}} ID
     - {{Safeguarding case}} name
     - Date {{safeguarding case}} opened
-    - {{Safeguarding case}} open, whether it is currently open
+    - {{Safeguarding case}} open
     - Date {{safeguarding case}} closed
     - Length of {{safeguarding case}} (weekdays)
     - Length of {{safeguarding case}} (days)
-    - Summary time, the total time spent on the {{safeguarding case}} in hours (this is the duration of any notes added together)
+    - Summary time, the total time spent on the {{safeguarding case}} in hours (this is the duration of any records in the {{safeguarding case}})
     - Number of {{safeguarding case}} notes in period
 
 16. If you run your {{report}} grouped by one of the other {{safeguarding case}} or profile fields in the drop down list, such as 
@@ -91,6 +91,6 @@ severity or gender, you will have the following columns in your table:
     - Total time spent on records in the {{safeguarding case}}s (all dates), in hours
     - Total days {{safeguarding case}}s have been dormant
 
-***JUST NEED TO ADD SCREENSHOTS AND READ OVER AND ALSO AMEND BIT ABOUT DATES ONCE BEEN CHANGED TO MATCH CASES***
+***JUST NEED TO ADD SCREENSHOTS***
 
 ###### safeguarding module
