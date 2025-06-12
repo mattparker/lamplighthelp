@@ -5,7 +5,7 @@
 In addition to core {{comm}}s capability, the Communications Module lets you:
 
 - Log all created in {{Lamplight}} in the profiles of the recipients.
-- Send mail-merged and non-mail-merged letters, emails, and mailing labels from any {{group}}, {{{work}} record](/help/index/p/20.1) or profile.
+- Send mail-merged and non-mail-merged letters, emails, and mailing labels from any {{group}}, [{{{work}} record](/help/index/p/20.1) or profile.
 - Use templates to set up standard, mail-merged {{comm}}s.
 - Buy SMS credits to [send text messages directly from Lamplight](/help/index/p/20.2).
 - Use {{Lamplight}} {{group}}s to create Mailchimp mailing lists.
