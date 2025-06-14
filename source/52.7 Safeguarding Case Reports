@@ -29,68 +29,126 @@ For more information on how to create {{report}} templates see [37 Reporting fro
 
 5. Select the timeframe you would like to report on using the two date fields, you will be able to decide how these date fields
 are handled a little later in the '{{Report}} presention' section (by default the {{report}} will look at the last month to date)
+![52.7 {{Safeguarding Case}} {{Report}}s - step 7](52.7_Safeguarding_Case_Reports_im_7.png)
 
 6. Next click on '{{Report}} filters' and select the filters you would like included in your {{report}} 
+![52.7 {{Safeguarding Case}} {{Report}}s - step 8](52.7_Safeguarding_Case_Reports_im_8.png)
 
 7. Most of the filters are the same as for other {{report}}s (see [14.1.1 {{Report}} Filters](/help/index/p/14.1.1))
+![52.7 {{Safeguarding Case}} {{Report}}s - step 9](52.7_Safeguarding_Case_Reports_im_9.png)
 
 8. However, there are specific filters for {{safeguarding case}} fields allowing you to filter your {{report}} further. These are:
 
     - 'Show open or closed {{safeguarding cases}}'
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 10](52.7_Safeguarding_Case_Reports_im_10.png)
+
     - 'Status of {{Safeguarding case}}'
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 11](52.7_Safeguarding_Case_Reports_im_11.png)
+
     - 'Severity rating of {{Safeguarding case}}'
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 12](52.7_Safeguarding_Case_Reports_im_12.png)
+
     - 'Closure outcome of {{safeguarding case}}'
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 13](52.7_Safeguarding_Case_Reports_im_13.png)
 
 9. There is also an 'Additional fields' section which includes any custom {{safeguarding case}} fields that have been set up in your system
 by your system admins, you may not have any of these
+![52.7 {{Safeguarding Case}} {{Report}}s - step 14](52.7_Safeguarding_Case_Reports_im_14.png)
+![52.7 {{Safeguarding Case}} {{Report}}s - step 15](52.7_Safeguarding_Case_Reports_im_15.png)
 
 Note, if you do not choose anything from these fields then your {{report}} will return all information. It is only when you pick an 
 option that {{Lamplight}} filters the information it returns.
 
 10. Click on '{{Report}} presentation' to choose how to display your data
+![52.7 {{Safeguarding Case}} {{Report}}s - step 16](52.7_Safeguarding_Case_Reports_im_16.png)
 
 11. You will see options under ‘How should dates be handled?’ giving you a choice of how the dates you 
 have chosen at the top are used by the {{report}}:
 
     - Include {{safeguarding case}}s that were open during the period: will include all {{safeguarding case}}s that were open at any point during the date range
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 17](52.7_Safeguarding_Case_Reports_im_17.png)
+
     - Include only {{safeguarding case}}s that were opened during the period: will include any {{safeguarding case}}s that were opened (created) during the date range
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 18](52.7_Safeguarding_Case_Reports_im_18.png)
+
     - Include only {{safeguarding case}}s that were closed during the period: will include any {{safeguarding case}}s that were closed during the date range
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 19](52.7_Safeguarding_Case_Reports_im_19.png)
+
     - Include only {{safeguarding case}}s that were opened and closed during the period: : will include any {{safeguarding case}}s that were both opened and closed during the date range
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 20](52.7_Safeguarding_Case_Reports_im_20.png)
 
 12. You will also see a field called 'How should rows be grouped'. The options in this drop-down come from your {{safeguarding case}} 
 fields as well as profile information. If you choose one of these {{Lamplight}} will display the information in additional table rows
+![52.7 {{Safeguarding Case}} {{Report}}s - step 21](52.7_Safeguarding_Case_Reports_im_21.png)
 
 13. To view the {{report}} click the 'run {{report}}' button
+![52.7 {{Safeguarding Case}} {{Report}}s - step 22](52.7_Safeguarding_Case_Reports_im_22.png)
 
 14. The {{report}} results will display in a table
 
 15. If you run your {{report}} grouped by {{safeguarding case}} (this is the default) then each new row will be a 
 {{safeguarding case}} and you will have the following columns in your table:
 
-    - {{Safeguarding case}} ID
-    - {{Safeguarding case}} name
-    - Date {{safeguarding case}} opened
-    - {{Safeguarding case}} open
-    - Date {{safeguarding case}} closed
-    - Length of {{safeguarding case}} (weekdays)
-    - Length of {{safeguarding case}} (days)
-    - Summary time, the total time spent on the {{safeguarding case}} in hours (this is the duration of any records in the {{safeguarding case}})
     - Number of {{safeguarding case}} notes in period
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 23](52.7_Safeguarding_Case_Reports_im_23.png)
+
+    - {{Safeguarding case}} ID
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 24](52.7_Safeguarding_Case_Reports_im_24.png)
+
+    - {{Safeguarding case}} name
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 25](52.7_Safeguarding_Case_Reports_im_25.png)
+
+    - Date {{safeguarding case}} opened
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 26](52.7_Safeguarding_Case_Reports_im_26.png)
+
+    - {{Safeguarding case}} open
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 27(52.7_Safeguarding_Case_Reports_im_27.png)
+
+    - Date {{safeguarding case}} closed
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 28](52.7_Safeguarding_Case_Reports_im_28.png)
+
+    - Length of {{safeguarding case}} (weekdays)
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 29](52.7_Safeguarding_Case_Reports_im_29.png)
+
+    - Length of {{safeguarding case}} (days)
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 30](52.7_Safeguarding_Case_Reports_im_30.png)
+
+    - Summary time, the total time spent on the {{safeguarding case}} in hours (this is the duration of any records in the {{safeguarding case}})
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 31](52.7_Safeguarding_Case_Reports_im_31.png)
 
 16. If you run your {{report}} grouped by one of the other {{safeguarding case}} or profile fields in the drop down list, such as 
 severity or gender, you will have the following columns in your table:
+![52.7 {{Safeguarding Case}} {{Report}}s - step 32](52.7_Safeguarding_Case_Reports_im_32.png)
 
     - Number of {{safeguarding case}} notes in period
-    - The field you have chosen to group by, for instance severity or gender
-    - Number of {{safeguarding case}}s open during the period
-    - Number of {{safeguarding case}}s opened during the period
-    - Number of {{safeguarding case}}s still open now
-    - Number of {{safeguarding case}}s that are closed now
-    - Number of {{safeguarding case}}s closed during the period
-    - Total days the {{safeguarding case}}s were open for
-    - Total time spent on records in the {{safeguarding case}}s (all dates), in hours
-    - Total days {{safeguarding case}}s have been dormant
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 33](52.7_Safeguarding_Case_Reports_im_33.png)
 
-***JUST NEED TO ADD SCREENSHOTS***
+    - The field you have chosen to group by, for instance severity or gender
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 34](52.7_Safeguarding_Case_Reports_im_34.png)
+
+    - Number of {{safeguarding case}}s open during the period
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 35](52.7_Safeguarding_Case_Reports_im_35.png)
+
+    - Number of {{safeguarding case}}s opened during the period
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 36](52.7_Safeguarding_Case_Reports_im_36.png)
+
+    - Number of {{safeguarding case}}s still open now
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 37](52.7_Safeguarding_Case_Reports_im_37.png)
+
+    - Number of {{safeguarding case}}s that are closed now
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 38](52.7_Safeguarding_Case_Reports_im_38.png)
+
+    - Number of {{safeguarding case}}s closed during the period
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 39](52.7_Safeguarding_Case_Reports_im_39.png)
+
+    - Total days the {{safeguarding case}}s were open for
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 40](52.7_Safeguarding_Case_Reports_im_40.png)
+
+    - Total time spent on records in the {{safeguarding case}}s (all dates), in hours
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 41](52.7_Safeguarding_Case_Reports_im_41.png)
+
+    - Total days {{safeguarding case}}s have been dormant
+    ![52.7 {{Safeguarding Case}} {{Report}}s - step 42](52.7_Safeguarding_Case_Reports_im_42.png)
+
 
 ###### safeguarding module
