@@ -7,7 +7,7 @@ The application and results of DBS checks can be recorded in individual profiles
 1. The profile is the correct type 
 ![52.8 DBS Check Recording - step 1](52.8_DBS_Check_Recording_im_1.png)
 
-2. That your system admins have made the DBS profile tab visible in system admin (for more information on how to do this see [103 Creating and Editing Operator templates](/help/index/p/103))
+2. Your system admins have made the DBS profile tab visible in system admin (for more information on how to do this see [103 Creating and Editing Operator templates](/help/index/p/103))
 ![52.8 DBS Check Recording - step 2](52.8_DBS_Check_Recording_im_2.png)
 
 In the profile tab you will see a listing of all DBS checks carried out. To add a new one:
@@ -15,13 +15,31 @@ In the profile tab you will see a listing of all DBS checks carried out. To add 
 1. Click the 'add' button
 ![52.8 DBS Check Recording - step 3](52.8_DBS_Check_Recording_im_3.png)
 
-***** UP TO HERE *****
+2. This will open a page similar to other {{activity}} {{record}}s 
 
-2. Fill in the details that you know, you may complete this initially when applying and then edit it when the results
-are returned
+3. The first tab you come to is 'Check details', you will need to fill in the following details:
 
-3. Click 'save' when you are done
+  - 'Date DBS process started' (if you do not edit this field it will default to the date/time at the point of creating the {{record}})
+  - 'Who is the check for'
+  - 'Status of check'
+  - 'Date DBS check received' (this is a required field and will need to be filled in before the record can be saved)
+  - 'Certificate reference number'
+  - 'Is the DBS check accepted?'
+  - 'Notes on check'
+  - 'Is the check renewable?'
+  - 'Confirm Disclosure has been scanned'
+  - 'Expiry date' - this will be used to create lists of staff with expired DBS checks, for more on this 
+  see [52.5 {{Safeguarding}} Dashboard](/help/index/p/52.5) (if you do not edit this field it will default 
+  to five years from the date at the point of creating the {{record}})
 
+These details do not need to be filled in all at once but rather you should fill in the details that you know. You may complete this 
+initially when applying and then edit it when the results are returned.
+
+4. If you have the {{Media}} Module you will also be able to upload documents using the 'Media' tab
+
+5. Click 'save' when you are done
+
+**** UP TO HERE **** AND PUT IMAGES IN ABOVE (ALREADY SAVED ETC)
 
 To edit an existing record:
 
