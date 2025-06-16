@@ -10,7 +10,7 @@ The application and results of DBS checks can be recorded in individual profiles
 2. Your system admins have made the DBS profile tab visible in system admin (for more information on how to do this see [103 Creating and Editing Operator templates](/help/index/p/103))
 ![52.8 DBS Check Recording - step 2](52.8_DBS_Check_Recording_im_2.png)
 
-In the profile tab you will see a listing of all DBS checks carried out. To add a new one:
+In the profile tab you will see a table listing all the DBS checks carried out. To add a new one:
 
 1. Click the 'add' button
 ![52.8 DBS Check Recording - step 3](52.8_DBS_Check_Recording_im_3.png)
@@ -20,55 +20,139 @@ In the profile tab you will see a listing of all DBS checks carried out. To add 
 3. The first tab you come to is 'Check details', you will need to fill in the following details:
 
   - 'Date DBS process started' (if you do not edit this field it will default to the date/time at the point of creating the {{record}})
+  ![52.8 DBS Check Recording - step 4](52.8_DBS_Check_Recording_im_4.png)
   - 'Who is the check for'
+  ![52.8 DBS Check Recording - step 5](52.8_DBS_Check_Recording_im_5.png)
   - 'Status of check'
+  ![52.8 DBS Check Recording - step 6](52.8_DBS_Check_Recording_im_6.png)
   - 'Date DBS check received' (this is a required field and will need to be filled in before the record can be saved)
+  ![52.8 DBS Check Recording - step 7](52.8_DBS_Check_Recording_im_7.png)
   - 'Certificate reference number'
+  ![52.8 DBS Check Recording - step 8](52.8_DBS_Check_Recording_im_8.png)
   - 'Is the DBS check accepted?'
+  ![52.8 DBS Check Recording - step 9](52.8_DBS_Check_Recording_im_9.png)
   - 'Notes on check'
+  ![52.8 DBS Check Recording - step 10](52.8_DBS_Check_Recording_im_10.png)
   - 'Is the check renewable?'
+  ![52.8 DBS Check Recording - step 11](52.8_DBS_Check_Recording_im_11.png)
   - 'Confirm Disclosure has been scanned'
+  ![52.8 DBS Check Recording - step 12](52.8_DBS_Check_Recording_im_12.png)
   - 'Expiry date' - this will be used to create lists of staff with expired DBS checks, for more on this 
   see [52.5 {{Safeguarding}} Dashboard](/help/index/p/52.5) (if you do not edit this field it will default 
   to five years from the date at the point of creating the {{record}})
+  ![52.8 DBS Check Recording - step 13](52.8_DBS_Check_Recording_im_13.png)
 
 These details do not need to be filled in all at once but rather you should fill in the details that you know. You may complete this 
 initially when applying and then edit it when the results are returned.
 
 4. If you have the {{Media}} Module you will also be able to upload documents using the 'Media' tab
+![52.8 DBS Check Recording - step 14](52.8_DBS_Check_Recording_im_14.png)
 
 5. Click 'save' when you are done
+![52.8 DBS Check Recording - step 15](52.8_DBS_Check_Recording_im_15.png)
 
-**** UP TO HERE **** AND PUT IMAGES IN ABOVE (ALREADY SAVED ETC)
+To edit an existing record in the profile tab:
 
-To edit an existing record:
+1. CLick the context menu (the box with the three lines) or right click on the DBS check you would like to edit
+![52.8 DBS Check Recording - step 16](52.8_DBS_Check_Recording_im_16.png)
 
-1. Right click the DBS check from the profile listing
+2. Select 'Edit {{activity}}' from the popup menu
+![52.8 DBS Check Recording - step 17](52.8_DBS_Check_Recording_im_17.png)
 
-2. Select 'edit' from the popup menu
+3. Make the relevant changes
+
+4. Click save
+![52.8 DBS Check Recording - step 18](52.8_DBS_Check_Recording_im_18.png)
+
 
 ### Who can view DBS records?
 
-{{Safeguarding}} Managers can view all DBS records. You can also assign operators to have access to DBS records without
-providing them with full access to {{safeguarding case}}s.  To do so, edit their database operator profile (admin > 
-system administration > Manage database operators) and tick the 'Give this operator access to DBS records?' box.
+{{Safeguarding}} Managers can view all DBS records. System admins can also assign operators to have access to DBS records without
+providing them with full access to {{safeguarding case}}s.  To do this:
+
+1. Click on your initials in the top right-hand corner of the screen
+![52.8 DBS Check Recording - step 19](52.8_DBS_Check_Recording_im_19.png)
+
+2. Click 'System admin'
+![52.8 DBS Check Recording - step 20](52.8_DBS_Check_Recording_im_20.png)
+
+3. Click 'Manage database operators' in the 'Database Operators And Security' box
+![52.8 DBS Check Recording - step 21](52.8_DBS_Check_Recording_im_21.png)
+
+4. Click the context menu (the box with the three lines) or right click on the operator you would like to give access to
+![52.8 DBS Check Recording - step 22](52.8_DBS_Check_Recording_im_22.png)
+
+5. Click 'Edit operator'
+![52.8 DBS Check Recording - step 23](52.8_DBS_Check_Recording_im_23.png)
+
+6. Tick the 'Give this operator access to DBS records?' tick box
+![52.8 DBS Check Recording - step 24](52.8_DBS_Check_Recording_im_24.png)
+
+7. Scroll down and click 'save'
+![52.8 DBS Check Recording - step 25](52.8_DBS_Check_Recording_im_25.png)
+
+8. You should see the 'DBS Access' column in the operator table has now updated to 'Yes'
+![52.8 DBS Check Recording - step 26](52.8_DBS_Check_Recording_im_26.png)
 
 
-### {{Safeguarding}} / DBS Home Page Tab
+### {{Safeguarding}} / DBS Home Page Section
 
-Operators at Manager level and above may view DBS checks to the home page. This tab lists newly raised 
-{{safeguarding case}}s and DBS Checks that expire within the next month (or other period set in global settings).
+Operators at Manager level and above may view DBS checks and {{safeguarding case}}s on the home page. This section 
+lists newly raised {{safeguarding case}}s and DBS Checks that expire within the next month (or other period set in 
+global settings, for more on this see [138 Safeguarding Module Setup](/help/index/p/138)).
+
+To view this:
+
+1. Click 'Home'
+![52.8 DBS Check Recording - step 27](52.8_DBS_Check_Recording_im_27.png)
+
+2. Go to 'My tasks' box
+![52.8 DBS Check Recording - step 28](52.8_DBS_Check_Recording_im_28.png)
+
+3. This will list any DBS checks expiring (you may need to scroll down to the 'Future tasks' section of 'My tasks')
+![52.8 DBS Check Recording - step 29](52.8_DBS_Check_Recording_im_29.png)
+
+4. If you click on 'DBS Check Reminder' it will show when it is due to expire
+![52.8 DBS Check Recording - step 30](52.8_DBS_Check_Recording_im_30.png)
+![52.8 DBS Check Recording - step 31](52.8_DBS_Check_Recording_im_31.png)
+
 
 ### {{Safeguarding}} Dashboard
 
-A DBS status summary can be viewed on the {{Safeguarding}} Dashboard. This lists profiles that have expiring DBS checks,
-and also profiles that don't have one at all.
+A DBS status summary can be viewed on the {{Safeguarding}} Dashboard. This lists profiles that have expiring DBS checks
+and also profiles that don't have one at all. For more on this see [52.5 Safeguarding Dashboard](/help/index/p/52.5)).
 
 ### All DBS Checks Carried out
 
-A list of all DBS checks can be viewed via the system admin menu. Go to Admin > System Administration on the main menu.
-Then 'View all DBS Check records' in 'Database Operators And Security'. To see all profiles and their DBS status, click 
-'View list of profiles and their DBS Check status' in the same place.
+A list of all DBS checks can be viewed via the system admin menu. To do this:
 
+1. Click on your initials in the top right-hand corner of the screen
+![52.8 DBS Check Recording - step 32](52.8_DBS_Check_Recording_im_19.png)
+
+2. Click 'System admin'
+![52.8 DBS Check Recording - step 33](52.8_DBS_Check_Recording_im_20.png)
+
+3. Click 'View all DBS Check records' in the 'Database Operators And Security' box
+![52.8 DBS Check Recording - step 34](52.8_DBS_Check_Recording_im_34.png)
+
+4. This will list all DBS checks in a table 
+![52.8 DBS Check Recording - step 35](52.8_DBS_Check_Recording_im_35.png)
+
+5. From here they can be edited or viewed using the context menu or right-clicking on the relevant DBS check
+![52.8 DBS Check Recording - step 36](52.8_DBS_Check_Recording_im_36.png)
+
+A list of all profiles with their DBS check status can also be viewed via the system admin menu. To do this:
+
+1. Click on your initials in the top right-hand corner of the screen
+![52.8 DBS Check Recording - step 37](52.8_DBS_Check_Recording_im_19.png)
+
+2. Click 'System admin'
+![52.8 DBS Check Recording - step 38](52.8_DBS_Check_Recording_im_20.png)
+
+3. Click 'View list of profiles and their DBS Check status' in the 'Database Operators And Security' box
+![52.8 DBS Check Recording - step 39](52.8_DBS_Check_Recording_im_37.png)
+
+4. This will list all profiles with information about any DBS checks in a table
+![52.8 DBS Check Recording - step 40](52.8_DBS_Check_Recording_im_38.png)
 
 ###### safeguarding module
