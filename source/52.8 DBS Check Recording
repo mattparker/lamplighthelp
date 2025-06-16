@@ -99,23 +99,40 @@ providing them with full access to {{safeguarding case}}s.  To do this:
 
 Operators at Manager level and above may view DBS checks and {{safeguarding case}}s on the home page. This section 
 lists newly raised {{safeguarding case}}s and DBS Checks that expire within the next month (or other period set in 
-global settings, for more on this see [138 Safeguarding Module Setup](/help/index/p/138)).
+global settings, for more on this see [138 Safeguarding Module Setup](/help/index/p/138)). If you cannot see this section on your
+home page your system admins may need to set it up to be visible (for more on this see [103 Creating and Editing Operator 
+templates](/help/index/p/103)).
 
-To view this:
+To view newly raised {{safeguarding case}}s and expiring DBS checks:
 
 1. Click 'Home'
 ![52.8 DBS Check Recording - step 27](52.8_DBS_Check_Recording_im_27.png)
 
+2. Click on 'Safeguarding and DBS Checks' (you may need to scroll down the page to find this)
+
+3. UP TO HERE PENDING QUESTION *********
+
+
+Expiring DBS checks can also be viewed in the 'My tasks' section of the home page. If you do not have the 'My tasks' section
+on your home page your system admins may need to set it up to be visible (for more on this see [103 Creating and Editing 
+Operator templates](/help/index/p/103)).
+
+To view expiring DBS checks in the 'My tasks' section:
+
+1. Click 'Home'
+![52.8 DBS Check Recording - step ???](52.8_DBS_Check_Recording_im_27.png)
+
 2. Go to 'My tasks' box
-![52.8 DBS Check Recording - step 28](52.8_DBS_Check_Recording_im_28.png)
+![52.8 DBS Check Recording - step ???](52.8_DBS_Check_Recording_im_28.png)
 
 3. This will list any DBS checks expiring (you may need to scroll down to the 'Future tasks' section of 'My tasks')
-![52.8 DBS Check Recording - step 29](52.8_DBS_Check_Recording_im_29.png)
+![52.8 DBS Check Recording - step ???](52.8_DBS_Check_Recording_im_29.png)
 
 4. If you click on 'DBS Check Reminder' it will show when it is due to expire
-![52.8 DBS Check Recording - step 30](52.8_DBS_Check_Recording_im_30.png)
-![52.8 DBS Check Recording - step 31](52.8_DBS_Check_Recording_im_31.png)
+![52.8 DBS Check Recording - step ???](52.8_DBS_Check_Recording_im_30.png)
+![52.8 DBS Check Recording - step ???](52.8_DBS_Check_Recording_im_31.png)
 
+******NEED TO RENAME PICS ABOVE AND BELOW AND ADD PICS IN AS SHUFFLED ROUND*****
 
 ### {{Safeguarding}} Dashboard
 
