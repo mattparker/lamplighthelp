@@ -1,15 +1,61 @@
 # 35.14 <i class="fa fa-chart-line"></i>  {{Volunteering Opportunity}} and {{Volunteering Application}} {{Report}}s
 
-> You can create {{report}}s from information entered in the Matching Module. This will show you the numbers of 
+> You can create {{report}}s from information entered in the {{Matching}} Module. This will show you the numbers of 
 {{volunteering opportunity}} records, the number of {{volunteering application}} records and how many have been matched.
 
 *** UP TO HERE ***
 
-You will see in the {{report}}s submenu two {{report}}s for the Matching Module: a {{volunteering opportunity}} and a {{volunteering application}} {{report}}.  These are very similar and both are covered below.
+To run a {{report}} for the {{Matching}} Module:
 
-### Running the {{report}}
+1. Go to {{Report}}s
+![35.14 {{Volunteering Opportunity}} and {{Volunteering Application}} {{Report}}s - step 1](35.14_Volunteering_Opportunity_and_Volunteering_Application_Reports_im_1.png)
 
-Go to {{report}}s > more... > {{volunteering opportunity}}.  You will see the [standard {{report}} filters](/help/index/p/14.1.1) and [{{report}} presentation](/help/index/p/14.1.4) tabs.  Change any filters or presentation options you require, and click 'run report'.
+2. At the top of the page you will see all the different types of {{report}} listed. For the {{Matching}} Module there are two options:
+  - {{volunteering opportunity}} {{report}}
+  - {{volunteering application}} {{report}}
+![35.14 {{Volunteering Opportunity}} and {{Volunteering Application}} {{Report}}s - step 2](35.14_Volunteering_Opportunity_and_Volunteering_Application_Reports_im_2.png)
+
+To run a {{volunteering opportunity report}}:
+
+1. Select '{{volunteering opportunity}} {{report}}'
+![35.14 {{Volunteering Opportunity}} and {{Volunteering Application}} {{Report}}s - step 3](35.14_Volunteering_Opportunity_and_Volunteering_Application_Reports_im_3.png)
+
+2. Like other {{report}}s you have the the option to,
+
+    - create a new {{report}} using your own critera
+    - view an existing {{report}} template (if there are templates set up in your system)
+    - create a new {{report}} template (if you are a system admin)
+
+For more information on these three options see [35.1 {{Work}} {{Report}}s Overview](/help/index/p/35.1).
+For more information on how to create {{report}} templates see [37 Reporting from Templates](/help/index/p/37).
+
+4. Select the option 'New {{volunteering opportunity}} {{report}} using your own criteria'
+
+5. Select the timeframe you would like to report on using the two date fields
+
+6. Next click on '{{Report}} filters' and select the filters you would like included in your {{report}} 
+
+7. These filters are the same as for other {{report}}s (see [14.1.1 {{Report}} Filters](/help/index/p/14.1.1))
+
+Note, if you do not choose anything from these fields then your {{report}} will return all information. It is only when you pick an 
+option that {{Lamplight}} filters the information it returns.
+
+8. Click on '{{Report}} presentation' to choose how to display your data (for more on the different options see [36.3 {{Report}} Presentation](/help/index/p/36.3))
+
+9. The options for 'Data to show' are specific to the {{Matching}} Module and are,
+
+  - 'All summary data (will ignore column selection above)'
+  - 'Number of opportunities'
+  - 'Number of providers'
+  - 'Open opportunities'
+  - 'Number of applications'
+  - 'Number of applicants'
+
+10. Click 'run {{report}}'
+
+11. NEED TO PUT RECORD IN (PENDING QN) TO SEE WHAT REOPRT LOOKS LIKE
+
+***UP TO HERE*** GET PICS IN AND FINISH STEPS ABOVE AND BELOW (PENDING QNS)
 
 The {{volunteering opportunity}} {{report}} will give you a table similar to this:
 
