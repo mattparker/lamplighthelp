@@ -1,0 +1,100 @@
+# 35.16  <i class="fa fa-chart-line"></i>   {{Staff}} Timesheet {{Report}}
+
+> {{Staff}} timesheet {{report}}s provide a breakdown of how {{staff}} time is spent, captured through the {{Staff}} Management Module.
+
+
+Information for {{staff}} timesheet {{report}}s is taken from {{work}} records. It can show you in detail how 
+much time has been spent with different {{user}}s by members of {{staff}} and doing what.
+
+To Run a {{Staff}} Timesheet {{Report}}:
+
+1. Go to {{Report}}s 
+![35.16 {{Staff}} Timesheet {{Report}} - step 1](35.16_Staff_Timesheet_Report_im_1.png)
+
+2. At the top of the page you will see all the different types of {{report}} listed, select {{staff}} timesheet {{report}}
+![35.16 {{Staff}} Timesheet {{Report}} - step 2](35.16_Staff_Timesheet_Report_im_2.png)
+
+3. Like other {{report}}s you have the the option to,
+
+    - create a new {{report}} using your own critera
+    - view an existing {{report}} template (if there are templates set up in your system)
+    - create a new {{report}} template (if you are a system admin)
+![35.16 {{Staff}} Timesheet {{Report}} - step 3](35.16_Staff_Timesheet_Report_im_3.png)
+
+For more information on these three options see [35.1 {{Work}} {{Report}}s Overview](/help/index/p/35.1).
+For more information on how to create {{report}} templates see [37 Reporting from Templates](/help/index/p/37).
+
+4. Select the option 'New {{staff}} timesheet {{report}} using your own criteria'
+![35.16 {{Staff}} Timesheet {{Report}} - step 4](35.16_Staff_Timesheet_Report_im_4.png)
+
+5. Select the timeframe you would like to report on using the two date fields
+![35.16 {{Staff}} Timesheet {{Report}} - step 5](35.16_Staff_Timesheet_Report_im_5.png)
+
+6. Next click on '{{Report}} filters' and select the filters you would like included in your {{report}} 
+![35.16 {{Staff}} Timesheet {{Report}} - step 6](35.16_Staff_Timesheet_Report_im_6.png)
+
+7. These filters are the same as for other {{report}}s (see [14.1.1 {{Report}} Filters](/help/index/p/14.1.1))
+
+Note, if you do not choose anything from these fields then your {{report}} will return all information. It is only when you pick an 
+option that {{Lamplight}} filters the information it returns.
+
+8. Click on '{{Report}} presentation' to choose how to display your data
+![35.16 {{Staff}} Timesheet {{Report}} - step 7](35.16_Staff_Timesheet_Report_im_7.png)
+
+9. The first field 'How to split tables' allows you to separate the data in the following ways,
+![35.16 {{Staff}} Timesheet {{Report}} - step 8](35.16_Staff_Timesheet_Report_im_8.png)
+
+  - 'No split: Single summary table': this displays the data in a single table
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 9](35.16_Staff_Timesheet_Report_im_9.png)
+
+  - 'Split tables by date': this displays the data in separate tables for each month 
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 10](35.16_Staff_Timesheet_Report_im_10.png)
+
+  - 'Split tables by {{staff}} name': this displays the data in separate tables for each {{staff}} member
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 11](35.16_Staff_Timesheet_Report_im_11.png)
+
+  - 'Split tables by {{client}}': this displays the data in separate tables for each {{client}}
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 12](35.16_Staff_Timesheet_Report_im_12.png)
+
+10. The next field 'Row data' allows you to choose what is shown in your rows from the following options,
+
+  - 'Months'
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 13](35.16_Staff_Timesheet_Report_im_13.png)
+
+  - '{{Staff}} name'
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 14](35.16_Staff_Timesheet_Report_im_14.png)
+
+  - '{{Workarea}}s'
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 15](35.16_Staff_Timesheet_Report_im_15.png)
+
+  - '{{Sub workarea}}s'
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 16](35.16_Staff_Timesheet_Report_im_16.png)
+
+  - '{{Client}}s'
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 17](35.16_Staff_Timesheet_Report_im_17.png)
+
+  - '{{Client}}s and {{Sub workarea}}s'
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 18](35.16_Staff_Timesheet_Report_im_18.png)
+
+11. The next field 'Column data' allows you to choose what is shown in your columns from the following options,
+
+  - 'Months'
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 19](35.16_Staff_Timesheet_Report_im_19.png)
+
+  - 'Weeks'
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 20](35.16_Staff_Timesheet_Report_im_20.png)
+
+  - 'Days'
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 21](35.16_Staff_Timesheet_Report_im_21.png)
+
+  - '{{Workarea}}s'
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 22](35.16_Staff_Timesheet_Report_im_22.png)
+
+  - '{{Sub workarea}}s' (THROWING AN ERROR IN LL!!) - *****UP TO HERE*****
+
+12. Click 'run report'
+
+13. You will see a table like one of the above, depending on your selection for '{{Report}} Presentation
+
+
+###### staff module
