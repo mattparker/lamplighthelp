@@ -3,8 +3,6 @@
 > You can create {{report}}s from information entered in the {{Matching}} Module. This will show you the numbers of 
 {{volunteering opportunity}} records, the number of {{volunteering application}} records and how many have been matched.
 
-*** UP TO HERE ***
-
 To run a {{report}} for the {{Matching}} Module:
 
 1. Go to {{Report}}s
@@ -53,15 +51,18 @@ option that {{Lamplight}} filters the information it returns.
 
 10. Click 'run {{report}}'
 
-11. NEED TO PUT RECORD IN (PENDING QN) TO SEE WHAT REOPRT LOOKS LIKE
+11. NEED TO PUT RECORD IN (PENDING QN) TO SEE WHAT REPORT LOOKS LIKE
+
+
+To run a {{volunteering application}} {{report}} follow the same steps as above but for {{volunteering application}} {{report}}.
+
 
 ***UP TO HERE*** GET PICS IN AND FINISH STEPS ABOVE AND BELOW (PENDING QNS)
 
-The {{volunteering opportunity}} {{report}} will give you a table similar to this:
 
-![{{Volunteering opportunity}} sample {{report}}](15.3a.png)
-
-A single {{opportunity provider}} may have several {{volunteering opportunity}} records; this is the difference between the first two data columns.  Similarly, one {{volunteering applicant}} may have many {{volunteering application}} records: this explains the difference between the last two columns.
+A single {{opportunity provider}} may have several {{volunteering opportunity}} records; this is the difference 
+between the first two data columns.  Similarly, one {{volunteering applicant}} may have many {{volunteering application}} 
+records: this explains the difference between the last two columns.
 
 The {{volunteering application}} {{report}} will give a table similar to this:
 
