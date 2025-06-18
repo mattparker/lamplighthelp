@@ -9,33 +9,41 @@ there are several tabs that let you define how your data is filtered and present
 To Run a {{Waiting List}} {{Report}}:
 
 1. Go to {{Report}}s 
+![35.17 The {{Waiting List}} {{Report}} - step 1](35.17_The_Waiting_List_Report_im_1.png)
 
 2. At the top of the page you will see all the different types of {{report}} listed, select {{waiting list}} {{report}}
+![35.17 The {{Waiting List}} {{Report}} - step 2](35.17_The_Waiting_List_Report_im_2.png)
 
 3. Like other {{report}}s you have the the option to,
 
     - create a new {{report}} using your own critera
     - view an existing {{report}} template (if there are templates set up in your system)
     - create a new {{report}} template (if you are a system admin)
+![35.17 The {{Waiting List}} {{Report}} - step 3](35.17_The_Waiting_List_Report_im_3.png)
 
 For more information on these three options see [35.1 {{Work}} {{Report}}s Overview](/help/index/p/35.1).
 For more information on how to create {{report}} templates see [37 Reporting from Templates](/help/index/p/37).
 
 4. Select the option 'New {{waiting list}} {{report}} using your own criteria'
+![35.17 The {{Waiting List}} {{Report}} - step 4](35.17_The_Waiting_List_Report_im_4.png)
 
 5. Select the timeframe you would like to report on using the two date fields (you will be able to choose how these dates are
 handled later on in '{{Report}} Presentation')
+![35.17 The {{Waiting List}} {{Report}} - step 5](35.17_The_Waiting_List_Report_im_5.png)
 
 6. Next click on '{{Report}} filters' and select the filters you would like included in your {{report}} 
+![35.17 The {{Waiting List}} {{Report}} - step 6](35.17_The_Waiting_List_Report_im_6.png)
 
 7. The majority of these filters are the same as for other {{report}}s (see [14.1.1 {{Report}} Filters](/help/index/p/14.1.1)) except
 for the 'Show only waiting lists' field at the bottom which allows you to select which {{waiting list}}s you would like to report on (to
 select more than one {{waiting list}} hold down ctrl on your keyboard and select the relevant {{waiting list}}s)
+![35.17 The {{Waiting List}} {{Report}} - step 7](35.17_The_Waiting_List_Report_im_7.png)
 
 Note, if you do not choose anything from these fields then your {{report}} will return all information. It is only when you pick an 
 option that {{Lamplight}} filters the information it returns.
 
 8. Click on '{{Report}} presentation' to choose how to display your data
+![35.17 The {{Waiting List}} {{Report}} - step 8](35.17_The_Waiting_List_Report_im_8.png)
 
 9. The first field 'How to summarise the data' allows you to summarise the data in the following ways,
 
@@ -84,7 +92,7 @@ Note, if you have more than one {{project}} on your system you will also be able
 draw data from (for more on this see [36.2 {{Report}}s Across Several {{Project}}s](/help/index/p/36.2)).
 
 
-****** UP TO HERE - NEED TO RUN REPORT AND CHECK POINTS 9 AND 10 ARE CORRECT BUT CURRENTLY GETTING AN ERROR AND ADD PICS *****
+****** UP TO STEP 9 - NEED TO RUN REPORT AND CHECK POINTS 9 AND 10 ARE CORRECT BUT CURRENTLY GETTING AN ERROR AND ADD PICS *****
 
 
 ##### Tags
