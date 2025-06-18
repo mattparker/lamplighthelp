@@ -90,9 +90,11 @@ option that {{Lamplight}} filters the information it returns.
   - '{{Workarea}}s'
   ![35.16 {{Staff}} Timesheet {{Report}} - step 22](35.16_Staff_Timesheet_Report_im_22.png)
 
-  - '{{Sub workarea}}s' (THROWING AN ERROR IN LL!!) - *****UP TO HERE*****
+  - '{{Sub workarea}}s'
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 23](35.16_Staff_Timesheet_Report_im_23.png)
 
 12. Click 'run report'
+  ![35.16 {{Staff}} Timesheet {{Report}} - step 24](35.16_Staff_Timesheet_Report_im_24.png)
 
 13. You will see a table like one of the above, depending on your selection for '{{Report}} Presentation
 
