@@ -50,22 +50,48 @@ option that {{Lamplight}} filters the information it returns.
     - 'Show overall statistics for the period' - this is the default option, giving you a sense of turnover and total waiting 
     times and returns the following data for each {{waiting list}} selected:
 
-        - Number of {{people}} at the start of the period: the number of {{people}} on the {{waiting list}} on the first day in the range specified
-        - Number joining the {{waiting list}} in the period: number of {{people}} added between the two dates
-        - Number leaving the {{waiting list}} in the period: number of {{people}} taken off between the two dates
-        - Total number of different {{people}}: one {{person}} may be on the same {{waiting list}} more than once in the date range but they will only be counted once in this column
-        - The mean time spent on {{waiting list}}: the amount of time spent on the {{waiting list}} up until the specific 'date to', averaged across everyone (this figure changes depending on the 'date to' that you set)
-        - The mean time spent on {{waiting list}} (weekdays): a similar calculation to the one above excluding weekends (but not bank holidays etc.)
-    
+        - Name of each {{waiting list}}
+        ![35.17 The {{Waiting List}} {{Report}} - step 9](35.17_The_Waiting_List_Report_im_9.png)
+
+        - Number on the {{waiting list}} at start of period: number on the {{waiting list}} on the first day in the range specified
+        ![35.17 The {{Waiting List}} {{Report}} - step 10](35.17_The_Waiting_List_Report_im_10.png)
+
+        - Number joining the {{waiting list}} in the period: number added between the two dates
+        ![35.17 The {{Waiting List}} {{Report}} - step 11](35.17_The_Waiting_List_Report_im_11.png)
+
+        - Number leaving the {{waiting list}} in the period: number taken off between the two dates
+        ![35.17 The {{Waiting List}} {{Report}} - step 12](35.17_The_Waiting_List_Report_im_12.png)
+
+        - Number on the {{waiting list}} at end of period: number on the {{waiting list}} on last day in the range specified
+        ![35.17 The {{Waiting List}} {{Report}} - step 13](35.17_The_Waiting_List_Report_im_13.png)
+
+        - Total number of different {{profile}}: one {{profile}} may be on the same {{waiting list}} more than once in the date range but they will only be counted once in this column
+        ![35.17 The {{Waiting List}} {{Report}} - step 14](35.17_The_Waiting_List_Report_im_14.png)
+
+        - Mean time spent on {{waiting list}}: the amount of time spent on the {{waiting list}} up until the specific 'date to', averaged across everyone (this figure changes depending on the 'date to' that you set)
+        ![35.17 The {{Waiting List}} {{Report}} - step 15](35.17_The_Waiting_List_Report_im_15.png)
+
+        - Mean time spent on {{waiting list}} (weekdays): a similar calculation to the one above excluding weekends (but not bank holidays etc.)
+        ![35.17 The {{Waiting List}} {{Report}} - step 16](35.17_The_Waiting_List_Report_im_16.png)
+
+        - Number of different {{profile}} on {{waiting list}} longer than the target time: for more on how to set this target time see [50.1 Waiting Lists Module Create a New Waiting {{Group}}](/help/index/p/50.1) 
+        ![35.17 The {{Waiting List}} {{Report}} - step 17](35.17_The_Waiting_List_Report_im_17.png)
+
     - 'Weekly showing average size of {{waiting list}}' - this shows you how demand for your services has varied week-by-week and returns the following data: 
 
         - A table listing the different {{waiting list}}s down the side and the weeks along the top
+        ![35.17 The {{Waiting List}} {{Report}} - step 18](35.17_The_Waiting_List_Report_im_18.png)
+
         - Each figure in the table is the average number of {{people}} on the {{waiting list}} each week ({{Lamplight}} calculates these 
         figures by checking how many {{people}} were on the {{waiting list}} each day and averaging this over the number of days in the week)
-        - A graph showing the same data
+        ![35.17 The {{Waiting List}} {{Report}} - step 19](35.17_The_Waiting_List_Report_im_19.png)
+
+        - {{Lamplight}} also calculates the overall average, maximum value and minimum value for each week 
+        ![35.17 The {{Waiting List}} {{Report}} - step 20](35.17_The_Waiting_List_Report_im_20.png)
 
     - 'Monthly showing average size of {{waiting list}}' - this shows you how demand for your services has varied month-by-month 
     and returns the same data as for 'Weekly showing average size of {{waiting list}}' but for months rather than weeks
+    ![35.17 The {{Waiting List}} {{Report}} - step 21](35.17_The_Waiting_List_Report_im_21.png)
 
 10. The second field 'How to handle dates' allows you to choose how the two dates chosen at the start of the {{report}} 
 should be handled from the following options,
@@ -75,24 +101,27 @@ should be handled from the following options,
         - {{People}} who were on it before the start and after the end date
         - {{People}} who were put on it during the time period
         - {{People}} who were on it at some point during the time period but were taken off before the end date
+    ![35.17 The {{Waiting List}} {{Report}} - step 22](35.17_The_Waiting_List_Report_im_22.png)
 
   - 'Show for everyone added to the {{waiting list}} between the two dates' - this will include:
         - {{People}} who were added to the {{waiting list}} between the two dates and were still on it after the end date
         - {{People}} who were added and left between the two dates
+    ![35.17 The {{Waiting List}} {{Report}} - step 23](35.17_The_Waiting_List_Report_im_23.png)
 
   - 'Show for everyone removed from the {{waiting list}} between the two dates' - this will include:
         - {{People}} who were already on the {{waiting list}} before the start date but left between the two dates
         - {{People}} who were added between the two dates and left again
+    ![35.17 The {{Waiting List}} {{Report}} - step 24](35.17_The_Waiting_List_Report_im_24.png)
 
 11. The third field 'Row data' is the same as the 'Row data' field in other reports, for more on this see [36.3 {{Report}} Presentation](/help/index/p/36.3)
+    ![35.17 The {{Waiting List}} {{Report}} - step 25](35.17_The_Waiting_List_Report_im_25.png)
 
 12. Click 'run report'
+    ![35.17 The {{Waiting List}} {{Report}} - step 26](35.17_The_Waiting_List_Report_im_26.png)
 
 Note, if you have more than one {{project}} on your system you will also be able to select which {{project}}s you would like to 
 draw data from (for more on this see [36.2 {{Report}}s Across Several {{Project}}s](/help/index/p/36.2)).
 
-
-****** UP TO STEP 9 - NEED TO RUN REPORT AND CHECK POINTS 9 AND 10 ARE CORRECT BUT CURRENTLY GETTING AN ERROR AND ADD PICS *****
 
 
 ##### Tags
