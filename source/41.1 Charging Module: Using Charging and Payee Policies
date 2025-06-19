@@ -9,26 +9,44 @@ To add charging and payee policies to {{work}} records:
 see [7 Work Records - Adding New](/help/index/p/7))
 
 2. Go to the 'Charges' tab
+![41.1 {{Charging}} Module: Using Charging and Payee Policies - step 1](41.1_Charging_Module-_Using_Charging_and_Payee_Policies_im_1.png)
 
 3. You will see two dropdowns: 
 
-    - 'select charging policy for this record' 
+    - 'select charging policy for this record'
+    ![41.1 {{Charging}} Module: Using Charging and Payee Policies - step 2](41.1_Charging_Module-_Using_Charging_and_Payee_Policies_im_2.png)
+
     - 'select payee policy for this record'
+    ![41.1 {{Charging}} Module: Using Charging and Payee Policies - step 3](41.1_Charging_Module-_Using_Charging_and_Payee_Policies_im_3.png)
 
 4. If the dropdowns are empty you will need to create some policies (for more information on this see 
 [125.2 {{Charging}} Module: Setting Up Rules and Policies](/help/index/p/125.2)
 
-*** UP TO HERE *** - ASK HANNAH WHY IT'S REFERRED OT AS CHARGES MODULE IN OLD HELP AND S/S AS CALLED CHARGING MODULE IN SYSTEM
+5. If you can see policies select the ones you wish to use for this {{work}} record from the dropdowns
+![41.1 {{Charging}} Module: Using Charging and Payee Policies - step 4](41.1_Charging_Module-_Using_Charging_and_Payee_Policies_im_4.png)
+![41.1 {{Charging}} Module: Using Charging and Payee Policies - step 5](41.1_Charging_Module-_Using_Charging_and_Payee_Policies_im_5.png)
 
-- If you can see policies, select the ones you wish to use for this {{work}} record from the dropdowns. 
-- When you save the record {{Lamplight}} will calculate charges for each person listed on the attendance tab, and then determine who will pay them. 
-- When you save the record you will see this information in summary in the attendance table: 
+6. When you save the record {{Lamplight}} will calculate charges for each person listed on the attendance tab and then 
+determine who will pay them
 
-![Viewing charges and payees in a {{work}} record](20.6.0b.png)
+7. You can view this information in summary in the attendance table in the following colunms,
 
-Because the 'other payees' may be any number of {{people}}, they are combined into one column for this view. See section [20.6.1 Viewing payments due from a particular {{person}}](/help/index/p/20.6.1) for help on seeing how charges are allocated. 
+    - 'Charge'
+    ![41.1 {{Charging}} Module: Using Charging and Payee Policies - step 6](41.1_Charging_Module-_Using_Charging_and_Payee_Policies_im_6.png)
 
-If you later edit or delete this record, the charges and payees may also change. If the payments due change, {{Lamplight}} will either update them, or create a credit if the charge has already been invoiced (see section [20.6.2 Creating invoices in bulk](/help/index/p/20.6.2)). 
+    - 'Payments due from attendee'
+    ![41.1 {{Charging}} Module: Using Charging and Payee Policies - step 7](41.1_Charging_Module-_Using_Charging_and_Payee_Policies_im_7.png)
+
+    - 'Payments due from others'
+    ![41.1 {{Charging}} Module: Using Charging and Payee Policies - step 8](41.1_Charging_Module-_Using_Charging_and_Payee_Policies_im_8.png)
+
+
+Note because the 'Payments due from others' may be any number of {{profile}}s they are combined into one column for this view. For
+more on this see section [41.2 {{Charging}} Module: Viewing payments due](/help/index/p/41.2).
+
+If you later edit or delete this record the charges and payees may also change. If the payments due change {{Lamplight}} will 
+either update them or create a credit if the charge has already been invoiced (see section [41.3 {{Charging}} Module: Creating 
+invoices](/help/index/p/20.6.2)). 
 
 
 ###### charge module
