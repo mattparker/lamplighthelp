@@ -1,0 +1,34 @@
+# 41.1 {{Charging}} Module: Using Charging and Payee Policies
+
+> Charging and payee policies are used when you create {{work}} records.
+
+
+To add charging and payee policies to {{work}} records:
+
+1. Create a new {{work}} record and fill it out as you normally would (for more information on how to do this 
+see [7 Work Records - Adding New](/help/index/p/7))
+
+2. Go to the 'Charges' tab
+
+3. You will see two dropdowns: 
+
+    - 'select charging policy for this record' 
+    - 'select payee policy for this record'
+
+4. If the dropdowns are empty you will need to create some policies (for more information on this see 
+[125.2 {{Charging}} Module: Setting Up Rules and Policies](/help/index/p/125.2)
+
+*** UP TO HERE *** - ASK HANNAH WHY IT'S REFERRED OT AS CHARGES MODULE IN OLD HELP AND S/S AS CALLED CHARGING MODULE IN SYSTEM
+
+- If you can see policies, select the ones you wish to use for this {{work}} record from the dropdowns. 
+- When you save the record {{Lamplight}} will calculate charges for each person listed on the attendance tab, and then determine who will pay them. 
+- When you save the record you will see this information in summary in the attendance table: 
+
+![Viewing charges and payees in a {{work}} record](20.6.0b.png)
+
+Because the 'other payees' may be any number of {{people}}, they are combined into one column for this view. See section [20.6.1 Viewing payments due from a particular {{person}}](/help/index/p/20.6.1) for help on seeing how charges are allocated. 
+
+If you later edit or delete this record, the charges and payees may also change. If the payments due change, {{Lamplight}} will either update them, or create a credit if the charge has already been invoiced (see section [20.6.2 Creating invoices in bulk](/help/index/p/20.6.2)). 
+
+
+###### charge module
