@@ -1,0 +1,23 @@
+# 109 <i class="fas fa-exchange-alt"></i> {{Profile}}s - Uploading Profile Data to {{Lamplight}} (System Admin)
+
+> Profile information can be uploaded in bulk to {{Lamplight}}.
+
+
+In {{Lamplight}} we identify two different types of information:
+
+1. Information you hold about people and {{org}}s, for example gender and address
+
+2. Information you hold about the activities that you do with them, for example {{referral}} information and {{case}} notes
+
+
+Your System Administrators can import the first type of information (about {{people}} and {{org}}s) using an Excel spreadsheet. The 
+second type of information (about activities) is more complex and will need to be imported by Lamplight (please contact us at 
+[hello@lamplightdb.co.uk](mailto:hello@lamplightdb.co.uk) if you need more information).
+
+To get started with uploading profile information about people and {{org}}s see [109.1 Preparing Profile Information to 
+Import to Lamplight](/help/index/p/109.1).
+
+##### Tags
+Advanced topics
+
+###### core module
